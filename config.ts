@@ -18,25 +18,25 @@ export const META_LKOD = {
 	contact_name: 'ARR - Agentura regionálního rozvoje, spol. s r.o.',
 	contact_email: 'k.tichy@arr-nisa.cz',
 	themes: {
-		'Obecná charakteristika': ['REGI', 'GOVE']
+		'Obecná charakteristika': ['REGI', 'GOVE', 'INTR']
 		'Kraj jako instituce': ['GOVE', 'ECON']
 		'Zaměstnanost a pracovní trh': ['ECON','SOCI']
-		'Podníkání, výzkum, vývoj a inovace': ['ECON', 'TECH']
-		'Cestovní ruch': ['ECON','EDUC']
-		'Sport': ['SOCI', 'EDUC']
+		'Podníkání, výzkum, vývoj a inovace': ['TECH']
+		'Cestovní ruch': ['EDUC']
+		'Sport': ['EDUC']
 		'Kultura a kulturní dědicství':['EDUC']
 		'Doprava': ['TRAN']
-		'Technická infrastruktura': ['TECH', 'TRAN']
-		'Vzdělání': ['SOCI', 'EDUC']
-		'Zdravotníctví a zdraví': ['SOCI' ,'HEAL']
+		'Technická infrastruktura': ['TECH']
+		'Vzdělání': ['EDUC']
+		'Zdravotníctví a zdraví': ['HEAL']
 		'Sociální oblast': ['SOCI']
 		'Bezpečnost': ['JUST']
 		'Správa a rozvoj území': ['REGI']
-		'Města a bydlení': ['ECON', 'REGI']
-		'Venkov': ['REGI', 'SOCI']
+		'Bydlení': ['REGI']
+		'Města a venkov': ['REGI', 'GOVE']
 		'Životní prostředí': ['ENVI']
 		'Příroda a krajina': ['ENVI']
-		'Zemědělství': ['ENVI', 'ECON']
+		'Zemědělství': ['ENVI', 'AGRI']
 	} as Record<string, string[]>,
 	periodicity: {
 		'000': 'UNKNOWN',
