@@ -1,6 +1,6 @@
 import path from "path";
 
-export const ARCGIS_URL = 'https://www.datalk.cz/data.json';
+export const ARCGIS_URL = 'https://www.datakhk.cz/data.json';
 export const ARCGIS_FILE = path.resolve(__dirname, 'data/arcgis.json');
 
 export const DTO_FILE = path.resolve(__dirname, 'data/dto.json');
@@ -18,25 +18,25 @@ export const META_LKOD = {
 	contact_name: 'ARR - Agentura regionálního rozvoje, spol. s r.o.',
 	contact_email: 'k.tichy@arr-nisa.cz',
 	themes: {
-		'Obecná charakteristika': ['REGI', 'GOVE', 'INTR']
-		'Kraj jako instituce': ['GOVE', 'ECON']
-		'Zaměstnanost a pracovní trh': ['ECON','SOCI']
-		'Podníkání, výzkum, vývoj a inovace': ['TECH']
-		'Cestovní ruch': ['EDUC']
-		'Sport': ['EDUC']
-		'Kultura a kulturní dědicství':['EDUC']
-		'Doprava': ['TRAN']
-		'Technická infrastruktura': ['TECH']
-		'Vzdělání': ['EDUC']
-		'Zdravotníctví a zdraví': ['HEAL']
-		'Sociální oblast': ['SOCI']
-		'Bezpečnost': ['JUST']
-		'Správa a rozvoj území': ['REGI']
-		'Bydlení': ['REGI']
-		'Města a venkov': ['REGI', 'GOVE']
-		'Životní prostředí': ['ENVI']
-		'Příroda a krajina': ['ENVI']
-		'Zemědělství': ['ENVI', 'AGRI']
+		'Obecná charakteristika': ['REGI', 'GOVE', 'INTR'],
+		'Kraj jako instituce': ['GOVE', 'ECON'],
+		'Zaměstnanost a pracovní trh': ['ECON','SOCI'],
+		'Podníkání, výzkum, vývoj a inovace': ['TECH'],
+		'Cestovní ruch': ['EDUC'],
+		'Sport': ['EDUC'],
+		'Kultura a kulturní dědicství':['EDUC'],
+		'Doprava': ['TRAN'],
+		'Technická infrastruktura': ['TECH'],
+		'Vzdělání': ['EDUC'],
+		'Zdravotníctví a zdraví': ['HEAL'],
+		'Sociální oblast': ['SOCI'],
+		'Bezpečnost': ['JUST'],
+		'Správa a rozvoj území': ['REGI'],
+		'Bydlení': ['REGI'],
+		'Města a venkov': ['REGI', 'GOVE'],
+		'Životní prostředí': ['ENVI'],
+		'Příroda a krajina': ['ENVI'],
+		'Zemědělství': ['ENVI', 'AGRI'],
 	} as Record<string, string[]>,
 	periodicity: {
 		'000': 'UNKNOWN',
