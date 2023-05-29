@@ -1,0 +1,64 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datalk.cz/b6bc93b76c1f4c6fb0fa0a08f17fb13f.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Spotřeba zemního plynu v domácnostech na 1 odběratele"
+  },
+  "popis": {
+    "cs": "Spotřeba zemního plynu v domácnostech na 1 odběratele a množství odběratelů. Kategorie domácnost – fyzická osoba, která odebírá plyn k uspokojování své osobní potřeby související s bydlením nebo osobních potřeb členů její domácnostiVizualizace"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "0142",
+      "spotřeba",
+      "plyn",
+      "domácnost",
+      "odběratel"
+    ]
+  },
+  "téma": [],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datalk.cz/documents/b6bc93b76c1f4c6fb0fa0a08f17fb13f",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datalk.cz/documents/b6bc93b76c1f4c6fb0fa0a08f17fb13f",
+      "přístupové_url": "https://www.datalk.cz/documents/b6bc93b76c1f4c6fb0fa0a08f17fb13f",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://docs.google.com/spreadsheets/d/1MBTiDzF624DpwgIpGxgG4zBtEappXB3R/edit#gid=16823068",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1MBTiDzF624DpwgIpGxgG4zBtEappXB3R/edit#gid=16823068",
+      "přístupové_url": "https://docs.google.com/spreadsheets/d/1MBTiDzF624DpwgIpGxgG4zBtEappXB3R/edit#gid=16823068",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}

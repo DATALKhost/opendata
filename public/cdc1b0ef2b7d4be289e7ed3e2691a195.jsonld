@@ -1,0 +1,62 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datalk.cz/cdc1b0ef2b7d4be289e7ed3e2691a195.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Migrační saldo městských obcí na 1000 obyvatel"
+  },
+  "popis": {
+    "cs": "Saldo pohybu obyvatelstva ve městských obcí na 1000 obyvatel. Městské obce jsou, dle definice KÚLK, s obyvatelstvem nad 2000 vyjma Ralska a včetně Harrachova.Vizualizace"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "města",
+      "migrace",
+      "saldo"
+    ]
+  },
+  "téma": [],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datalk.cz/documents/cdc1b0ef2b7d4be289e7ed3e2691a195",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datalk.cz/documents/cdc1b0ef2b7d4be289e7ed3e2691a195",
+      "přístupové_url": "https://www.datalk.cz/documents/cdc1b0ef2b7d4be289e7ed3e2691a195",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://docs.google.com/spreadsheets/d/19S0avW_h0zwelyYNhKQKQ5m7Abb5XW15/edit#gid=1428227636",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/19S0avW_h0zwelyYNhKQKQ5m7Abb5XW15/edit#gid=1428227636",
+      "přístupové_url": "https://docs.google.com/spreadsheets/d/19S0avW_h0zwelyYNhKQKQ5m7Abb5XW15/edit#gid=1428227636",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}

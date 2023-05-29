@@ -1,0 +1,57 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datalk.cz/6612fdadeb9d4ab5b2b6f38c8cb69698.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Příroda a krajina"
+  },
+  "popis": {
+    "cs": "Příroda a krajina v Libereckém kraji, vybrané ukazatele za klima, krajinu a ekologii: Průměrné teploty a srážek, chráněné oblasti, vodní plochy, ekologická stabilita a ekocentra"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "příroda",
+      "krajina",
+      "teplota",
+      "srážky",
+      "vodní plochy",
+      "přehrady",
+      "jezera",
+      "voda",
+      "chráněné",
+      "území",
+      "CHKO",
+      "NP",
+      "přírodní",
+      "národní park",
+      "rozloha",
+      "ekologie"
+    ]
+  },
+  "téma": [],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datalk.cz/pages/6612fdadeb9d4ab5b2b6f38c8cb69698",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datalk.cz/pages/6612fdadeb9d4ab5b2b6f38c8cb69698",
+      "přístupové_url": "https://www.datalk.cz/pages/6612fdadeb9d4ab5b2b6f38c8cb69698",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}

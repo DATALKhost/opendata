@@ -1,0 +1,65 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datalk.cz/6f52340ccfd240e59205687f12de9533.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Podíl obyvatel připojená na vodovod, kanalizaci s koncem v ČOV a domy napojený na kanalizaci"
+  },
+  "popis": {
+    "cs": "Podíl obyvatel: zásobovaný vodou z vodovodu; napojených na kanalizaci s koncovkou ČOV;  bydlící v domech s napojenou kanalizací. ČOV = čistírna odpadních vod. Obor vodovodů a kanalizací zahrnuje vodohospodářské činnosti související se správou a provozem vodovodů a kanalizací, tj. zajišťování dostatečného množství kvalitní pitné vody a zajišťování odvádění odpadních vod a jejich čištění. Vodovody a kanalizace pro veřejnou potřebu zahrnují vodovody a kanalizace zřízené a provozované ve veřejném zájmu.Vizualizace"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "podíl",
+      "obyvatel",
+      "vodovod",
+      "kanalizace",
+      "čov",
+      "domy"
+    ]
+  },
+  "téma": [],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datalk.cz/documents/6f52340ccfd240e59205687f12de9533",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datalk.cz/documents/6f52340ccfd240e59205687f12de9533",
+      "přístupové_url": "https://www.datalk.cz/documents/6f52340ccfd240e59205687f12de9533",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://docs.google.com/spreadsheets/d/1Nz7QD9z2o4Lrkku7bA7BzF7iElQURMd3/edit#gid=264786186",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1Nz7QD9z2o4Lrkku7bA7BzF7iElQURMd3/edit#gid=264786186",
+      "přístupové_url": "https://docs.google.com/spreadsheets/d/1Nz7QD9z2o4Lrkku7bA7BzF7iElQURMd3/edit#gid=264786186",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}

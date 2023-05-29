@@ -1,0 +1,64 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datalk.cz/00505657667c4181a23b096c65f8abfe.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Počet železničních propojení do zahraničí"
+  },
+  "popis": {
+    "cs": "Na trati Liberec – Hrádek nad Nisou – Zittau – Varnsdorf je železniční hraniční přechod pro osobní dopravu do SRN Hrádek nad Nisou – Zittau.\nNa trati Liberec – Frýdlant – Zawidów je železniční hraniční přechod do Polska, využívaný pro nákladní dopravu. Přechod Černousy – Zawidów je zařazen do systému mezinárodní kombinované dopravy AGTC, který zatím není na této trati realizován, přestože v nákladní dopravě sehrává nezanedbatelnou roli.Vizualizace"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "doprava",
+      "železnice",
+      "propojení",
+      "zahraničí",
+      "0149"
+    ]
+  },
+  "téma": [],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datalk.cz/documents/00505657667c4181a23b096c65f8abfe",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datalk.cz/documents/00505657667c4181a23b096c65f8abfe",
+      "přístupové_url": "https://www.datalk.cz/documents/00505657667c4181a23b096c65f8abfe",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://docs.google.com/spreadsheets/d/1PuBAcG2xPJUhLrpyiCSPx5blwkGW48U7/edit?usp=share_link&ouid=116895768630584285093&rtpof=true&sd=true",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1PuBAcG2xPJUhLrpyiCSPx5blwkGW48U7/edit?usp=share_link&ouid=116895768630584285093&rtpof=true&sd=true",
+      "přístupové_url": "https://docs.google.com/spreadsheets/d/1PuBAcG2xPJUhLrpyiCSPx5blwkGW48U7/edit?usp=share_link&ouid=116895768630584285093&rtpof=true&sd=true",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}

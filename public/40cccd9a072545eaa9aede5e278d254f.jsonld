@@ -1,0 +1,65 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datalk.cz/40cccd9a072545eaa9aede5e278d254f.jsonld",
+  "typ": "Datová sada",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+  "název": {
+    "cs": "Sportovní kluby a tělovýchovné jednoty v kraji"
+  },
+  "popis": {
+    "cs": "Uvedeny pouze sportovní kluby a tělovýchovné jednoty, které jsou členy okresních sdružení České unie sportu (ČUS).Vizualizace"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "kluby",
+      "sport",
+      "jednoty",
+      "0175",
+      "subjekty",
+      "oddíly"
+    ]
+  },
+  "téma": [],
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/vusc/86"
+  ],
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://www.datalk.cz/documents/40cccd9a072545eaa9aede5e278d254f",
+      "název": {
+        "cs": "ArcGIS Hub Dataset"
+      },
+      "soubor_ke_stažení": "https://www.datalk.cz/documents/40cccd9a072545eaa9aede5e278d254f",
+      "přístupové_url": "https://www.datalk.cz/documents/40cccd9a072545eaa9aede5e278d254f",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://docs.google.com/spreadsheets/d/1Qe-5YrpVVx7CF1xRclQfaXJ8M61MuP6T/edit?usp=share_link&ouid=116895768630584285093&rtpof=true&sd=true",
+      "název": {
+        "cs": "ArcGIS GeoService"
+      },
+      "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1Qe-5YrpVVx7CF1xRclQfaXJ8M61MuP6T/edit?usp=share_link&ouid=116895768630584285093&rtpof=true&sd=true",
+      "přístupové_url": "https://docs.google.com/spreadsheets/d/1Qe-5YrpVVx7CF1xRclQfaXJ8M61MuP6T/edit?usp=share_link&ouid=116895768630584285093&rtpof=true&sd=true",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      }
+    }
+  ]
+}
