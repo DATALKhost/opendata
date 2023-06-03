@@ -12,7 +12,7 @@ export const LKOD_FILE = path.resolve(__dirname, 'public/katalog.jsonld');
 export const META_LKOD = {
 	name_cz: "Katalog otevřených dat Libereckého kraje",
 	description_cz: "Otevřená data Libereckého kraje. Datové sady jsou ve strojově čitelných formátech, volně přístupné k libovolným (legálním) účelům využití, bez licenčních omezení.",
-	provider: "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70889546",
+	provider: "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/70891508",
 	homepage: "https://datalk.cz",
 	contact_type: 'Organizace',
 	contact_name: 'ARR - Agentura regionálního rozvoje, spol. s r.o.',
