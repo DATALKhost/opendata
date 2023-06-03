@@ -1,0 +1,24 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://open.datalk.cz/katalog.jsonld",
+  "typ": "Katalog",
+  "domovská_stránka": "https://datalk.cz",
+  "název": {
+    "cs": "Katalog otevřených dat Libereckého kraje"
+  },
+  "popis": {
+    "cs": "Otevřená data Libereckého kraje. Datové sady jsou ve strojově čitelných formátech, volně přístupné k libovolným (legálním) účelům využití, bez licenčních omezení."
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/70891508",
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "ARR - Agentura regionálního rozvoje, spol. s r.o."
+    },
+    "e-mail": "mailto:k.tichy@arr-nisa.cz"
+  },
+  "datová_sada": [
+    "https://open.datalk.cz/38d9797b83044ada9c674c08b54f8548.jsonld",
+    "https://open.datalk.cz/b63c191a2ae2445787e562ea14afaae7.jsonld"
+  ]
+}
