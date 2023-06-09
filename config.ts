@@ -139,8 +139,11 @@ export const META_LKOD = {
 		'e6eff69b243f4df099af549b3f5cb09b',
 		'01d168c706e544e1a48ea12a3f454fc8',
 		'a92aa64ec24946baa360d347c591cb80',
-		's1a961fcaca05432ca051198a9c9d878c',
-		'ade79caaa9944336bcbe3c3aaad716a8'
+		'1a961fcaca05432ca051198a9c9d878c',
+		'ade79caaa9944336bcbe3c3aaad716a8',
+		'5ed428af9a0e4c0987ab31bf8695a903',
+		'aad54a35bf6e4250ab4913f11f16df73'
+		
 	]
 }
 
