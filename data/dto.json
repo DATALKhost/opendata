@@ -9,7 +9,7 @@
   "popis": {
     "cs": "Otevřená data Libereckého kraje. Datové sady jsou ve strojově čitelných formátech, volně přístupné k libovolným (legálním) účelům využití, bez licenčních omezení."
   },
-  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/70891508",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -26,12 +26,12 @@
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datalk.cz/38d9797b83044ada9c674c08b54f8548.jsonld",
       "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/70891508",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
       "název": {
         "cs": "Lékařská pohotovostní služba"
       },
       "popis": {
-        "cs": "Datová sada obsahuje seznam poskytovatelů lékařské pohotovostní služby v&nbsp;Libereckém kraji. Obsahuje zařízení s dětskou pohotovostní službou, pohotovostní službou pro dospělé a zubní pohotovostní službou. Zdrojem dat je odbor zdravotnictví Krajského úřadu Libereckého kraje a Městský úřad Hrádek nad Nisou a webové stránky jednotlivých zařízení."
+        "cs": "Datová sada obsahuje seznam poskytovatelů lékařské pohotovostní služby v Libereckém kraji. Obsahuje zařízení s dětskou pohotovostní službou, pohotovostní službou pro dospělé a zubní pohotovostní službou. Zdrojem dat je odbor zdravotnictví Krajského úřadu Libereckého kraje a webové stránky jednotlivých zařízení."
       },
       "klíčové_slovo": {
         "cs": [
@@ -163,7 +163,7 @@
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datalk.cz/b63c191a2ae2445787e562ea14afaae7.jsonld",
       "typ": "Datová sada",
-      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/org%C3%A1n-ve%C5%99ejn%C3%A9-moci/70891508",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
       "název": {
         "cs": "Organizace zřizované Libereckým krajem"
       },
