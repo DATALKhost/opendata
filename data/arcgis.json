@@ -83,14 +83,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=b63c191a2ae2445787e562ea14afaae7&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/b63c191a2ae2445787e562ea14afaae7_0",
       "title": "Organizace zřizované Libereckým krajem",
-      "description": "Datová sada s prostorovou lokalizací organizací založených nebo \nzřízených Libereckým krajem.",
+      "description": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Libereckým krajem.",
       "keyword": [
         "organizace",
         "subjekty",
         "opendata"
       ],
       "issued": "2022-07-15T13:06:29.000Z",
-      "modified": "2023-06-09T08:25:31.312Z",
+      "modified": "2023-06-13T11:32:56.556Z",
       "publisher": {
         "name": "datalk"
       },
