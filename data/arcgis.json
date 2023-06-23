@@ -9,7 +9,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=38d9797b83044ada9c674c08b54f8548&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/38d9797b83044ada9c674c08b54f8548_0",
       "title": "Lékařská pohotovostní služba",
-      "description": "Datová sada obsahuje seznam poskytovatelů lékařské pohotovostní služby v Libereckém kraji. Obsahuje zařízení s dětskou pohotovostní službou, pohotovostní službou pro dospělé a zubní pohotovostní službou. Zdrojem dat je odbor zdravotnictví Krajského úřadu Libereckého kraje a webové stránky jednotlivých zařízení.",
+      "description": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost.",
       "keyword": [
         "pohotovost",
         "zubní",
@@ -19,16 +19,29 @@
         "opendata"
       ],
       "issued": "2023-05-19T12:26:25.000Z",
-      "modified": "2023-06-07T13:14:26.524Z",
+      "modified": "2023-06-22T13:35:01.700Z",
       "publisher": {
         "name": "datalk"
       },
       "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "datalk"
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "14.5488,50.5889,15.5005,50.9260",
+      "spatial": {
+        "coordinates": [
+          [
+            14.5488,
+            50.5889
+          ],
+          [
+            15.5005,
+            50.926
+          ]
+        ],
+        "type": "envelope"
+      },
       "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -74,6 +87,9 @@
           "accessURL": "https://www.datalk.cz/datasets/38d9797b83044ada9c674c08b54f8548_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
+      "category": [
+        "Zdravotnictví a zdraví"
+      ],
       "theme": [
         "geospatial"
       ]
@@ -95,11 +111,24 @@
         "name": "datalk"
       },
       "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "datalk"
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
       },
       "accessLevel": "public",
-      "spatial": "14.4709,50.5266,15.5059,50.9626",
+      "spatial": {
+        "coordinates": [
+          [
+            14.4709,
+            50.5266
+          ],
+          [
+            15.5059,
+            50.9626
+          ]
+        ],
+        "type": "envelope"
+      },
       "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "distribution": [
         {
@@ -144,6 +173,9 @@
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
+      ],
+      "category": [
+        "Kraj jako instituce"
       ],
       "theme": [
         "geospatial"
