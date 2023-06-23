@@ -31,7 +31,7 @@
         "cs": "Lékařská pohotovostní služba"
       },
       "popis": {
-        "cs": "Datová sada obsahuje seznam poskytovatelů lékařské pohotovostní služby v Libereckém kraji. Obsahuje zařízení s dětskou pohotovostní službou, pohotovostní službou pro dospělé a zubní pohotovostní službou. Zdrojem dat je odbor zdravotnictví Krajského úřadu Libereckého kraje a webové stránky jednotlivých zařízení."
+        "cs": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost."
       },
       "klíčové_slovo": {
         "cs": [
@@ -43,7 +43,9 @@
           "opendata"
         ]
       },
-      "téma": [],
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+      ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"
@@ -168,7 +170,7 @@
         "cs": "Organizace zřizované Libereckým krajem"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací organizací založených nebo \nzřízených Libereckým krajem."
+        "cs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Libereckým krajem."
       },
       "klíčové_slovo": {
         "cs": [
@@ -177,7 +179,10 @@
           "opendata"
         ]
       },
-      "téma": [],
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON"
+      ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/86"

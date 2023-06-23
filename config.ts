@@ -28,7 +28,7 @@ export const META_LKOD = {
 		'Doprava': ['TRAN'],
 		'Technická infrastruktura': ['TECH'],
 		'Vzdělání': ['EDUC'],
-		'Zdravotníctví a zdraví': ['HEAL'],
+		'Zdravotnictví a zdraví': ['HEAL'],
 		'Sociální oblast': ['SOCI'],
 		'Bezpečnost': ['JUST'],
 		'Správa a rozvoj území': ['REGI'],
