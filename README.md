@@ -1,4 +1,4 @@
-# Opendata Královéhradeckého kraje
+# Opendata Libereckého kraje
 
 - Web: https://datalk.cz
 - Katalog: https://open.datalk.cz/katalog.jsonld
