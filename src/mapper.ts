@@ -22,7 +22,7 @@ export function detectMediaType(type: string): Lib.MediaType {
 }
 
 export function detectPeriodicity(dataset: any): string {
-	const value = _.get(dataset, 'metadata.metadata.mdMaint.maintFreq.MaintFreqCd.@_value', '000');
+	const value = _.get(dataset, 'metadata.mdMaint.maintFreq.MaintFreqCd.@_value', '000');
 	const period = CONFIG.META_LKOD.periodicity[value];
 
 	return `http://publications.europa.eu/resource/authority/frequency/${period}`;
