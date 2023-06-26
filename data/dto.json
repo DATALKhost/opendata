@@ -19,7 +19,13 @@
   },
   "datová_sada": [
     "https://open.datalk.cz/38d9797b83044ada9c674c08b54f8548.jsonld",
-    "https://open.datalk.cz/b63c191a2ae2445787e562ea14afaae7.jsonld"
+    "https://open.datalk.cz/467a2823c7804f9f8dd0206dfb635639.jsonld",
+    "https://open.datalk.cz/4d4daca21f7347b78e72533fe3abf035.jsonld",
+    "https://open.datalk.cz/52e627c0f50c4ed68da029d983672d68.jsonld",
+    "https://open.datalk.cz/701d024c05f54e7985bad1d47801fd21.jsonld",
+    "https://open.datalk.cz/778a6b5b0e58403fabca24636f10ea64.jsonld",
+    "https://open.datalk.cz/b63c191a2ae2445787e562ea14afaae7.jsonld",
+    "https://open.datalk.cz/c3f7efbfae6c4c2588103ad8bf4082ea.jsonld"
   ],
   "_datasets": [
     {
@@ -46,7 +52,7 @@
       "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/HEAL"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/OTHER",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/78"
       ],
@@ -163,6 +169,333 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/467a2823c7804f9f8dd0206dfb635639.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Spotřeba elektřiny dle odvětví v Libereckém kraji"
+      },
+      "popis": {
+        "cs": "V roce 2021 se v Libereckém kraji spotřebovalo 2 580,4 GWh elektřiny netto1),  tj. 4,3 % spotřeby celé České republiky (59 600,5 GWh). Meziročně se spotřeba v kraji zvýšila o 141,9 GWh (5,8 %), v České republice zaznamenala nárůst o 2 213,8 GWh (3,9 %). Z pohledu sektorů národního hospodářství se nejvíce elektřiny v kraji spotřebovalo v průmyslu, a to 1 064,6 GWh (41,3 % z celkové roční spotřeby kraje). Ve srovnání s rokem 2020 došlo v tomto odvětví k nárůstu spotřeby o 62,4 GWh (+6,2 %). Druhý největší objem ve výši 846,9 GWh (32,8 %) spotřebovaly domácnosti, u kterých se spotřeba oproti předchozímu roku zvýšila o 73,6 GWh (9,5 %). V odvětví obchodu, služeb, školství a zdravotnictví bylo spotřebováno 485,7 GWh (18,8 %) elektřiny. Nejmenší spotřebu elektřiny vykázalo odvětví dopravy (15,6 GWh), stavebnictví (22,1 GWh) a zemědělství a lesnictví (22,4 GWh) – dohromady 2,3 %. V celé České republice se v průmyslové výrobě spotřebovalo 36,7 % elektřiny, 29,0 % spotřebovaly domácnosti a na obchod, služby, školství a zdravotnictví připadlo 21,8 % z republikové spotřeby. Stavebnictví, doprava a zemědělství a lesnictví představovalo 3,9 % spotřeby elektrické energie.Vizualizace"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "elektřina",
+          "spotřeba",
+          "odvětví"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TECH"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/documents/467a2823c7804f9f8dd0206dfb635639",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/documents/467a2823c7804f9f8dd0206dfb635639",
+          "přístupové_url": "https://www.datalk.cz/documents/467a2823c7804f9f8dd0206dfb635639",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://docs.google.com/spreadsheets/d/1tPKXkgQrPFMhvFRJO2TgWX8Txle6LADW/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1tPKXkgQrPFMhvFRJO2TgWX8Txle6LADW/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "přístupové_url": "https://docs.google.com/spreadsheets/d/1tPKXkgQrPFMhvFRJO2TgWX8Txle6LADW/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/4d4daca21f7347b78e72533fe3abf035.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Vývoj nákladů v příměstské autobusové dopravě na km"
+      },
+      "popis": {
+        "cs": "Náklady, stejně jako objem objednávaných výkonů, průběžně během sledovaného období stoupaly, vyjma let 2015 a 2016. Tato položka je ovlivněna nejen tím, jaký je objem kilometrů, ale také tím, jakým způsobem jsou nastavené smluvní vztahy objednatele s dopravcem. V letech 2010–2014 byly průměrné náklady na kilometr s minimálními výkyvy, od roku 2015 je potom zřejmé, že nejprve docházelo v letech 2015 a 2016 k poklesu, a naopak v letech 2017 a 2018 k nárůstu.\n* PLÁN DOPRAVNÍ OBSLUŽNOSTI LIBERECKÉHO KRAJE 2019–2023Vizualizace"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "vývoj",
+          "náklady",
+          "doprava",
+          "autobus"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/documents/4d4daca21f7347b78e72533fe3abf035",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/documents/4d4daca21f7347b78e72533fe3abf035",
+          "přístupové_url": "https://www.datalk.cz/documents/4d4daca21f7347b78e72533fe3abf035",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://docs.google.com/spreadsheets/d/1dWTthjQKb8lrQYX_ei0Hz7jXmFlU91Ye/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1dWTthjQKb8lrQYX_ei0Hz7jXmFlU91Ye/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "přístupové_url": "https://docs.google.com/spreadsheets/d/1dWTthjQKb8lrQYX_ei0Hz7jXmFlU91Ye/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/52e627c0f50c4ed68da029d983672d68.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Obce a jejich části ve správních obvodech obcí s rozšířenou působností"
+      },
+      "popis": {
+        "cs": "Počet obcí, jejich částí a katastrálních území ve správních obvodech obcí s rozšířenou působností.Vizualizace"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "obec",
+          "území",
+          "obvod",
+          "orp"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/INTR"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/documents/52e627c0f50c4ed68da029d983672d68",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/documents/52e627c0f50c4ed68da029d983672d68",
+          "přístupové_url": "https://www.datalk.cz/documents/52e627c0f50c4ed68da029d983672d68",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://docs.google.com/spreadsheets/d/1PbLawj60vBQZKY7NJKYb9OveZsT-pMgj/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1PbLawj60vBQZKY7NJKYb9OveZsT-pMgj/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "přístupové_url": "https://docs.google.com/spreadsheets/d/1PbLawj60vBQZKY7NJKYb9OveZsT-pMgj/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/701d024c05f54e7985bad1d47801fd21.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Vývoj investičních výdajů kraje"
+      },
+      "popis": {
+        "cs": "Celkový vývoj investičních výdajů kraje od roku 2012.Vizualizace"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "investice",
+          "výdaje",
+          "vývoj"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/ECON"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/documents/701d024c05f54e7985bad1d47801fd21",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/documents/701d024c05f54e7985bad1d47801fd21",
+          "přístupové_url": "https://www.datalk.cz/documents/701d024c05f54e7985bad1d47801fd21",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://docs.google.com/spreadsheets/d/1h65Yy7wuvFIRIIbWDiJGxYwIALKEPxiw/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1h65Yy7wuvFIRIIbWDiJGxYwIALKEPxiw/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "přístupové_url": "https://docs.google.com/spreadsheets/d/1h65Yy7wuvFIRIIbWDiJGxYwIALKEPxiw/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/778a6b5b0e58403fabca24636f10ea64.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Vývoj tržeb v příměstské autobusové dopravě"
+      },
+      "popis": {
+        "cs": "Ukazatel tržby má nejprve trend stoupající, mezi roky 2015–2017 mírně klesající, nebo stagnující, výrazný vzestup je potom v roce 2018. Důvodem trendu v letech 2015–2017 je vyšší využití výhodných tarifních nabídek (Senior pas, Síťová roční obyčejná) ze strany cestujících, v roce 2018 potom od září začaly platit slevy pro vybrané skupiny cestujících, nařízené vládou ČR, kdy vlivem nárůstu cestujících a započítání kompenzací do výnosů došlo k výraznějšímu nárůstu tržeb.\n* PLÁN DOPRAVNÍ OBSLUŽNOSTI LIBERECKÉHO KRAJE 2019–2023Vizualizace"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "tržby",
+          "vývoj",
+          "autobus",
+          "doprava",
+          "příměstská"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/documents/778a6b5b0e58403fabca24636f10ea64",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/documents/778a6b5b0e58403fabca24636f10ea64",
+          "přístupové_url": "https://www.datalk.cz/documents/778a6b5b0e58403fabca24636f10ea64",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://docs.google.com/spreadsheets/d/12YzjvvMTsx9nSVy3Oel-Tq8YQkvU2feI/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/12YzjvvMTsx9nSVy3Oel-Tq8YQkvU2feI/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "přístupové_url": "https://docs.google.com/spreadsheets/d/12YzjvvMTsx9nSVy3Oel-Tq8YQkvU2feI/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datalk.cz/b63c191a2ae2445787e562ea14afaae7.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
@@ -183,7 +516,7 @@
         "http://publications.europa.eu/resource/authority/data-theme/GOVE",
         "http://publications.europa.eu/resource/authority/data-theme/ECON"
       ],
-      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/78"
       ],
@@ -288,6 +621,72 @@
           "přístupové_url": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/c3f7efbfae6c4c2588103ad8bf4082ea.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Počet obyvatel a rozloha obcí"
+      },
+      "popis": {
+        "cs": "Výměra obcí Libereckého kraje v km2 a počet obyvatel.Vizualizace"
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "obec",
+          "obyvatel",
+          "rozloha"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/REGI",
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/INTR"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/documents/c3f7efbfae6c4c2588103ad8bf4082ea",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/documents/c3f7efbfae6c4c2588103ad8bf4082ea",
+          "přístupové_url": "https://www.datalk.cz/documents/c3f7efbfae6c4c2588103ad8bf4082ea",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://docs.google.com/spreadsheets/d/1mSQnQ5jaUfaWJfRUXvEcZcZi4FxMGUnd/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://docs.google.com/spreadsheets/d/1mSQnQ5jaUfaWJfRUXvEcZcZi4FxMGUnd/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "přístupové_url": "https://docs.google.com/spreadsheets/d/1mSQnQ5jaUfaWJfRUXvEcZcZi4FxMGUnd/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

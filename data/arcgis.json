@@ -90,6 +90,351 @@
       "category": [
         "Zdravotnictví a zdraví"
       ],
+      "metadata": {
+        "metadata": {
+          "mdContact": {
+            "rpIndName": "Zdravotnictví a zdraví",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "38d9797b83044ada9c674c08b54f8548",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Pohotovosti_LK/FeatureServer"
+              }
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "009"
+              }
+            }
+          },
+          "mdDateSt": "2023-06-22",
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": "17:24:45.85",
+            "ArcGISProfile": "ISO19139",
+            "ArcGISstyle": "FGDC CSDGM Metadata",
+            "ModDate": "2023-06-22",
+            "CreaDate": "2023-06-22",
+            "ModTime": "17:27:08.01",
+            "MapLyrSync": "false",
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "17:24:45.85",
+          "dataIdInfo": {
+            "idAbs": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost.",
+            "idCitation": {
+              "resTitle": "Lékařská pohotovostní služba",
+              "citRespParty": {
+                "role": {
+                  "RoleCd": {
+                    "@_value": "006"
+                  }
+                }
+              }
+            },
+            "idPurp": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "pohotovost",
+                "zubní",
+                "dětská",
+                "LPS",
+                "emergency",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "<span style='color:rgb(44, 62, 80); font-family:Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;'>CC0 1.0</span>"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        }
+      },
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=467a2823c7804f9f8dd0206dfb635639",
+      "landingPage": "https://www.datalk.cz/documents/467a2823c7804f9f8dd0206dfb635639",
+      "title": "Spotřeba elektřiny dle odvětví v Libereckém kraji",
+      "description": "<div>V roce 2021 se v Libereckém kraji spotřebovalo 2 580,4 GWh elektřiny netto1),  tj. 4,3 % spotřeby celé České republiky (59 600,5 GWh). Meziročně se spotřeba v kraji zvýšila o 141,9 GWh (5,8 %), v České republice zaznamenala nárůst o 2 213,8 GWh (3,9 %). Z pohledu sektorů národního hospodářství se nejvíce elektřiny v kraji spotřebovalo v průmyslu, a to 1 064,6 GWh (41,3 % z celkové roční spotřeby kraje). Ve srovnání s rokem 2020 došlo v tomto odvětví k nárůstu spotřeby o 62,4 GWh (+6,2 %). Druhý největší objem ve výši 846,9 GWh (32,8 %) spotřebovaly domácnosti, u kterých se spotřeba oproti předchozímu roku zvýšila o 73,6 GWh (9,5 %). V odvětví obchodu, služeb, školství a zdravotnictví bylo spotřebováno 485,7 GWh (18,8 %) elektřiny. Nejmenší spotřebu elektřiny vykázalo odvětví dopravy (15,6 GWh), stavebnictví (22,1 GWh) a zemědělství a lesnictví (22,4 GWh) – dohromady 2,3 %. V celé České republice se v průmyslové výrobě spotřebovalo 36,7 % elektřiny, 29,0 % spotřebovaly domácnosti a na obchod, služby, školství a zdravotnictví připadlo 21,8 % z republikové spotřeby. Stavebnictví, doprava a zemědělství a lesnictví představovalo 3,9 % spotřeby elektrické energie.</div><div><ul><li><a href='https://infogram.com/0069_spotreba-elektriny-podle-odvetvi-v-libereckem-kraji-mwh-1hd12yxqgjgkw6k' target='_blank' rel='nofollow ugc noopener noreferrer'>Vizualizace</a></li></ul></div>",
+      "keyword": [
+        "elektřina",
+        "spotřeba",
+        "odvětví"
+      ],
+      "issued": "2023-06-26T08:42:44.000Z",
+      "modified": "2023-06-26T08:44:10.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "https://www.czso.cz/csu/czso/podminky_pro_vyuzivani_a_dalsi_zverejnovani_statistickych_udaju_csu",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/documents/467a2823c7804f9f8dd0206dfb635639"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://docs.google.com/spreadsheets/d/1tPKXkgQrPFMhvFRJO2TgWX8Txle6LADW/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true"
+        }
+      ],
+      "category": [
+        "Technická infrastruktura"
+      ],
+      "metadata": "{{metadata}}",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=4d4daca21f7347b78e72533fe3abf035",
+      "landingPage": "https://www.datalk.cz/documents/4d4daca21f7347b78e72533fe3abf035",
+      "title": "Vývoj nákladů v příměstské autobusové dopravě na km",
+      "description": "<div>Náklady, stejně jako objem objednávaných výkonů, průběžně během sledovaného období stoupaly, vyjma let 2015 a 2016. Tato položka je ovlivněna nejen tím, jaký je objem kilometrů, ale také tím, jakým způsobem jsou nastavené smluvní vztahy objednatele s dopravcem. V letech 2010–2014 byly průměrné náklady na kilometr s minimálními výkyvy, od roku 2015 je potom zřejmé, že nejprve docházelo v letech 2015 a 2016 k poklesu, a naopak v letech 2017 a 2018 k nárůstu.\n* PLÁN DOPRAVNÍ OBSLUŽNOSTI LIBERECKÉHO KRAJE 2019–2023</div><div><ul><li><a href='https://infogram.com/0059_vyvoj-nakladu-v-primestske-autobusove-doprave-na-km-1h7g6k0gy59z02o?live' target='_blank' rel='nofollow ugc noopener noreferrer'>Vizualizace</a></li></ul></div>",
+      "keyword": [
+        "vývoj",
+        "náklady",
+        "doprava",
+        "autobus"
+      ],
+      "issued": "2023-06-26T09:24:06.000Z",
+      "modified": "2023-06-26T09:30:06.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/documents/4d4daca21f7347b78e72533fe3abf035"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://docs.google.com/spreadsheets/d/1dWTthjQKb8lrQYX_ei0Hz7jXmFlU91Ye/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true"
+        }
+      ],
+      "category": [
+        "Doprava"
+      ],
+      "metadata": "{{metadata}}",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=52e627c0f50c4ed68da029d983672d68",
+      "landingPage": "https://www.datalk.cz/documents/52e627c0f50c4ed68da029d983672d68",
+      "title": "Obce a jejich části ve správních obvodech obcí s rozšířenou působností",
+      "description": "<div>Počet obcí, jejich částí a katastrálních území ve správních obvodech obcí s rozšířenou působností.</div><div><ul><li><a href='https://infogram.com/0061_obce-a-jejich-casti-v-kraji-podle-orp-1h7k230jrmw7v2x?live' target='_blank' rel='nofollow ugc noopener noreferrer'>Vizualizace</a></li></ul></div>",
+      "keyword": [
+        "obec",
+        "území",
+        "obvod",
+        "orp"
+      ],
+      "issued": "2023-06-26T09:05:43.000Z",
+      "modified": "2023-06-26T09:07:11.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "https://www.czso.cz/csu/czso/podminky_pro_vyuzivani_a_dalsi_zverejnovani_statistickych_udaju_csu",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/documents/52e627c0f50c4ed68da029d983672d68"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://docs.google.com/spreadsheets/d/1PbLawj60vBQZKY7NJKYb9OveZsT-pMgj/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true"
+        }
+      ],
+      "category": [
+        "Obecná charakteristika"
+      ],
+      "metadata": "{{metadata}}",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=701d024c05f54e7985bad1d47801fd21",
+      "landingPage": "https://www.datalk.cz/documents/701d024c05f54e7985bad1d47801fd21",
+      "title": "Vývoj investičních výdajů kraje",
+      "description": "<div>Celkový vývoj investičních výdajů kraje od roku 2012.</div><div><ul><li><a href='https://infogram.com/0063_vyvoj-investicnich-vydaju-kraje-1h7g6k0qklzx02o?live' target='_blank' rel='nofollow ugc noopener noreferrer'>Vizualizace</a></li></ul></div>",
+      "keyword": [
+        "investice",
+        "výdaje",
+        "vývoj"
+      ],
+      "issued": "2023-06-26T08:56:17.000Z",
+      "modified": "2023-06-26T09:01:07.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/documents/701d024c05f54e7985bad1d47801fd21"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://docs.google.com/spreadsheets/d/1h65Yy7wuvFIRIIbWDiJGxYwIALKEPxiw/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true"
+        }
+      ],
+      "category": [
+        "Kraj jako instituce"
+      ],
+      "metadata": "{{metadata}}",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=778a6b5b0e58403fabca24636f10ea64",
+      "landingPage": "https://www.datalk.cz/documents/778a6b5b0e58403fabca24636f10ea64",
+      "title": "Vývoj tržeb v příměstské autobusové dopravě",
+      "description": "<div>Ukazatel tržby má nejprve trend stoupající, mezi roky 2015–2017 mírně klesající, nebo stagnující, výrazný vzestup je potom v roce 2018. Důvodem trendu v letech 2015–2017 je vyšší využití výhodných tarifních nabídek (Senior pas, Síťová roční obyčejná) ze strany cestujících, v roce 2018 potom od září začaly platit slevy pro vybrané skupiny cestujících, nařízené vládou ČR, kdy vlivem nárůstu cestujících a započítání kompenzací do výnosů došlo k výraznějšímu nárůstu tržeb.\n* PLÁN DOPRAVNÍ OBSLUŽNOSTI LIBERECKÉHO KRAJE 2019–2023</div><div><ul><li><a href='https://infogram.com/0060_vyvoj-trzeb-v-primestske-autobusove-doprave-1hzj4o37k53034p?live' target='_blank' rel='nofollow ugc noopener noreferrer'>Vizualizace</a></li></ul></div>",
+      "keyword": [
+        "tržby",
+        "vývoj",
+        "autobus",
+        "doprava",
+        "příměstská"
+      ],
+      "issued": "2023-06-26T09:11:54.000Z",
+      "modified": "2023-06-26T09:15:29.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/documents/778a6b5b0e58403fabca24636f10ea64"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://docs.google.com/spreadsheets/d/12YzjvvMTsx9nSVy3Oel-Tq8YQkvU2feI/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true"
+        }
+      ],
+      "category": [
+        "Doprava"
+      ],
+      "metadata": "{{metadata}}",
       "theme": [
         "geospatial"
       ]
@@ -106,7 +451,7 @@
         "opendata"
       ],
       "issued": "2022-07-15T13:06:29.000Z",
-      "modified": "2023-06-13T11:32:56.556Z",
+      "modified": "2023-06-26T09:32:51.333Z",
       "publisher": {
         "name": "datalk"
       },
@@ -177,6 +522,232 @@
       "category": [
         "Kraj jako instituce"
       ],
+      "metadata": {
+        "metadata": {
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "b63c191a2ae2445787e562ea14afaae7",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Organizace_zrizovane_LK/FeatureServer"
+              }
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "mdDateSt": "2023-06-13",
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": "14:52:37.28",
+            "ArcGISProfile": "ISO19139",
+            "ArcGISstyle": "FGDC CSDGM Metadata",
+            "ModDate": "2023-06-21",
+            "CreaDate": "2023-06-13",
+            "ModTime": "13:13:25.100",
+            "MapLyrSync": "false",
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "14:52:37.28",
+          "dataIdInfo": {
+            "idAbs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Libereckým krajem.",
+            "idCredit": "KÚLK",
+            "idCitation": {
+              "resTitle": "Organizace zřizované Libereckým krajem",
+              "citRespParty": {
+                "role": {
+                  "RoleCd": {
+                    "@_value": "006"
+                  }
+                }
+              }
+            },
+            "idPurp": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Libereckým krajem.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "organizace",
+                "subjekty",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        }
+      },
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c3f7efbfae6c4c2588103ad8bf4082ea",
+      "landingPage": "https://www.datalk.cz/documents/c3f7efbfae6c4c2588103ad8bf4082ea",
+      "title": "Počet obyvatel a rozloha obcí",
+      "description": "<div>Výměra obcí Libereckého kraje v km2 a počet obyvatel.</div><div><ul><li><a href='https://infogram.com/0085_mapa_rozloha-obci-1h7j4dvx7prgv4n?live' target='_blank' rel='nofollow ugc noopener noreferrer'>Vizualizace</a></li></ul></div>",
+      "keyword": [
+        "obec",
+        "obyvatel",
+        "rozloha"
+      ],
+      "issued": "2023-06-26T08:36:01.000Z",
+      "modified": "2023-06-26T08:38:16.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "https://www.czso.cz/csu/czso/podminky_pro_vyuzivani_a_dalsi_zverejnovani_statistickych_udaju_csu",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/documents/c3f7efbfae6c4c2588103ad8bf4082ea"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://docs.google.com/spreadsheets/d/1mSQnQ5jaUfaWJfRUXvEcZcZi4FxMGUnd/edit?usp=drive_link&ouid=116895768630584285093&rtpof=true&sd=true"
+        }
+      ],
+      "category": [
+        "Obecná charakteristika"
+      ],
+      "metadata": "{{metadata}}",
       "theme": [
         "geospatial"
       ]
