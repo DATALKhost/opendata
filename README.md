@@ -1,10 +1,9 @@
 # Opendata Královéhradeckého kraje
 
-- Web: https://datakhk.cz
-- Katalog: https://open.datakhk.cz/katalog.jsonld
+- Web: https://datalk.cz
+- Katalog: https://open.datalk.cz/katalog.jsonld
 - NKOD: https://data.gov.cz/datov%C3%A9-sady
-- NKOD (Královéhradecký kraj): https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https%3A%2F%2Frpp-opendata.egon.gov.cz%2Fodrpp%2Fzdroj%2Forg%C3%A1n-ve%C5%99ejn%C3%A9-moci%2F70889546
-
+- NKOD (Liberecký kraj): https://data.gov.cz/datov%C3%A9-sady?poskytovatel=https%3A%2F%2Frpp-opendata.egon.gov.cz%2Fodrpp%2Fzdroj%2Forg%C3%A1n-ve%C5%99ejn%C3%A9-moci%2F70891508
 ## Overview
 
 ![](./docs/lifecycle1.png)
@@ -115,7 +114,7 @@ LKOD file looks like this.
 
 - NKOD = `Národní katalog otevřených dat`
 - LKOD = `Lokální katalog otevřených dat`
-- KHK = `Královéhradecký kraj`
+- LK = `Liberecký kraj`
 
 ## Credits
 
