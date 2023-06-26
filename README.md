@@ -117,9 +117,6 @@ LKOD file looks like this.
 - LK = `Liberecký kraj`
 
 ## Credits
-
-This package is currently maintained by these authors.
-
 <a href="https://github.com/f3l1x">
     <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
 </a>
