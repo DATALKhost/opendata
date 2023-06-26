@@ -1,5 +1,5 @@
 # Opendata Libereckého kraje
-
+- As open source: copied and personalized from https://github.com/krhk/opendata
 - Web: https://datalk.cz
 - Katalog: https://open.datalk.cz/katalog.jsonld
 - NKOD: https://data.gov.cz/datov%C3%A9-sady
