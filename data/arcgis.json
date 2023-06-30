@@ -9,7 +9,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=38d9797b83044ada9c674c08b54f8548&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/38d9797b83044ada9c674c08b54f8548_0",
       "title": "Lékařská pohotovostní služba",
-      "description": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost.",
+      "description": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost na území Libereckého kraje.",
       "keyword": [
         "pohotovost",
         "zubní",
@@ -129,7 +129,7 @@
           },
           "mdTimeSt": "17:24:45.85",
           "dataIdInfo": {
-            "idAbs": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost.",
+            "idAbs": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost na území Libereckého kraje.",
             "idCitation": {
               "resTitle": "Lékařská pohotovostní služba",
               "citRespParty": {
