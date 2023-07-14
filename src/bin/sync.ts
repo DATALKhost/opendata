@@ -15,7 +15,7 @@ async function syncArcgis(): Promise<any> {
 	// Format datasets
 	arcgis.dataset = _(arcgis.dataset)
 		// Filter out excluded datasets
-		.filter((dataset: any) => !CONFIG.META_LKOD.excludedDatasets.includes(parseArcgisIdentifier(dataset.identifier)))
+		.filter((dataset: any) => dataset.keyword.includes("opendata"))
 		// Order by ID (to prevent git changes)
 		.orderBy('identifier')
 		.value();
