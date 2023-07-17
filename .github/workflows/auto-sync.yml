@@ -19,8 +19,8 @@ jobs:
       - run: npm ci
       - run: make build
       - run: |
-          git config user.name datakhk
-          git config user.email opendatakhk@gmail.com
+          git config user.name datalk
+          git config user.email k.tichy@arr-nisa.cz
           git add .
           git commit -m "Data: sync $(date +'%Y-%m-%dT%H:%M:%S')" || true
           git push
