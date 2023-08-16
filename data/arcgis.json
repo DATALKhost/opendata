@@ -16,7 +16,8 @@
         "dětská",
         "LPS",
         "emergency",
-        "opendata"
+        "opendata",
+        "otevřená data"
       ],
       "issued": "2023-05-19T12:26:25.000Z",
       "modified": "2023-06-26T12:03:15.269Z",
@@ -153,7 +154,8 @@
                 "dětská",
                 "LPS",
                 "emergency",
-                "opendata"
+                "opendata",
+                "otevřená data"
               ]
             },
             "resConst": [
@@ -204,7 +206,8 @@
       "keyword": [
         "organizace",
         "subjekty",
-        "opendata"
+        "opendata",
+        "otevřená data"
       ],
       "issued": "2022-07-15T13:06:29.000Z",
       "modified": "2023-08-02T06:32:35.770Z",
@@ -338,7 +341,8 @@
               "keyword": [
                 "organizace",
                 "subjekty",
-                "opendata"
+                "opendata",
+                "otevřená data"
               ]
             },
             "resConst": [
