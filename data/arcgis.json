@@ -6,19 +6,19 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=351daabbd32341dea58dec7a6436b773&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/351daabbd32341dea58dec7a6436b773_0",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0eea4ad6c9b5426394a4f05c4dca9217&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0",
       "title": "Adresář obcí Libereckého kraje",
-      "description": "Datová sada obsahující informace obcí na území Libereckého kraje",
+      "description": "Datová sada obsahující základní informace obcí a jejich úřadů Libereckého kraje.",
       "keyword": [
-        "obec",
+        "obce",
         "kód",
-        "otevřená data",
-        "kontakt",
+        "adresář",
+        "otevřená",
         "opendata"
       ],
-      "issued": "2023-10-30T14:37:17.000Z",
-      "modified": "2023-10-30T15:15:37.654Z",
+      "issued": "2023-10-31T16:01:12.000Z",
+      "modified": "2023-10-31T16:01:31.912Z",
       "publisher": {
         "name": "datalk"
       },
@@ -48,139 +48,48 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/351daabbd32341dea58dec7a6436b773_0"
+          "accessURL": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "ArcGIS GeoService",
           "format": "ArcGIS GeoServices REST API",
           "mediaType": "application/json",
-          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD/FeatureServer/0"
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD_Libereck%C3%A9ho_kraje/FeatureServer/0"
         },
         {
           "@type": "dcat:Distribution",
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "Shapefile",
           "format": "ZIP",
           "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         },
         {
           "@type": "dcat:Distribution",
           "title": "KML",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
         }
       ],
       "category": [
         "Správa a rozvoj území"
       ],
-      "metadata": {
-        "metadata": {
-          "mdContact": {
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "mdFileID": "351daabbd32341dea58dec7a6436b773",
-          "mdMaint": {
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "008"
-              }
-            }
-          },
-          "distInfo": {
-            "distTranOps": {
-              "onLineSrc": {
-                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adresář_obcí/FeatureServer"
-              }
-            }
-          },
-          "mdDateSt": "2023-10-31",
-          "Esri": {
-            "ArcGISFormat": 1,
-            "CreaTime": "09:50:03.77",
-            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-            "ArcGISProfile": "ISO19139",
-            "ModDate": "2023-10-31",
-            "CreaDate": "2023-10-31",
-            "ModTime": "09:50:17.35",
-            "MapLyrSync": "false",
-            "PublishStatus": "editor:esri.dijit.metadata.editor"
-          },
-          "mdTimeSt": "09:50:03.77",
-          "dataIdInfo": {
-            "idAbs": "Datová sada obsahující informace obcí na území Libereckého kraje",
-            "idCitation": {
-              "resTitle": "Adresář obcí Libereckého kraje"
-            },
-            "idPurp": "Datová sada obsahující informace obcí na území Libereckého kraje",
-            "dataChar": {
-              "CharSetCd": {
-                "@_value": "004"
-              }
-            },
-            "searchKeys": {
-              "keyword": [
-                "obec",
-                "kód",
-                "otevřená data",
-                "kontakt",
-                "opendata"
-              ]
-            },
-            "resConst": [
-              {
-                "Consts": {
-                  "useLimit": "CC0 1.0"
-                }
-              },
-              {
-                "LegConsts": {
-                  "othConsts": "Jiná omezení",
-                  "accessConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  }
-                }
-              },
-              {
-                "LegConsts": {
-                  "useConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  },
-                  "othConsts": "Jiná omezení"
-                }
-              }
-            ]
-          },
-          "mdChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          }
-        }
-      },
+      "metadata": "{{metadata}}",
       "theme": [
         "geospatial"
       ]
@@ -201,7 +110,7 @@
         "otevřená data"
       ],
       "issued": "2023-05-19T12:26:25.000Z",
-      "modified": "2023-06-26T12:03:15.269Z",
+      "modified": "2023-10-31T08:34:47.000Z",
       "publisher": {
         "name": "datalk"
       },
