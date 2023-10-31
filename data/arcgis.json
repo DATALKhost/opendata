@@ -6,6 +6,96 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=351daabbd32341dea58dec7a6436b773&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/351daabbd32341dea58dec7a6436b773_0",
+      "title": "Adresář obcí Libereckého kraje",
+      "description": "Datová sada obsahující informace obcí na území Libereckého kraje",
+      "keyword": [
+        "obec",
+        "kód",
+        "otevřená data",
+        "kontakt",
+        "opendata"
+      ],
+      "issued": "2023-10-30T14:37:17.000Z",
+      "modified": "2023-10-30T14:45:27.392Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.3925,
+            50.4859
+          ],
+          [
+            15.6038,
+            51.0186
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/351daabbd32341dea58dec7a6436b773_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/datasets/351daabbd32341dea58dec7a6436b773_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+        }
+      ],
+      "category": [
+        "Správa a rozvoj území"
+      ],
+      "metadata": "{{metadata}}",
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=38d9797b83044ada9c674c08b54f8548&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/38d9797b83044ada9c674c08b54f8548_0",
       "title": "Lékařská pohotovostní služba",
@@ -210,7 +300,7 @@
         "otevřená data"
       ],
       "issued": "2022-07-15T13:06:29.000Z",
-      "modified": "2023-08-02T06:32:35.770Z",
+      "modified": "2023-10-30T17:17:19.556Z",
       "publisher": {
         "name": "datalk"
       },
@@ -254,28 +344,14 @@
           "title": "CSV",
           "format": "CSV",
           "mediaType": "text/csv",
-          "accessURL": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.csv?where=1=1"
         },
         {
           "@type": "dcat:Distribution",
           "title": "GeoJSON",
           "format": "GeoJSON",
           "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+          "accessURL": "https://www.datalk.cz/datasets/b63c191a2ae2445787e562ea14afaae7_0.geojson?where=1=1"
         }
       ],
       "category": [
