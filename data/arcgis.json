@@ -89,7 +89,99 @@
       "category": [
         "Správa a rozvoj území"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "0eea4ad6c9b5426394a4f05c4dca9217",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adresář_obcí_Libereckého_kraje/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2023-10-31",
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": "17:16:07.41",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2023-10-31",
+            "CreaDate": "2023-10-31",
+            "ModTime": "17:16:16.70",
+            "MapLyrSync": "false",
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "17:16:07.41",
+          "dataIdInfo": {
+            "idAbs": "Datová sada obsahující základní informace obcí a jejich úřadů Libereckého kraje.",
+            "idCredit": "Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Adresář obcí Libereckého kraje"
+            },
+            "idPurp": "Datová sada obsahující základní informace obcí a jejich úřadů Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "obce",
+                "kód",
+                "adresář",
+                "otevřená",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        }
+      },
       "theme": [
         "geospatial"
       ]
