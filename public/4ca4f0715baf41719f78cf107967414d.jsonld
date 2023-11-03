@@ -1,39 +1,39 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datalk.cz/0eea4ad6c9b5426394a4f05c4dca9217.jsonld",
+  "iri": "https://open.datalk.cz/4ca4f0715baf41719f78cf107967414d.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
   "název": {
-    "cs": "Adresář obcí Libereckého kraje"
+    "cs": "Organizace zřizované Libereckým krajem"
   },
   "popis": {
-    "cs": "Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů."
+    "cs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Libereckým krajem."
   },
   "klíčové_slovo": {
     "cs": [
-      "obce",
-      "kód",
-      "adresář",
-      "otevřená",
-      "opendata"
+      "subjekt",
+      "organizace",
+      "opendata",
+      "otevřená data"
     ]
   },
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/REGI"
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/ECON"
   ],
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/78"
   ],
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0",
+      "iri": "https://www.datalk.cz/maps/4ca4f0715baf41719f78cf107967414d_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0",
-      "přístupové_url": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0",
+      "soubor_ke_stažení": "https://www.datalk.cz/maps/4ca4f0715baf41719f78cf107967414d_0",
+      "přístupové_url": "https://www.datalk.cz/maps/4ca4f0715baf41719f78cf107967414d_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -46,12 +46,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD_Libereck%C3%A9ho_kraje/FeatureServer/0",
+      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Organizace_zrizovane_LK2/FeatureServer/0",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD_Libereck%C3%A9ho_kraje/FeatureServer/0",
-      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adres%C3%A1%C5%99_obc%C3%AD_Libereck%C3%A9ho_kraje/FeatureServer/0",
+      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Organizace_zrizovane_LK2/FeatureServer/0",
+      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Organizace_zrizovane_LK2/FeatureServer/0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -64,12 +64,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.csv?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -82,12 +82,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.geojson?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -100,12 +100,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.zip?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -118,12 +118,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "iri": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
-      "přístupové_url": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "soubor_ke_stažení": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
+      "přístupové_url": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0.kml?where=1=1&outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
