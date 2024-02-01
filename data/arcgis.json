@@ -18,7 +18,7 @@
         "opendata"
       ],
       "issued": "2023-10-31T16:01:12.000Z",
-      "modified": "2023-11-08T09:16:52.045Z",
+      "modified": "2024-01-31T12:22:38.869Z",
       "publisher": {
         "name": "datalk"
       },
@@ -263,10 +263,11 @@
             "ModDate": "2023-06-22",
             "CreaDate": "2023-06-22",
             "ModTime": "17:27:08.01",
-            "MapLyrSync": "false",
+            "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
           "mdTimeSt": "17:24:45.85",
+          "@_xml:lang": "en",
           "dataIdInfo": {
             "idAbs": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost na území Libereckého kraje.",
             "idCitation": {
@@ -329,6 +330,11 @@
               "@_value": "004"
             }
           }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
         }
       },
       "distribution": [
