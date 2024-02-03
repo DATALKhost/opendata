@@ -18,7 +18,7 @@
         "opendata"
       ],
       "issued": "2023-10-31T16:01:12.000Z",
-      "modified": "2024-01-31T12:22:38.869Z",
+      "modified": "2024-02-02T14:15:41.946Z",
       "publisher": {
         "name": "datalk"
       },
@@ -78,10 +78,11 @@
             "ModDate": "2023-10-31",
             "CreaDate": "2023-10-31",
             "ModTime": "17:16:16.70",
-            "MapLyrSync": "false",
+            "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
           "mdTimeSt": "17:16:07.41",
+          "@_xml:lang": "en",
           "dataIdInfo": {
             "idAbs": "Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů.",
             "idCredit": "Krajský úřad Libereckého kraje",
@@ -136,6 +137,11 @@
               "@_value": "004"
             }
           }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
         }
       },
       "distribution": [
