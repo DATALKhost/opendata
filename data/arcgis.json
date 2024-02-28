@@ -667,6 +667,189 @@
       "theme": [
         "geospatial"
       ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=c356d888901b4c7bbcefaef85360fb73&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/c356d888901b4c7bbcefaef85360fb73_0",
+      "title": "Sokolovny v Libereckém kraji",
+      "description": "Seznam tělovýchovných jednot Sokola v Libereckém kraji",
+      "keyword": [
+        "tělocvična",
+        "tělovýchova",
+        "jednota",
+        "Sokol",
+        "opendata"
+      ],
+      "issued": "2024-02-27T14:33:43.000Z",
+      "modified": "2024-02-27T14:33:53.224Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.3983,
+            50.488
+          ],
+          [
+            15.6158,
+            50.9726
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "",
+      "category": [
+        "Kultura a kulturní dědictví",
+        "Sport"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "c356d888901b4c7bbcefaef85360fb73",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Sokolovny_v_Libereckém_kraji/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-02-27",
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": "15:43:49.62",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-02-27",
+            "CreaDate": "2024-02-27",
+            "ModTime": "15:44:47.39",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "15:43:49.62",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Seznam tělovýchovných jednot Sokola v Libereckém kraji",
+            "idCredit": "Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Sokolovny v Libereckém kraji"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "tělocvična",
+                "tělovýchova",
+                "jednota",
+                "Sokol",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/c356d888901b4c7bbcefaef85360fb73_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Sokolovny_v_Libereck%C3%A9m_kraji/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c356d888901b4c7bbcefaef85360fb73/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c356d888901b4c7bbcefaef85360fb73/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c356d888901b4c7bbcefaef85360fb73/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c356d888901b4c7bbcefaef85360fb73/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
     }
   ]
 }
