@@ -670,6 +670,195 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=93c69d41e65c46cf919ebe851da95d0b&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/93c69d41e65c46cf919ebe851da95d0b_0",
+      "title": "Dobrovolné svazky obcí Libereckého kraje",
+      "description": "Seznam obcí a jejich dobrovolných svazků, který jsou zapsaný na Krajském úřadu Libereckého kraje.",
+      "keyword": [
+        "obec",
+        "dobrovolný",
+        "svazek",
+        "liberecký kraj",
+        "seznam",
+        "opendata"
+      ],
+      "issued": "2024-03-06T13:53:12.000Z",
+      "modified": "2024-03-06T13:53:21.953Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.3925,
+            50.3904
+          ],
+          [
+            15.6038,
+            51.0186
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Správa a rozvoj území"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "93c69d41e65c46cf919ebe851da95d0b",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dobrovolné_svazky_obcí_Libereckého_kraje/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-03-06",
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": "15:29:17.58",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-03-06",
+            "CreaDate": "2024-03-06",
+            "ModTime": "15:29:41.96",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "15:29:17.58",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Seznam obcí a jejich dobrovolných svazků, který jsou zapsaný na Krajském úřadu Libereckého kraje.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Dobrovolné svazky obcí Libereckého kraje"
+            },
+            "resMaint": {
+              "maintFreq": {
+                "MaintFreqCd": {
+                  "@_value": "009"
+                }
+              }
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "obec",
+                "dobrovolný",
+                "svazek",
+                "liberecký kraj",
+                "seznam",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/93c69d41e65c46cf919ebe851da95d0b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dobrovoln%C3%A9_svazky_obc%C3%AD_Libereck%C3%A9ho_kraje/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c356d888901b4c7bbcefaef85360fb73&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/c356d888901b4c7bbcefaef85360fb73_0",
       "title": "Sokolovny v Libereckém kraji",
