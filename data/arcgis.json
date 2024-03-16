@@ -194,6 +194,96 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=1b40d4b146e648cca7ca4dfe9712264b&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/1b40d4b146e648cca7ca4dfe9712264b_0",
+      "title": "Domovy dětí a mládeže v Libereckém kraji",
+      "description": "Seznam domovů dětí a mládeže v Libereckém kraji.",
+      "keyword": [
+        "domovy dětí a mládeže",
+        "děti",
+        "mládež",
+        "opendata"
+      ],
+      "issued": "2024-03-15T16:21:48.000Z",
+      "modified": "2024-03-15T16:22:00.560Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.5368,
+            50.5285
+          ],
+          [
+            15.3728,
+            50.9316
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kultura a kulturní dědictví",
+        "Vzdělávání"
+      ],
+      "metadata": "{{metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/1b40d4b146e648cca7ca4dfe9712264b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Domovy_d%C4%9Bt%C3%AD_a_ml%C3%A1de%C5%BEe_v_Libereck%C3%A9m_kraji/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=38d9797b83044ada9c674c08b54f8548&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/38d9797b83044ada9c674c08b54f8548_0",
       "title": "Lékařská pohotovostní služba",
@@ -404,7 +494,7 @@
         "otevřená data"
       ],
       "issued": "2023-11-02T13:50:55.000Z",
-      "modified": "2023-11-02T13:55:19.733Z",
+      "modified": "2024-03-15T11:33:55.055Z",
       "publisher": {
         "name": "datalk"
       },
