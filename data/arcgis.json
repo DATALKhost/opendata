@@ -196,8 +196,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1b40d4b146e648cca7ca4dfe9712264b&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/1b40d4b146e648cca7ca4dfe9712264b_0",
-      "title": "Domovy dětí a mládeže v Libereckém kraji",
-      "description": "Seznam domovů dětí a mládeže v Libereckém kraji.",
+      "title": "Domy dětí a mládeže v Libereckém kraji",
+      "description": "Seznam domů dětí a mládeže v Libereckém kraji.",
       "keyword": [
         "domovy dětí a mládeže",
         "děti",
