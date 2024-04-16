@@ -318,7 +318,7 @@
         ],
         "type": "envelope"
       },
-      "license": "C0 1.0",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Kultura a kulturní dědictví",
         "Vzdělávání"
@@ -403,7 +403,7 @@
               },
               {
                 "Consts": {
-                  "useLimit": "C0 1.0"
+                  "useLimit": "CC0 1.0"
                 }
               }
             ]
@@ -949,7 +949,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=93c69d41e65c46cf919ebe851da95d0b&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/93c69d41e65c46cf919ebe851da95d0b_0",
       "title": "Dobrovolné svazky obcí Libereckého kraje",
-      "description": "Seznam obcí a jejich dobrovolných svazků, který jsou zapsaný na Krajském úřadu Libereckého kraje.",
+      "description": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
       "keyword": [
         "obec",
         "dobrovolný",
@@ -959,7 +959,7 @@
         "opendata"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2024-04-09T13:51:38.218Z",
+      "modified": "2024-04-15T13:04:00.410Z",
       "publisher": {
         "name": "datalk"
       },
@@ -1018,7 +1018,7 @@
           "mdTimeSt": "15:29:17.58",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "Seznam obcí a jejich dobrovolných svazků, který jsou zapsaný na Krajském úřadu Libereckého kraje.",
+            "idAbs": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "idCitation": {
               "resTitle": "Dobrovolné svazky obcí Libereckého kraje"
