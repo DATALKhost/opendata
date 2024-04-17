@@ -951,15 +951,15 @@
       "title": "Dobrovolné svazky obcí Libereckého kraje",
       "description": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
       "keyword": [
-        "obec",
         "dobrovolný",
         "svazek",
         "liberecký kraj",
         "seznam",
-        "opendata"
+        "opendata",
+        "obce"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2024-04-15T13:04:00.410Z",
+      "modified": "2024-04-16T09:30:56.202Z",
       "publisher": {
         "name": "datalk"
       },
@@ -1037,12 +1037,12 @@
             },
             "searchKeys": {
               "keyword": [
-                "obec",
                 "dobrovolný",
                 "svazek",
                 "liberecký kraj",
                 "seznam",
-                "opendata"
+                "opendata",
+                "obce"
               ]
             },
             "resConst": [
