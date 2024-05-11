@@ -47,7 +47,13 @@
       ],
       "metadata": {
         "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "mdContact": {
+            "rpOrgName": "Liberecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -71,13 +77,19 @@
           },
           "mdDateSt": "2023-10-31",
           "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
             "ArcGISFormat": 1,
             "CreaTime": "17:16:07.41",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2023-10-31",
+            "ModDate": "2024-05-10",
             "CreaDate": "2023-10-31",
-            "ModTime": "17:16:16.70",
+            "ModTime": "11:50:30.43",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -108,6 +120,26 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               },
               {
@@ -233,7 +265,108 @@
         "Kultura a kulturní dědictví",
         "Vzdělávání"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "rpOrgName": "Liberecký kraj",
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "1b40d4b146e648cca7ca4dfe9712264b",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Domovy_dětí_a_mládeže_v_Libereckém_kraji/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-05-10",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "11:27:30.28",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-05-10",
+            "CreaDate": "2024-05-10",
+            "ModTime": "11:29:55.17",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "11:27:30.28",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Seznam domů dětí a mládeže v Libereckém kraji.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Domy dětí a mládeže v Libereckém kraji"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "domovy dětí a mládeže",
+                "děti",
+                "mládež",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -324,7 +457,13 @@
       ],
       "metadata": {
         "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "mdContact": {
+            "rpOrgName": "Liberecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -348,13 +487,19 @@
           },
           "mdDateSt": "2024-03-26",
           "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
             "ArcGISFormat": 1,
             "CreaTime": "09:59:51.73",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-03-26",
+            "ModDate": "2024-05-10",
             "CreaDate": "2024-03-26",
-            "ModTime": "10:10:33.55",
+            "ModTime": "10:57:42.94",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -403,6 +548,26 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               }
             ]
@@ -514,6 +679,7 @@
         "metadata": {
           "mdContact": {
             "rpIndName": "Zdravotnictví a zdraví",
+            "rpOrgName": "Liberecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -521,13 +687,6 @@
             }
           },
           "mdFileID": "38d9797b83044ada9c674c08b54f8548",
-          "distInfo": {
-            "distTranOps": {
-              "onLineSrc": {
-                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Pohotovosti_LK/FeatureServer"
-              }
-            }
-          },
           "mdMaint": {
             "maintFreq": {
               "MaintFreqCd": {
@@ -535,15 +694,28 @@
               }
             }
           },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Pohotovosti_LK/FeatureServer"
+              }
+            }
+          },
           "mdDateSt": "2023-06-22",
           "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
             "ArcGISFormat": 1,
             "CreaTime": "17:24:45.85",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ArcGISstyle": "FGDC CSDGM Metadata",
-            "ModDate": "2023-06-22",
+            "ModDate": "2024-05-10",
             "CreaDate": "2023-06-22",
-            "ModTime": "17:27:08.01",
+            "ModTime": "11:31:06.53",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -582,6 +754,26 @@
               {
                 "Consts": {
                   "useLimit": "<span style='color:rgb(44, 62, 80); font-family:Lato, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;'>CC0 1.0</span>"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               },
               {
@@ -706,7 +898,114 @@
       "category": [
         "Kraj jako instituce"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "4ca4f0715baf41719f78cf107967414d",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Organizace_zrizovane_LK2/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-05-10",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "11:22:36.81",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-05-10",
+            "CreaDate": "2024-05-10",
+            "ModTime": "11:24:12.95",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "11:22:36.81",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Libereckým krajem.",
+            "idCredit": "Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Organizace zřizované Libereckým krajem"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "subjekt",
+                "organizace",
+                "opendata",
+                "otevřená data"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "<span style='color:rgb(76, 76, 76); font-family:Raleway, &quot;Avenir Next&quot;; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal; letter-spacing:normal; text-align:left; text-indent:0px; text-transform:none; word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial; text-decoration-color:initial; display:inline !important;'>Licence CC0 1.0</span>"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -796,7 +1095,13 @@
       ],
       "metadata": {
         "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "mdContact": {
+            "rpOrgName": "Liberecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -820,13 +1125,19 @@
           },
           "mdDateSt": "2024-04-24",
           "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
             "ArcGISFormat": 1,
             "CreaTime": "12:55:09.85",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-04-24",
+            "ModDate": "2024-05-10",
             "CreaDate": "2024-04-24",
-            "ModTime": "12:55:18.61",
+            "ModTime": "12:01:35.33",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -854,6 +1165,26 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               },
               {
@@ -981,7 +1312,13 @@
       ],
       "metadata": {
         "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "mdContact": {
+            "rpOrgName": "Liberecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -1005,13 +1342,19 @@
           },
           "mdDateSt": "2024-02-26",
           "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
             "ArcGISFormat": 1,
             "CreaTime": "17:10:35.73",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-02-26",
+            "ModDate": "2024-05-10",
             "CreaDate": "2024-02-26",
-            "ModTime": "17:10:43.84",
+            "ModTime": "11:49:17.71",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -1041,6 +1384,26 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               },
               {
@@ -1127,6 +1490,200 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8ea6109bdfa14d9e8d1b43530b533f1d&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/8ea6109bdfa14d9e8d1b43530b533f1d_0",
+      "title": "Kina v Libereckém kraji",
+      "description": "Datová sada obsahuje kina v Libereckém kraji. Sada poskytuje souřadnice, adresy, e-maily a telefonní čísla kin.",
+      "keyword": [
+        "kino",
+        "opendata",
+        "liberecký kraj"
+      ],
+      "issued": "2024-05-10T11:15:20.000Z",
+      "modified": "2024-05-10T11:15:40.612Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.4734,
+            50.5339
+          ],
+          [
+            15.5101,
+            50.9197
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kultura a kulturní dědictví"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "8ea6109bdfa14d9e8d1b43530b533f1d",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Kina_v_Libereckém_kraji/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-05-10",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "14:15:33.13",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-05-10",
+            "CreaDate": "2024-05-10",
+            "ModTime": "14:17:10.73",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "14:15:33.13",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Datová sada obsahuje kina v Libereckém kraji. Sada poskytuje souřadnice, adresy, e-maily a telefonní čísla kin.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Kina v Libereckém kraji"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "kino",
+                "opendata",
+                "liberecký kraj"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/8ea6109bdfa14d9e8d1b43530b533f1d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Kina_v_Libereck%C3%A9m_kraji/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8ea6109bdfa14d9e8d1b43530b533f1d/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=93c69d41e65c46cf919ebe851da95d0b&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/93c69d41e65c46cf919ebe851da95d0b_0",
       "title": "Dobrovolné svazky obcí Libereckého kraje",
@@ -1169,6 +1726,11 @@
       ],
       "metadata": {
         "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "mdContact": {
             "role": {
               "RoleCd": {
@@ -1187,22 +1749,37 @@
           "mdDateSt": "2024-03-06",
           "Esri": {
             "ArcGISFormat": 1,
-            "CreaTime": "15:29:17.58",
-            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "CreaTime": 15291758,
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-03-06",
-            "CreaDate": "2024-03-06",
-            "ModTime": "15:29:41.96",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ModDate": 20240306,
+            "CreaDate": 20240306,
+            "ModTime": 15294196,
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
           "mdTimeSt": "15:29:17.58",
-          "@_xml:lang": "en",
+          "@_xml:lang": "cs",
           "dataIdInfo": {
             "idAbs": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": 0,
+                  "southBL": 0,
+                  "northBL": 0,
+                  "westBL": 0
+                }
+              }
+            },
             "idCitation": {
               "resTitle": "Dobrovolné svazky obcí Libereckého kraje"
+            },
+            "dataLang": {
+              "languageCode": {
+                "@_value": "cze"
+              }
             },
             "resMaint": {
               "maintFreq": {
@@ -1357,7 +1934,13 @@
       ],
       "metadata": {
         "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
           "mdContact": {
+            "rpOrgName": "Liberecký kraj",
             "role": {
               "RoleCd": {
                 "@_value": "007"
@@ -1381,13 +1964,19 @@
           },
           "mdDateSt": "2024-02-27",
           "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
             "ArcGISFormat": 1,
             "CreaTime": "15:43:49.62",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-02-27",
+            "ModDate": "2024-05-10",
             "CreaDate": "2024-02-27",
-            "ModTime": "15:44:47.39",
+            "ModTime": "11:47:42.08",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -1414,6 +2003,26 @@
               ]
             },
             "resConst": [
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
               {
                 "LegConsts": {
                   "othConsts": "Jiná omezení",
