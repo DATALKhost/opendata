@@ -1058,7 +1058,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5f6e9dc729f54ff9b45cda7a05730927&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/5f6e9dc729f54ff9b45cda7a05730927_0",
-      "title": "Turistická informační centra v Libereckém kraji",
+      "title": "Turistická informační centra v Libereckém kraji",
       "description": "Datová sada turistických informačních center. Obashuje jejich adresy, regiony, souřadnice, weby a kontakty.",
       "keyword": [
         "turistika",
