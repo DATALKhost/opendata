@@ -6,6 +6,200 @@
   "dataset": [
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=041bf1be42cf4d67b668b01ac2d16353&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/041bf1be42cf4d67b668b01ac2d16353_0",
+      "title": "Asistenční vouchery Libereckého kraje",
+      "description": "Program je určen na podporu přípravy projektové žádosti naplňující RIS3 strategii. Využít jej mohou veřejnoprávní i soukromoprávní právnické osoby či fyzické osoby podnikající, které prokáží působnost na území Libereckého kraje (vyjma příspěvkových organizací zřízených krajem).",
+      "keyword": [
+        "asistenční",
+        "vouchery",
+        "opendata"
+      ],
+      "issued": "2024-07-10T09:33:25.000Z",
+      "modified": "2024-07-10T09:33:41.317Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.4642,
+            50.1235
+          ],
+          [
+            15.0744,
+            50.7731
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Dotace"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "041bf1be42cf4d67b668b01ac2d16353",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "012"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Asistenční_vouchery/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-07-10",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "11:48:54.91",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-07-10",
+            "CreaDate": "2024-07-10",
+            "ModTime": "11:54:58.57",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "11:48:54.91",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Program je určen na podporu přípravy projektové žádosti naplňující RIS3 strategii. Využít jej mohou veřejnoprávní i soukromoprávní právnické osoby či fyzické osoby podnikající, které prokáží působnost na území Libereckého kraje (vyjma příspěvkových organizací zřízených krajem).",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Asistenční vouchery Libereckého kraje"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "asistenční",
+                "vouchery",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/041bf1be42cf4d67b668b01ac2d16353_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Asisten%C4%8Dn%C3%AD_vouchery/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/041bf1be42cf4d67b668b01ac2d16353/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/041bf1be42cf4d67b668b01ac2d16353/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/041bf1be42cf4d67b668b01ac2d16353/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/041bf1be42cf4d67b668b01ac2d16353/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0eea4ad6c9b5426394a4f05c4dca9217&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0",
       "title": "Adresář obcí Libereckého kraje",
