@@ -1502,7 +1502,7 @@
           "mdMaint": {
             "maintFreq": {
               "MaintFreqCd": {
-                "@_value": "007"
+                "@_value": "008"
               }
             }
           },
@@ -1525,9 +1525,9 @@
             "CreaTime": "14:39:19.51",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-06-07",
+            "ModDate": "2024-07-19",
             "CreaDate": "2024-06-07",
-            "ModTime": "14:40:28.28",
+            "ModTime": "14:59:57.77",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -1556,6 +1556,26 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               },
               {
