@@ -2297,6 +2297,204 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=8c3ea27f40a04a3fa292f222100930ec&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/8c3ea27f40a04a3fa292f222100930ec_0",
+      "title": "Lidové architektonické památky",
+      "description": "Sada otevřených dat lidových architektonických památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Lidové architektonické památky jsou roubené chalupy, podstávkové domy, zvoničky i lidová architektura. Bohatství, které dokládá um řezbářů, tesařů i obyvatel kraje. Spousta z nich je přístupná celoročně, další však jen při speciálních událostech, kterými jsou Dny lidové architektury nebo Léto v podstávce.",
+      "keyword": [
+        "lidové",
+        "lidová",
+        "achitektura",
+        "památky",
+        "opendata"
+      ],
+      "issued": "2024-08-30T11:40:02.000Z",
+      "modified": "2024-08-30T11:48:49.232Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.5402,
+            50.5037
+          ],
+          [
+            15.5026,
+            50.961
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kultura a kulturní dědictví",
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "8c3ea27f40a04a3fa292f222100930ec",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Lidové_architektonické_památky/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-08-30",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "13:53:10.79",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-08-30",
+            "CreaDate": "2024-08-30",
+            "ModTime": "13:53:50.33",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "13:53:10.79",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Sada otevřených dat lidových architektonických památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Lidové architektonické památky jsou roubené chalupy, podstávkové domy, zvoničky i lidová architektura. Bohatství, které dokládá um řezbářů, tesařů i obyvatel kraje. Spousta z nich je přístupná celoročně, další však jen při speciálních událostech, kterými jsou Dny lidové architektury nebo Léto v podstávce.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Lidové architektonické památky"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "lidové",
+                "lidová",
+                "achitektura",
+                "památky",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/8c3ea27f40a04a3fa292f222100930ec_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Lidov%C3%A9_architektonick%C3%A9_pam%C3%A1tky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8ea6109bdfa14d9e8d1b43530b533f1d&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/8ea6109bdfa14d9e8d1b43530b533f1d_0",
       "title": "Kina v Libereckém kraji",
