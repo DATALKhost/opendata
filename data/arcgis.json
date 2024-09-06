@@ -1250,6 +1250,95 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=418c26b16b8a411d89e538961ce14a79&sublayer=0",
+      "landingPage": "https://www.datalk.cz/maps/418c26b16b8a411d89e538961ce14a79_0",
+      "title": "Divadla v Libereckém kraji",
+      "description": "Sada otevřených dat obashující seznam divadel v Libereckém kraji. Najdeme zde adresy, souřadnice, popis, stránky a další informace o divadlech. ",
+      "keyword": [
+        "divadla",
+        "opendata",
+        "liberecký kraj"
+      ],
+      "issued": "2024-09-05T12:34:30.000Z",
+      "modified": "2024-09-05T12:35:10.320Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.3918,
+            50.5285
+          ],
+          [
+            15.5104,
+            50.9252
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kultura a kulturní dědictví",
+        "Cestovní ruch"
+      ],
+      "metadata": "{{metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/418c26b16b8a411d89e538961ce14a79_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Divadla/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/418c26b16b8a411d89e538961ce14a79/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/418c26b16b8a411d89e538961ce14a79/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/418c26b16b8a411d89e538961ce14a79/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/418c26b16b8a411d89e538961ce14a79/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4ca4f0715baf41719f78cf107967414d&sublayer=0",
       "landingPage": "https://www.datalk.cz/maps/4ca4f0715baf41719f78cf107967414d_0",
       "title": "Organizace zřizované Libereckým krajem",
