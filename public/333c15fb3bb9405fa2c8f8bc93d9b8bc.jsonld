@@ -27,12 +27,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/maps/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
+      "iri": "https://www.datalk.cz/datasets/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/maps/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
-      "přístupové_url": "https://www.datalk.cz/maps/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
+      "soubor_ke_stažení": "https://www.datalk.cz/datasets/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
+      "přístupové_url": "https://www.datalk.cz/datasets/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {

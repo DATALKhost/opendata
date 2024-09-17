@@ -7,7 +7,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=041bf1be42cf4d67b668b01ac2d16353&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/041bf1be42cf4d67b668b01ac2d16353_0",
+      "landingPage": "https://www.datalk.cz/datasets/041bf1be42cf4d67b668b01ac2d16353_0",
       "title": "Asistenční vouchery Libereckého kraje",
       "description": "Program je určen na podporu přípravy projektové žádosti naplňující RIS3 strategii. Využít jej mohou veřejnoprávní i soukromoprávní právnické osoby či fyzické osoby podnikající, které prokáží působnost na území Libereckého kraje (vyjma příspěvkových organizací zřízených krajem).",
       "keyword": [
@@ -156,7 +156,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/041bf1be42cf4d67b668b01ac2d16353_0"
+          "accessURL": "https://www.datalk.cz/datasets/041bf1be42cf4d67b668b01ac2d16353_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -201,7 +201,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0eea4ad6c9b5426394a4f05c4dca9217&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0",
+      "landingPage": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0",
       "title": "Adresář obcí Libereckého kraje",
       "description": "Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů.",
       "keyword": [
@@ -376,7 +376,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/0eea4ad6c9b5426394a4f05c4dca9217_0"
+          "accessURL": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -421,7 +421,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1b40d4b146e648cca7ca4dfe9712264b&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/1b40d4b146e648cca7ca4dfe9712264b_0",
+      "landingPage": "https://www.datalk.cz/datasets/1b40d4b146e648cca7ca4dfe9712264b_0",
       "title": "Domy dětí a mládeže v Libereckém kraji",
       "description": "Seznam domů dětí a mládeže v Libereckém kraji.",
       "keyword": [
@@ -567,7 +567,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/1b40d4b146e648cca7ca4dfe9712264b_0"
+          "accessURL": "https://www.datalk.cz/datasets/1b40d4b146e648cca7ca4dfe9712264b_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -612,7 +612,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=333c15fb3bb9405fa2c8f8bc93d9b8bc&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
+      "landingPage": "https://www.datalk.cz/datasets/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
       "title": "Muzea v Libereckém kraji",
       "description": "<div>Datová sada muzeí v Libereckém kraji. Obsahuje jejich název, adresu, kategorii, kontakty a souřadnice.</div>",
       "keyword": [
@@ -763,7 +763,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/333c15fb3bb9405fa2c8f8bc93d9b8bc_0"
+          "accessURL": "https://www.datalk.cz/datasets/333c15fb3bb9405fa2c8f8bc93d9b8bc_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -808,7 +808,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=34bdb4401c2c4005a3af11690cc4e0a4&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/34bdb4401c2c4005a3af11690cc4e0a4_0",
+      "landingPage": "https://www.datalk.cz/datasets/34bdb4401c2c4005a3af11690cc4e0a4_0",
       "title": "Základní umělecké školy v Libereckém kraji",
       "description": "Datová sada základních uměleckých škol v Libereckém kraji, včetně jejich poboček. Sada obsahuje jejich adresy, ičo, typ pobočky, souřadnice a webové stránky.",
       "keyword": [
@@ -980,7 +980,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/34bdb4401c2c4005a3af11690cc4e0a4_0"
+          "accessURL": "https://www.datalk.cz/datasets/34bdb4401c2c4005a3af11690cc4e0a4_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1025,7 +1025,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=38d9797b83044ada9c674c08b54f8548&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/38d9797b83044ada9c674c08b54f8548_0",
+      "landingPage": "https://www.datalk.cz/datasets/38d9797b83044ada9c674c08b54f8548_0",
       "title": "Lékařská pohotovostní služba",
       "description": "Datová sada poskytovatelů lékařské pohotovostní služby pro děti, dospělé a zubní pohotovost na území Libereckého kraje.",
       "keyword": [
@@ -1206,7 +1206,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/38d9797b83044ada9c674c08b54f8548_0"
+          "accessURL": "https://www.datalk.cz/datasets/38d9797b83044ada9c674c08b54f8548_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1251,7 +1251,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=418c26b16b8a411d89e538961ce14a79&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/418c26b16b8a411d89e538961ce14a79_0",
+      "landingPage": "https://www.datalk.cz/datasets/418c26b16b8a411d89e538961ce14a79_0",
       "title": "Divadla v Libereckém kraji",
       "description": "Sada otevřených dat obashující seznam divadel v Libereckém kraji. Najdeme zde adresy, souřadnice, popis, stránky a další informace o divadlech. ",
       "keyword": [
@@ -1295,7 +1295,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/418c26b16b8a411d89e538961ce14a79_0"
+          "accessURL": "https://www.datalk.cz/datasets/418c26b16b8a411d89e538961ce14a79_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1340,7 +1340,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=4ca4f0715baf41719f78cf107967414d&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/4ca4f0715baf41719f78cf107967414d_0",
+      "landingPage": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0",
       "title": "Organizace zřizované Libereckým krajem",
       "description": "Datová sada s prostorovou lokalizací organizací založených nebo zřízených Libereckým krajem.",
       "keyword": [
@@ -1491,7 +1491,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/4ca4f0715baf41719f78cf107967414d_0"
+          "accessURL": "https://www.datalk.cz/datasets/4ca4f0715baf41719f78cf107967414d_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1536,7 +1536,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5f6e9dc729f54ff9b45cda7a05730927&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/5f6e9dc729f54ff9b45cda7a05730927_0",
+      "landingPage": "https://www.datalk.cz/datasets/5f6e9dc729f54ff9b45cda7a05730927_0",
       "title": "Turistická informační centra v Libereckém kraji",
       "description": "Datová sada turistických informačních center. Obashuje jejich adresy, regiony, souřadnice, weby a kontakty.",
       "keyword": [
@@ -1707,7 +1707,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/5f6e9dc729f54ff9b45cda7a05730927_0"
+          "accessURL": "https://www.datalk.cz/datasets/5f6e9dc729f54ff9b45cda7a05730927_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1752,7 +1752,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6da21aeaf4844012929017561edb59be&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/6da21aeaf4844012929017561edb59be_0",
+      "landingPage": "https://www.datalk.cz/datasets/6da21aeaf4844012929017561edb59be_0",
       "title": "Výjezdové základny ZZS LK",
       "description": "Umístění <b>14 </b>výjezdových základen Zdravotnické záchranné služby Libereckého kraje.<br /><br />Složení posádek, které ze základny vyjíždí:<br /><b>RV</b> - výjezdové skupiny rychlé lékařské pomoci, jejichž členem je lékař<br /><b>RZP</b> - výjezdové skupiny rychlé zdravotnické pomoci, jejichž členy jsou zdravotničtí pracovníci nelékařského zdravotnického povolání.<br /><br />Výjezdové skupiny mohou vykonávat činnost též v rámci setkávacího systému (tzv. Rendez-Vous systému), kdy se na místě události setkávají výjezdové skupiny rychlé lékařské pomoci a rychlé zdravotnické pomoci. Kromě těchto výjezdových skupin je v kraji dostupná i letecká zdravotnická služba (<b>LZS</b>).",
       "keyword": [
@@ -1908,7 +1908,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/6da21aeaf4844012929017561edb59be_0"
+          "accessURL": "https://www.datalk.cz/datasets/6da21aeaf4844012929017561edb59be_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -1953,7 +1953,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=823b604ad926481dae05ab967bd08edd&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/823b604ad926481dae05ab967bd08edd_0",
+      "landingPage": "https://www.datalk.cz/datasets/823b604ad926481dae05ab967bd08edd_0",
       "title": "Knihovny v Libereckém kraji",
       "description": "Seznam knihoven v Libereckým kraji. Obashuje jejich adresy, souřadnice, název, druh a kategorie.",
       "keyword": [
@@ -2123,7 +2123,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/823b604ad926481dae05ab967bd08edd_0"
+          "accessURL": "https://www.datalk.cz/datasets/823b604ad926481dae05ab967bd08edd_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2168,7 +2168,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=870170d57cf94784a50600cc63e83415&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/870170d57cf94784a50600cc63e83415_0",
+      "landingPage": "https://www.datalk.cz/datasets/870170d57cf94784a50600cc63e83415_0",
       "title": "Orlovny v Libereckém kraji",
       "description": "Otevřená sada tělovýchovných jednot Orla v Libereckém kraji.",
       "keyword": [
@@ -2342,7 +2342,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/870170d57cf94784a50600cc63e83415_0"
+          "accessURL": "https://www.datalk.cz/datasets/870170d57cf94784a50600cc63e83415_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2387,7 +2387,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8c3ea27f40a04a3fa292f222100930ec&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/8c3ea27f40a04a3fa292f222100930ec_0",
+      "landingPage": "https://www.datalk.cz/datasets/8c3ea27f40a04a3fa292f222100930ec_0",
       "title": "Lidové architektonické památky",
       "description": "Sada otevřených dat lidových architektonických památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Lidové architektonické památky jsou roubené chalupy, podstávkové domy, zvoničky i lidová architektura. Bohatství, které dokládá um řezbářů, tesařů i obyvatel kraje. Spousta z nich je přístupná celoročně, další však jen při speciálních událostech, kterými jsou Dny lidové architektury nebo Léto v podstávce.",
       "keyword": [
@@ -2540,7 +2540,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/8c3ea27f40a04a3fa292f222100930ec_0"
+          "accessURL": "https://www.datalk.cz/datasets/8c3ea27f40a04a3fa292f222100930ec_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2585,7 +2585,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=8ea6109bdfa14d9e8d1b43530b533f1d&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/8ea6109bdfa14d9e8d1b43530b533f1d_0",
+      "landingPage": "https://www.datalk.cz/datasets/8ea6109bdfa14d9e8d1b43530b533f1d_0",
       "title": "Kina v Libereckém kraji",
       "description": "Datová sada obsahuje kina v Libereckém kraji. Sada poskytuje souřadnice, adresy, e-maily a telefonní čísla kin.",
       "keyword": [
@@ -2734,7 +2734,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/8ea6109bdfa14d9e8d1b43530b533f1d_0"
+          "accessURL": "https://www.datalk.cz/datasets/8ea6109bdfa14d9e8d1b43530b533f1d_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2779,7 +2779,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=93c69d41e65c46cf919ebe851da95d0b&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/93c69d41e65c46cf919ebe851da95d0b_0",
+      "landingPage": "https://www.datalk.cz/datasets/93c69d41e65c46cf919ebe851da95d0b_0",
       "title": "Dobrovolné svazky obcí Libereckého kraje",
       "description": " Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje. ",
       "keyword": [
@@ -2943,7 +2943,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/93c69d41e65c46cf919ebe851da95d0b_0"
+          "accessURL": "https://www.datalk.cz/datasets/93c69d41e65c46cf919ebe851da95d0b_0"
         },
         {
           "@type": "dcat:Distribution",
@@ -2988,7 +2988,7 @@
     {
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c356d888901b4c7bbcefaef85360fb73&sublayer=0",
-      "landingPage": "https://www.datalk.cz/maps/c356d888901b4c7bbcefaef85360fb73_0",
+      "landingPage": "https://www.datalk.cz/datasets/c356d888901b4c7bbcefaef85360fb73_0",
       "title": "Sokolovny v Libereckém kraji",
       "description": "Seznam tělovýchovných jednot Sokola v Libereckém kraji",
       "keyword": [
@@ -3157,7 +3157,7 @@
           "title": "ArcGIS Hub Dataset",
           "format": "Web Page",
           "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/maps/c356d888901b4c7bbcefaef85360fb73_0"
+          "accessURL": "https://www.datalk.cz/datasets/c356d888901b4c7bbcefaef85360fb73_0"
         },
         {
           "@type": "dcat:Distribution",
