@@ -20,6 +20,7 @@ export const META_LKOD = {
 	themes: {
 		'Obecná charakteristika': ['REGI', 'GOVE', 'INTR'],
 		'Kraj jako instituce': ['GOVE', 'ECON'],
+		'Dotace': ['GOVE', 'ECON'],
 		'Zaměstnanost a pracovní trh': ['ECON','SOCI'],
 		'Podníkání, výzkum, vývoj a inovace': ['TECH'],
 		'Cestovní ruch': ['EDUC'],
