@@ -33,7 +33,8 @@
     "https://open.datalk.cz/8c3ea27f40a04a3fa292f222100930ec.jsonld",
     "https://open.datalk.cz/8ea6109bdfa14d9e8d1b43530b533f1d.jsonld",
     "https://open.datalk.cz/93c69d41e65c46cf919ebe851da95d0b.jsonld",
-    "https://open.datalk.cz/c356d888901b4c7bbcefaef85360fb73.jsonld"
+    "https://open.datalk.cz/c356d888901b4c7bbcefaef85360fb73.jsonld",
+    "https://open.datalk.cz/cdf44a45086548b1a450c96fcdef04c1.jsonld"
   ],
   "_datasets": [
     {
@@ -1144,7 +1145,7 @@
         "cs": "Turistická informační centra v Libereckém kraji"
       },
       "popis": {
-        "cs": "Datová sada turistických informačních center. Obashuje jejich adresy, regiony, souřadnice, weby a kontakty."
+        "cs": "Datová sada turistických informačních center. Obsahuje jejich adresy, regiony, souřadnice, weby a kontakty."
       },
       "klíčové_slovo": {
         "cs": [
@@ -2228,6 +2229,106 @@
           "přístupové_url": "https://www.datalk.cz/api/download/v1/items/c356d888901b4c7bbcefaef85360fb73/kml?layers=0",
           "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
           "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/cdf44a45086548b1a450c96fcdef04c1.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Dopravci provozující osobní linkovou dopravu "
+      },
+      "popis": {
+        "cs": "Seznam dopravců provozujících osobní linkovou dopravu na území Libereckého kraje."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "doprava",
+          "dopravci",
+          "opendata"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/datasets/cdf44a45086548b1a450c96fcdef04c1_0",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/datasets/cdf44a45086548b1a450c96fcdef04c1_0",
+          "přístupové_url": "https://www.datalk.cz/datasets/cdf44a45086548b1a450c96fcdef04c1_0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dopravci_provozuj%C3%ADc%C3%AD_osobn%C3%AD_linkovou_dopravu_/FeatureServer/0",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dopravci_provozuj%C3%ADc%C3%AD_osobn%C3%AD_linkovou_dopravu_/FeatureServer/0",
+          "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dopravci_provozuj%C3%ADc%C3%AD_osobn%C3%AD_linkovou_dopravu_/FeatureServer/0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/csv?layers=0",
+          "název": {
+            "cs": "CSV"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/csv?layers=0",
+          "přístupové_url": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/csv?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/geojson?layers=0",
+          "název": {
+            "cs": "GeoJSON"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/geojson?layers=0",
+          "přístupové_url": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/geojson?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
           "podmínky_užití": {
             "typ": "Specifikace podmínek užití",
             "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

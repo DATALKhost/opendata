@@ -212,7 +212,7 @@
         "opendata"
       ],
       "issued": "2023-10-31T16:01:12.000Z",
-      "modified": "2024-07-31T14:55:22.632Z",
+      "modified": "2024-09-30T10:29:33.631Z",
       "publisher": {
         "name": "datalk"
       },
@@ -1538,7 +1538,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=5f6e9dc729f54ff9b45cda7a05730927&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/5f6e9dc729f54ff9b45cda7a05730927_0",
       "title": "Turistická informační centra v Libereckém kraji",
-      "description": "Datová sada turistických informačních center. Obashuje jejich adresy, regiony, souřadnice, weby a kontakty.",
+      "description": "Datová sada turistických informačních center. Obsahuje jejich adresy, regiony, souřadnice, weby a kontakty.",
       "keyword": [
         "turistika",
         "informační centrum",
@@ -1623,7 +1623,7 @@
           "mdTimeSt": "14:39:19.51",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "Datová sada turistických informačních center. Obashuje jejich adresy, regiony, souřadnice, weby a kontakty.",
+            "idAbs": "Datová sada turistických informačních center. Obsahuje jejich adresy, regiony, souřadnice, weby a kontakty.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "idCitation": {
               "resTitle": "Informační turistický centra"
@@ -3193,6 +3193,68 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/c356d888901b4c7bbcefaef85360fb73/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=cdf44a45086548b1a450c96fcdef04c1&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/cdf44a45086548b1a450c96fcdef04c1_0",
+      "title": "Dopravci provozující osobní linkovou dopravu ",
+      "description": "<p>Seznam dopravců provozujících osobní linkovou dopravu na území Libereckého kraje.<br /></p>",
+      "keyword": [
+        "doprava",
+        "dopravci",
+        "opendata"
+      ],
+      "issued": "2024-09-11T12:16:41.000Z",
+      "modified": "2024-09-11T12:23:06.432Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": "{{extent}}",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Doprava"
+      ],
+      "metadata": "{{metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/cdf44a45086548b1a450c96fcdef04c1_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dopravci_provozuj%C3%ADc%C3%AD_osobn%C3%AD_linkovou_dopravu_/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/geojson?layers=0"
         }
       ],
       "theme": [
