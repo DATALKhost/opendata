@@ -7,13 +7,13 @@
     "cs": "Knihovny v Libereckém kraji"
   },
   "popis": {
-    "cs": "Seznam knihoven v Libereckým kraji. Obashuje jejich adresy, souřadnice, název, druh a kategorie."
+    "cs": "Seznam knihoven v Libereckém kraji. Obsahuje jejich adresy, souřadnice, název, druh a kategorie."
   },
   "klíčové_slovo": {
     "cs": [
       "knihovna",
       "opendata",
-      "liberecký kraj"
+      "Liberecký kraj"
     ]
   },
   "téma": [

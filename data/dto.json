@@ -27,6 +27,7 @@
     "https://open.datalk.cz/418c26b16b8a411d89e538961ce14a79.jsonld",
     "https://open.datalk.cz/4ca4f0715baf41719f78cf107967414d.jsonld",
     "https://open.datalk.cz/5f6e9dc729f54ff9b45cda7a05730927.jsonld",
+    "https://open.datalk.cz/68bd1d885b524391a7c08c91ebf1556c.jsonld",
     "https://open.datalk.cz/6da21aeaf4844012929017561edb59be.jsonld",
     "https://open.datalk.cz/823b604ad926481dae05ab967bd08edd.jsonld",
     "https://open.datalk.cz/870170d57cf94784a50600cc63e83415.jsonld",
@@ -52,7 +53,8 @@
         "cs": [
           "asistenční",
           "vouchery",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -191,7 +193,8 @@
           "kód",
           "adresář",
           "otevřená",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -328,7 +331,8 @@
           "domovy dětí a mládeže",
           "děti",
           "mládež",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -464,9 +468,9 @@
       "klíčové_slovo": {
         "cs": [
           "muzea",
-          "liberecký kraj",
           "muzeum",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -603,7 +607,8 @@
           "škola",
           "umělecká",
           "základní",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -743,7 +748,8 @@
           "LPS",
           "emergency",
           "opendata",
-          "otevřená data"
+          "otevřená data",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -879,7 +885,7 @@
         "cs": [
           "divadla",
           "opendata",
-          "liberecký kraj"
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1017,7 +1023,8 @@
           "subjekt",
           "organizace",
           "opendata",
-          "otevřená data"
+          "otevřená data",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1155,7 +1162,8 @@
           "turistika",
           "informační centrum",
           "turismus",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1278,6 +1286,144 @@
     },
     {
       "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+      "iri": "https://open.datalk.cz/68bd1d885b524391a7c08c91ebf1556c.jsonld",
+      "typ": "Datová sada",
+      "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
+      "název": {
+        "cs": "Školy zajišťující kurz pro doplnění základního vzdělávání"
+      },
+      "popis": {
+        "cs": "Seznam škol, na kterých, v souladu s ust. § 55 odst. 3 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů, Krajský úřad Libereckého kraje zajistil kurz pro doplnění základního vzdělání ve svém správním obvodu."
+      },
+      "klíčové_slovo": {
+        "cs": [
+          "vzdělání",
+          "základní",
+          "kurz",
+          "opendata",
+          "škola"
+        ]
+      },
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+      ],
+      "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+      "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/vusc/78"
+      ],
+      "distribuce": [
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/datasets/68bd1d885b524391a7c08c91ebf1556c_0",
+          "název": {
+            "cs": "ArcGIS Hub Dataset"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/datasets/68bd1d885b524391a7c08c91ebf1556c_0",
+          "přístupové_url": "https://www.datalk.cz/datasets/68bd1d885b524391a7c08c91ebf1556c_0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Skoly_kurz_doplneni_ZS_vzdelani/FeatureServer/0",
+          "název": {
+            "cs": "ArcGIS GeoService"
+          },
+          "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Skoly_kurz_doplneni_ZS_vzdelani/FeatureServer/0",
+          "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Skoly_kurz_doplneni_ZS_vzdelani/FeatureServer/0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/csv?layers=0",
+          "název": {
+            "cs": "CSV"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/csv?layers=0",
+          "přístupové_url": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/csv?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/geojson?layers=0",
+          "název": {
+            "cs": "GeoJSON"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/geojson?layers=0",
+          "přístupové_url": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/geojson?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/shapefile?layers=0",
+          "název": {
+            "cs": "Shapefile"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/shapefile?layers=0",
+          "přístupové_url": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/shapefile?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        },
+        {
+          "typ": "Distribuce",
+          "iri": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/kml?layers=0",
+          "název": {
+            "cs": "KML"
+          },
+          "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/kml?layers=0",
+          "přístupové_url": "https://www.datalk.cz/api/download/v1/items/68bd1d885b524391a7c08c91ebf1556c/kml?layers=0",
+          "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
+          "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
+          "podmínky_užití": {
+            "typ": "Specifikace podmínek užití",
+            "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+            "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+            "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+            "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
       "iri": "https://open.datalk.cz/6da21aeaf4844012929017561edb59be.jsonld",
       "typ": "Datová sada",
       "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
@@ -1295,7 +1441,8 @@
           "vrtulník",
           "záchranář",
           "záchranka",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1425,13 +1572,13 @@
         "cs": "Knihovny v Libereckém kraji"
       },
       "popis": {
-        "cs": "Seznam knihoven v Libereckým kraji. Obashuje jejich adresy, souřadnice, název, druh a kategorie."
+        "cs": "Seznam knihoven v Libereckém kraji. Obsahuje jejich adresy, souřadnice, název, druh a kategorie."
       },
       "klíčové_slovo": {
         "cs": [
           "knihovna",
           "opendata",
-          "liberecký kraj"
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1569,7 +1716,8 @@
           "tělocvična",
           "jednota",
           "Orel",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1707,7 +1855,8 @@
           "lidová",
           "achitektura",
           "památky",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1844,7 +1993,7 @@
         "cs": [
           "kino",
           "opendata",
-          "liberecký kraj"
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -1980,10 +2129,10 @@
         "cs": [
           "dobrovolný",
           "svazek",
-          "liberecký kraj",
           "seznam",
           "opendata",
-          "obce"
+          "obce",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -2121,7 +2270,8 @@
           "tělovýchova",
           "jednota",
           "Sokol",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
@@ -2257,7 +2407,8 @@
         "cs": [
           "doprava",
           "dopravci",
-          "opendata"
+          "opendata",
+          "Liberecký kraj"
         ]
       },
       "téma": [
