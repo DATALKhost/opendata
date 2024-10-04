@@ -2068,6 +2068,208 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6aa1b432015d4b6987830f92b4f65f69&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/6aa1b432015d4b6987830f92b4f65f69_0",
+      "title": "Regionální inovační program Libereckého kraje",
+      "description": "<div>Sada\n otevřených dat regionálního inovačního programu v Libereckém kraji. \nSada obsahuje název projektu, jeho popis, výši dotace poskytnuté v rámci\n programu, vlastní podíl žadatele atd. Dále sada obsahuje informace o \nžadateli (název, adresa, souřadnice, IČ). Regionální inovační program je\n zaměřen na zvýšení konkurenceschopnosti Libereckého kraje \nprostřednictvím využití inovačního potenciálu firem a současně \nzefektivnění komercionalizace výzkumu vysokých škol a poskytovatelů \nznalostí, podpora vzniku nových podnikatelských subjektů s inovativním \npotenciálem a ověření technologického/technického řešení v jakékoliv \nfázi vývoje.</div>",
+      "keyword": [
+        "region",
+        "inovace",
+        "program",
+        "regionální inovační program",
+        "dotace",
+        "Liberecký kraj",
+        "opendata"
+      ],
+      "issued": "2024-10-03T09:06:47.000Z",
+      "modified": "2024-10-03T09:06:56.757Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.429,
+            49.872
+          ],
+          [
+            15.57,
+            50.9177
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Dotace"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "6aa1b432015d4b6987830f92b4f65f69",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Regionální_inovační_program/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-10-03",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "11:09:39.21",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-10-03",
+            "CreaDate": "2024-10-03",
+            "ModTime": "11:10:30.05",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "11:09:39.21",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "<div>Sada\n otevřených dat regionálního inovačního programu v Libereckém kraji. \nSada obsahuje název projektu, jeho popis, výši dotace poskytnuté v rámci\n programu, vlastní podíl žadatele atd. Dále sada obsahuje informace o \nžadateli (název, adresa, souřadnice, IČ). Regionální inovační program je\n zaměřen na zvýšení konkurenceschopnosti Libereckého kraje \nprostřednictvím využití inovačního potenciálu firem a současně \nzefektivnění komercionalizace výzkumu vysokých škol a poskytovatelů \nznalostí, podpora vzniku nových podnikatelských subjektů s inovativním \npotenciálem a ověření technologického/technického řešení v jakékoliv \nfázi vývoje.</div>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Regionální inovační program"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "region",
+                "inovace",
+                "program",
+                "regionální inovační program",
+                "dotace",
+                "Liberecký kraj",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/6aa1b432015d4b6987830f92b4f65f69_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_inova%C4%8Dn%C3%AD_program/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6da21aeaf4844012929017561edb59be&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/6da21aeaf4844012929017561edb59be_0",
       "title": "Výjezdové základny ZZS LK",
