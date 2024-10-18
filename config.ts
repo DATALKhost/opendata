@@ -47,7 +47,7 @@ export const META_LKOD = {
 		'004': 'BIWEEKLY',
 		'005': 'MONTHLY',
 		'006': 'QUARTERLY',
-		'007': 'BIENNIAL',
+		'007': 'ANNUAL_2',
 		'008': 'ANNUAL',
 		'009': 'OTHER',
 		'010': 'IRREG',
