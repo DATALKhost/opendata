@@ -424,6 +424,199 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=173ac9a996f34d32a3d8b31a816414bd&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/173ac9a996f34d32a3d8b31a816414bd_0",
+      "title": "Pivovary v Libereckém kraji",
+      "description": "Sada otevřených dat pivovarů a jim příbuzným objektům v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Příbuzné objekty zde zahrnují budovy bývalých pivovarů, či pivní lázně.",
+      "keyword": [
+        "pivovary",
+        "Liberecký kraj",
+        "opendata"
+      ],
+      "issued": "2024-10-17T12:39:36.000Z",
+      "modified": "2024-10-17T13:02:00.500Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.5338,
+            50.5295
+          ],
+          [
+            15.5066,
+            50.9147
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "173ac9a996f34d32a3d8b31a816414bd",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Pivovary_v_Libereckém_kraji/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-10-17",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "14:59:58.53",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-10-17",
+            "CreaDate": "2024-10-17",
+            "ModTime": "15:01:36.86",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "14:59:58.53",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Sada otevřených dat pivovarů a jim příbuzným objektům v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Příbuzné objekty zde zahrnují budovy bývalých pivovarů, či pivní lázně.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Pivovary v Libereckém kraji"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "pivovary",
+                "Liberecký kraj",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/173ac9a996f34d32a3d8b31a816414bd_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Pivovary_v_Libereck%C3%A9m_kraji/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/173ac9a996f34d32a3d8b31a816414bd/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/173ac9a996f34d32a3d8b31a816414bd/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/173ac9a996f34d32a3d8b31a816414bd/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/173ac9a996f34d32a3d8b31a816414bd/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=1b40d4b146e648cca7ca4dfe9712264b&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/1b40d4b146e648cca7ca4dfe9712264b_0",
       "title": "Domy dětí a mládeže v Libereckém kraji",
@@ -609,6 +802,209 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2e1c9521eab44e53a5a14d065b20012d&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/2e1c9521eab44e53a5a14d065b20012d_0",
+      "title": "Aquaparky a bazény a další místa na koupání",
+      "description": "Sada otevřených dat míst na koupání v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Místa na koupání zahrnuje koupaliště, aquaparky, bazény, koupaliště, jezera, rybníky a ostatní vodní plochy ke koupání.",
+      "keyword": [
+        "aquaparky",
+        "bazény",
+        "rybníky",
+        "pláže",
+        "koupání",
+        "Liberecký kraj",
+        "jezera",
+        "opendata"
+      ],
+      "issued": "2024-10-10T08:36:08.000Z",
+      "modified": "2024-10-10T09:24:20.546Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.3877,
+            50.523
+          ],
+          [
+            15.5601,
+            50.9261
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "2e1c9521eab44e53a5a14d065b20012d",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_bazény_a_další_místa_na_koupání/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-10-10",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "11:22:51.66",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-10-10",
+            "CreaDate": "2024-10-10",
+            "ModTime": "11:23:22.83",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "11:22:51.66",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Sada otevřených dat míst na koupání v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Místa na koupání zahrnuje koupaliště, aquaparky, bazény, koupaliště, jezera, rybníky a ostatní vodní plochy ke koupání.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Aquaparky a bazény a další místa na koupání"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "aquaparky",
+                "bazény",
+                "rybníky",
+                "pláže",
+                "koupání",
+                "Liberecký kraj",
+                "jezera",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/2e1c9521eab44e53a5a14d065b20012d_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_baz%C3%A9ny_a_dal%C5%A1%C3%AD_m%C3%ADsta_na_koup%C3%A1n%C3%AD/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2e1c9521eab44e53a5a14d065b20012d/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2e1c9521eab44e53a5a14d065b20012d/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2e1c9521eab44e53a5a14d065b20012d/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2e1c9521eab44e53a5a14d065b20012d/kml?layers=0"
         }
       ],
       "theme": [
@@ -4009,6 +4405,197 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/c356d888901b4c7bbcefaef85360fb73/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=ca4c56cba6954c0aa60228cc6abfd5e9&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/ca4c56cba6954c0aa60228cc6abfd5e9_0",
+      "title": "Ostatní historické památky",
+      "description": "Sada otevřených dat dalších historických památek v Libereckém kraji.  Za další historické památky je například bráno historické budovy, kašny, radnice či významná sousoší..Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd.",
+      "keyword": [
+        "ostatní",
+        "historické",
+        "památky",
+        "Liberecký kraj",
+        "opendata"
+      ],
+      "issued": "2024-10-15T08:32:23.000Z",
+      "modified": "2024-10-15T12:49:56.593Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.3911,
+            50.5087
+          ],
+          [
+            15.5122,
+            51.4844
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kultura a kulturní dědictví",
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "ca4c56cba6954c0aa60228cc6abfd5e9",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Ostatní_historické_památky/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-10-15",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "14:19:19.63",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-10-15",
+            "CreaDate": "2024-10-15",
+            "ModTime": "14:28:21.22",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "14:19:19.63",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Sada otevřených dat dalších historických památek v Libereckém kraji.  Za další historické památky je například bráno historické budovy, kašny, radnice či významná sousoší..Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Ostatní historické památky"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "ostatní",
+                "historické",
+                "památky",
+                "Liberecký kraj",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/ca4c56cba6954c0aa60228cc6abfd5e9_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Ostatn%C3%AD_historick%C3%A9_pam%C3%A1tky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/kml?layers=0"
         }
       ],
       "theme": [
