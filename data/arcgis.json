@@ -62,7 +62,7 @@
           "mdMaint": {
             "maintFreq": {
               "MaintFreqCd": {
-                "@_value": "012"
+                "@_value": "008"
               }
             }
           },
@@ -85,9 +85,9 @@
             "CreaTime": "11:48:54.91",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-07-10",
+            "ModDate": "2024-10-18",
             "CreaDate": "2024-07-10",
-            "ModTime": "11:54:58.57",
+            "ModTime": "16:18:32.27",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -136,6 +136,26 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               }
             ]
@@ -501,14 +521,19 @@
             "CreaTime": "14:59:58.53",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-10-17",
+            "ModDate": "2024-10-18",
             "CreaDate": "2024-10-17",
-            "ModTime": "15:01:36.86",
+            "ModTime": "16:46:05.31",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
           "mdTimeSt": "14:59:58.53",
           "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
           "dataIdInfo": {
             "idAbs": "Sada otevřených dat pivovarů a jim příbuzným objektům v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Příbuzné objekty zde zahrnují budovy bývalých pivovarů, či pivní lázně.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
@@ -531,6 +556,46 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               },
               {
@@ -4119,7 +4184,7 @@
         "opendata"
       ],
       "issued": "2024-10-08T12:52:41.000Z",
-      "modified": "2024-10-08T12:52:56.334Z",
+      "modified": "2024-10-18T14:02:10.797Z",
       "publisher": {
         "name": "datalk"
       },
@@ -4146,7 +4211,134 @@
       "category": [
         "Cestovní ruch"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "95fa7a11cca0403b875738a3facea211",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Letiště_a_letecké_aktivity/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-10-18",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "16:05:42.91",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-10-18",
+            "CreaDate": "2024-10-18",
+            "ModTime": "16:17:43.59",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "16:05:42.91",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Sada otevřených dat letišť, balónových letů a paragladingu v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Letiště a letecké aktivity"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "letiště",
+                "letecké",
+                "aktivity",
+                "Liberecký kraj",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
