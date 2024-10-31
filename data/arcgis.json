@@ -4168,7 +4168,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=93c69d41e65c46cf919ebe851da95d0b&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/93c69d41e65c46cf919ebe851da95d0b_0",
       "title": "Dobrovolné svazky obcí Libereckého kraje",
-      "description": " Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje. ",
+      "description": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
       "keyword": [
         "dobrovolný",
         "svazek",
@@ -4231,11 +4231,11 @@
           "Esri": {
             "ArcGISFormat": 1,
             "CreaTime": 15291758,
-            "ArcGISProfile": "ISO19139",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-            "ModDate": 20240306,
-            "CreaDate": 20240306,
-            "ModTime": 15294196,
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-10-30",
+            "CreaDate": "2024-03-06",
+            "ModTime": "13:04:00.41",
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
@@ -4308,6 +4308,46 @@
               {
                 "Consts": {
                   "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
                 }
               }
             ]
