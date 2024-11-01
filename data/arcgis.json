@@ -4631,6 +4631,201 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b2cd3e27a2c34c7892a4164de2fa34bd&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/b2cd3e27a2c34c7892a4164de2fa34bd_0",
+      "title": "Zábavní centra",
+      "description": "Sada otevřených dat zábavních center v Libereckém kraji zahrnující sportoviště, vzdělávací a zábavní centra. Za zábavní centra se zde považují velká, tak i malá komerční místa, nabízející různé druhy atrakcí a zábavy. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd.",
+      "keyword": [
+        "zábavní",
+        "centra",
+        "Liberecký kraj",
+        "opendata"
+      ],
+      "issued": "2024-10-31T09:24:18.000Z",
+      "modified": "2024-10-31T11:22:51.150Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}",
+        "@type": "vcard:Contact"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.5342,
+            50.5406
+          ],
+          [
+            15.5491,
+            50.7911
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "b2cd3e27a2c34c7892a4164de2fa34bd",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Zábavní_centra/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-10-31",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "10:59:03.27",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-10-31",
+            "CreaDate": "2024-10-31",
+            "ModTime": "11:00:26.52",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "10:59:03.27",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Sada otevřených dat zábavních center v Libereckém kraji zahrnující sportoviště, vzdělávací a zábavní centra. Za zábavní centra se zde považují velká, tak i malá komerční místa, nabízející různé druhy atrakcí a zábavy. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Zábavní centra"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "zábavní",
+                "centra",
+                "Liberecký kraj",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/b2cd3e27a2c34c7892a4164de2fa34bd_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Z%C3%A1bavn%C3%AD_centra/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b2cd3e27a2c34c7892a4164de2fa34bd/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b2cd3e27a2c34c7892a4164de2fa34bd/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b2cd3e27a2c34c7892a4164de2fa34bd/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b2cd3e27a2c34c7892a4164de2fa34bd/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=c356d888901b4c7bbcefaef85360fb73&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/c356d888901b4c7bbcefaef85360fb73_0",
       "title": "Sokolovny v Libereckém kraji",
