@@ -81,13 +81,23 @@ import * as CONFIG from '@/../config';
 			distribution['přístupové_url'] = arcgisDistribution.accessURL;
 			distribution['typ_média'] = `http://www.iana.org/assignments/media-types/${mediaType.mediaType}`;
 			distribution['formát'] = `http://publications.europa.eu/resource/authority/file-type/${mediaType.fileType}`;
-			distribution['podmínky_užití'] = {
+			if (arcgisDataset.keyword.includes("osobní údaje")) {
+				distribution['podmínky_užití'] = {
 				typ: "Specifikace podmínek užití",
 				autorské_dílo: "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
 				databáze_jako_autorské_dílo: "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
 				databáze_chráněná_zvláštními_právy: "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-				osobní_údaje: "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
-			};
+				osobní_údaje: "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
+				};
+				}
+				else{distribution['podmínky_užití'] = {
+					typ: "Specifikace podmínek užití",
+					autorské_dílo: "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+					databáze_jako_autorské_dílo: "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+					databáze_chráněná_zvláštními_právy: "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+					osobní_údaje: "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+					};
+				}
 
 			dataset['distribuce'].push(distribution as Lkod.DatasetDistribution);
 		}
