@@ -22,9 +22,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -275,9 +275,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -529,9 +529,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -804,9 +804,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1035,9 +1035,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1269,9 +1269,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1501,9 +1501,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -1758,9 +1758,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2016,9 +2016,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2142,9 +2142,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2374,9 +2374,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2612,9 +2612,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -2865,9 +2865,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3170,9 +3170,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3408,9 +3408,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3606,9 +3606,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -3843,9 +3843,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4074,9 +4074,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4327,9 +4327,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4583,9 +4583,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -4815,9 +4815,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -5048,9 +5048,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -5332,9 +5332,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -5582,9 +5582,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -5672,9 +5672,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -5904,9 +5904,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -6154,9 +6154,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": {
@@ -6379,9 +6379,9 @@
         "name": "datalk"
       },
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}",
-        "@type": "vcard:Contact"
+        "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
       "spatial": "{{extent}}",
