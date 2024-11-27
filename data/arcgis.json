@@ -3154,7 +3154,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=6aa1b432015d4b6987830f92b4f65f69&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/6aa1b432015d4b6987830f92b4f65f69_0",
       "title": "Regionální inovační program Libereckého kraje",
-      "description": "<div>Sada\n otevřených dat regionálního inovačního programu v Libereckém kraji. \nSada obsahuje název projektu, jeho popis, výši dotace poskytnuté v rámci\n programu, vlastní podíl žadatele atd. Dále sada obsahuje informace o \nžadateli (název, adresa, souřadnice, IČ). Regionální inovační program je\n zaměřen na zvýšení konkurenceschopnosti Libereckého kraje \nprostřednictvím využití inovačního potenciálu firem a současně \nzefektivnění komercionalizace výzkumu vysokých škol a poskytovatelů \nznalostí, podpora vzniku nových podnikatelských subjektů s inovativním \npotenciálem a ověření technologického/technického řešení v jakékoliv \nfázi vývoje.</div>",
+      "description": "Sada otevřených dat regionálního inovačního programu v Libereckém kraji. Sada obsahuje název projektu, jeho popis, výši dotace poskytnuté v rámci programu, vlastní podíl žadatele atd. Dále sada obsahuje informace o žadateli (název, adresa, souřadnice, IČ). Regionální inovační program je zaměřen na zvýšení konkurenceschopnosti Libereckého kraje prostřednictvím využití inovačního potenciálu firem a současně zefektivnění komercionalizace výzkumu vysokých škol a poskytovatelů znalostí, podpora vzniku nových podnikatelských subjektů s inovativním potenciálem a ověření technologického/technického řešení v jakékoliv fázi vývoje.",
       "keyword": [
         "region",
         "inovace",
@@ -3242,7 +3242,7 @@
           "mdTimeSt": "11:09:39.21",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "<div>Sada\n otevřených dat regionálního inovačního programu v Libereckém kraji. \nSada obsahuje název projektu, jeho popis, výši dotace poskytnuté v rámci\n programu, vlastní podíl žadatele atd. Dále sada obsahuje informace o \nžadateli (název, adresa, souřadnice, IČ). Regionální inovační program je\n zaměřen na zvýšení konkurenceschopnosti Libereckého kraje \nprostřednictvím využití inovačního potenciálu firem a současně \nzefektivnění komercionalizace výzkumu vysokých škol a poskytovatelů \nznalostí, podpora vzniku nových podnikatelských subjektů s inovativním \npotenciálem a ověření technologického/technického řešení v jakékoliv \nfázi vývoje.</div>",
+            "idAbs": "Sada otevřených dat regionálního inovačního programu v Libereckém kraji. Sada obsahuje název projektu, jeho popis, výši dotace poskytnuté v rámci programu, vlastní podíl žadatele atd. Dále sada obsahuje informace o žadateli (název, adresa, souřadnice, IČ). Regionální inovační program je zaměřen na zvýšení konkurenceschopnosti Libereckého kraje prostřednictvím využití inovačního potenciálu firem a současně zefektivnění komercionalizace výzkumu vysokých škol a poskytovatelů znalostí, podpora vzniku nových podnikatelských subjektů s inovativním potenciálem a ověření technologického/technického řešení v jakékoliv fázi vývoje.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "idCitation": {
               "resTitle": "Regionální inovační program"
@@ -3828,7 +3828,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=7d3d454afc7c48ec84931d3469b613e9&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/7d3d454afc7c48ec84931d3469b613e9_0",
       "title": "Jezdecké areály a farmy v Libereckém kraji",
-      "description": "<div>Sada\n otevřených dat jezdeckých areálů, farem a agroturistiky v Libereckém \nkraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice,\n webové stránky, turistickou oblast atd. Jedná se o objekty zahrnuté v \nrámci hipoturistiky.</div>",
+      "description": "Sada otevřených dat jezdeckých areálů, farem a agroturistiky v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Jedná se o objekty zahrnuté v rámci hipoturistiky.",
       "keyword": [
         "koně",
         "jezdectví",
@@ -3914,7 +3914,7 @@
           "mdTimeSt": "10:14:13.09",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "<div>Sada\n otevřených dat jezdeckých areálů, farem a agroturistiky v Libereckém \nkraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice,\n webové stránky, turistickou oblast atd. Jedná se o objekty zahrnuté v \nrámci hipoturistiky.</div>",
+            "idAbs": "Sada otevřených dat jezdeckých areálů, farem a agroturistiky v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Jedná se o objekty zahrnuté v rámci hipoturistiky.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "idCitation": {
               "resTitle": "Jezdecké areály a farmy v Libereckém kraji"
