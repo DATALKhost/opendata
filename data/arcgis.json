@@ -799,7 +799,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-03-15T16:21:48.000Z",
-      "modified": "2024-08-28T13:20:28.156Z",
+      "modified": "2024-11-28T11:29:13.293Z",
       "publisher": {
         "name": "datalk"
       },
@@ -1264,7 +1264,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-05-17T13:12:09.000Z",
-      "modified": "2024-10-02T09:33:35.705Z",
+      "modified": "2024-11-28T11:32:59.409Z",
       "publisher": {
         "name": "datalk"
       },
@@ -1753,7 +1753,7 @@
         "Liberecký kraj"
       ],
       "issued": "2023-05-19T12:26:25.000Z",
-      "modified": "2024-07-31T14:54:09.044Z",
+      "modified": "2024-11-28T11:30:31.583Z",
       "publisher": {
         "name": "datalk"
       },
@@ -2137,7 +2137,7 @@
         "Liberecký kraj"
       ],
       "issued": "2023-11-02T13:50:55.000Z",
-      "modified": "2024-07-31T14:51:25.920Z",
+      "modified": "2024-11-28T11:33:18.261Z",
       "publisher": {
         "name": "datalk"
       },
@@ -2236,7 +2236,7 @@
             "resConst": [
               {
                 "Consts": {
-                  "useLimit": "<span style='color:rgb(76, 76, 76); font-family:Raleway, &quot;Avenir Next&quot;; font-size:16px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal; letter-spacing:normal; text-align:left; text-indent:0px; text-transform:none; word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial; text-decoration-color:initial; display:inline !important;'>Licence CC0 1.0</span>"
+                  "useLimit": "CC0 1.0"
                 }
               },
               {
@@ -2607,7 +2607,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-06-07T12:33:18.000Z",
-      "modified": "2024-07-31T14:51:56.552Z",
+      "modified": "2024-11-28T11:36:12.046Z",
       "publisher": {
         "name": "datalk"
       },
@@ -3838,7 +3838,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-10-04T08:08:43.000Z",
-      "modified": "2024-10-04T12:34:22.548Z",
+      "modified": "2024-11-28T11:29:43.092Z",
       "publisher": {
         "name": "datalk"
       },
@@ -4069,7 +4069,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-03-22T10:48:00.000Z",
-      "modified": "2024-08-28T13:22:14.935Z",
+      "modified": "2024-11-28T11:30:15.074Z",
       "publisher": {
         "name": "datalk"
       },
@@ -4810,7 +4810,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-05-10T11:15:20.000Z",
-      "modified": "2024-08-28T13:25:08.081Z",
+      "modified": "2024-11-28T11:29:59.459Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5043,7 +5043,7 @@
         "osobní údaje"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2024-08-28T13:19:43.868Z",
+      "modified": "2024-11-28T11:27:22.288Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5327,7 +5327,7 @@
         "opendata"
       ],
       "issued": "2024-10-08T12:52:41.000Z",
-      "modified": "2024-10-18T14:02:10.797Z",
+      "modified": "2024-11-28T11:30:48.654Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5899,7 +5899,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-02-27T14:33:43.000Z",
-      "modified": "2024-08-28T13:21:02.452Z",
+      "modified": "2024-11-28T11:35:54.412Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5922,7 +5922,7 @@
         ],
         "type": "envelope"
       },
-      "license": "",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Sport"
       ],
@@ -6036,6 +6036,11 @@
                     }
                   },
                   "othConsts": "Jiná omezení"
+                }
+              },
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
                 }
               }
             ]
