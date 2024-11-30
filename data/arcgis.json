@@ -2595,6 +2595,202 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=5efd7eddece2402aaac05b04e3644a2a&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/5efd7eddece2402aaac05b04e3644a2a_0",
+      "title": "Kongresové prostory",
+      "description": "Sada otevřených dat konferenčních míst v Libereckém kraji v rámci MICE. MICE je složeno z anglických slov Meetings, Incentives, Conventions a Exhibitons/Events a jedná se o druh cestovního ruchu určeného pro setkávání velkých skupin osob, jakými jsou zejména profesní, školní, akademické či různé obchodní organizace. Sada obsahuje jejich název, adresy, popis, souřadnice, webové stránky, turistickou oblast, počet míst atd. Sada je vygenerována z databáze MICE.",
+      "keyword": [
+        "opendata",
+        "kongresové",
+        "Liberecký kraj",
+        "prostory"
+      ],
+      "issued": "2024-11-29T10:19:38.000Z",
+      "modified": "2024-11-29T10:22:08.814Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.6389,
+            50.5321
+          ],
+          [
+            15.5476,
+            50.9275
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "5efd7eddece2402aaac05b04e3644a2a",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Kongresové_prostory/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-11-29",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "11:31:13.71",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-11-29",
+            "CreaDate": "2024-11-29",
+            "ModTime": "11:32:11.10",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "11:31:13.71",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Sada otevřených dat konferenčních míst v Libereckém kraji v rámci MICE. MICE je složeno z anglických slov Meetings, Incentives, Conventions a Exhibitons/Events a jedná se o druh cestovního ruchu určeného pro setkávání velkých skupin osob, jakými jsou zejména profesní, školní, akademické či různé obchodní organizace. Sada obsahuje jejich název, adresy, popis, souřadnice, webové stránky, turistickou oblast, počet míst atd. Sada je vygenerována z databáze MICE.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Kongresové prostory"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "opendata",
+                "kongresové",
+                "Liberecký kraj",
+                "prostory"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/5efd7eddece2402aaac05b04e3644a2a_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Kongresove%CC%81_prostory/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5f6e9dc729f54ff9b45cda7a05730927&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/5f6e9dc729f54ff9b45cda7a05730927_0",
       "title": "Turistická informační centra v Libereckém kraji",
