@@ -15,6 +15,14 @@ export function detectMediaType(type: string): Lib.MediaType {
 			return { fileType: 'GEOJSON', mediaType: 'application/vnd.geo+json' };
 		case "application/vnd.google-earth.kml+xml":
 			return { fileType: 'KML', mediaType: 'application/vnd.google-earth.kml+xml' };
+		case "application/geopackage+sqlite3":
+			return { fileType: 'GDB', mediaType: 'application/geopackage+sqlite3' };
+		case "text/plain":
+			return { fileType: 'TXT', mediaType: 'text/plain' };
+		case "application/vnd.ms-excel":
+			return { fileType: 'XLSX', mediaType: 'application/vnd.ms-excel' };
+		case "application/geopackage+sqlite3":
+			return { fileType: 'GPKG', mediaType: 'application/geopackage+sqlite3' };	
 		default: {
 			return { fileType: 'UNKNOWN', mediaType: 'unknown' };
 		}
