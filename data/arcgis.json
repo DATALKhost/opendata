@@ -1256,7 +1256,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=333c15fb3bb9405fa2c8f8bc93d9b8bc&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/333c15fb3bb9405fa2c8f8bc93d9b8bc_0",
       "title": "Muzea v Libereckém kraji",
-      "description": "<div>Datová sada muzeí v Libereckém kraji. Obsahuje jejich název, adresu, kategorii, kontakty a souřadnice.</div>",
+      "description": "Datová sada muzeí v Libereckém kraji. Obsahuje jejich název, adresu, kategorii, kontakty a souřadnice.",
       "keyword": [
         "muzea",
         "muzeum",
@@ -1341,7 +1341,7 @@
           "mdTimeSt": "15:28:53.74",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "<div>Datová sada muzeí v Libereckém kraji. Obsahuje jejich název, adresu, kategorii, kontakty a souřadnice.</div>",
+            "idAbs": "Datová sada muzeí v Libereckém kraji. Obsahuje jejich název, adresu, kategorii, kontakty a souřadnice.",
             "idCredit": "KÚ LK, Krajský úřad Liberecký kraj",
             "idCitation": {
               "resTitle": "Muzea v Libereckém kraji"
@@ -2606,7 +2606,7 @@
         "prostory"
       ],
       "issued": "2024-11-29T10:19:38.000Z",
-      "modified": "2024-11-29T10:22:08.814Z",
+      "modified": "2024-12-02T14:14:58.480Z",
       "publisher": {
         "name": "datalk"
       },
@@ -2803,7 +2803,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-06-07T12:33:18.000Z",
-      "modified": "2024-11-28T11:36:12.046Z",
+      "modified": "2024-12-02T12:32:59.665Z",
       "publisher": {
         "name": "datalk"
       },
@@ -3056,7 +3056,7 @@
         "škola"
       ],
       "issued": "2024-09-25T11:49:42.000Z",
-      "modified": "2024-09-26T07:19:53.195Z",
+      "modified": "2024-12-02T14:16:44.889Z",
       "publisher": {
         "name": "datalk"
       },
@@ -3599,7 +3599,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-08-23T09:13:34.000Z",
-      "modified": "2024-08-23T09:13:52.209Z",
+      "modified": "2024-12-02T14:15:38.257Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5773,7 +5773,7 @@
         "opendata"
       ],
       "issued": "2024-11-14T10:18:17.000Z",
-      "modified": "2024-11-14T10:18:30.115Z",
+      "modified": "2024-12-02T14:17:21.574Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5844,6 +5844,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/a699fa248d9a4bf198f09636a2793fc7/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a699fa248d9a4bf198f09636a2793fc7/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a699fa248d9a4bf198f09636a2793fc7/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a699fa248d9a4bf198f09636a2793fc7/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a699fa248d9a4bf198f09636a2793fc7/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a699fa248d9a4bf198f09636a2793fc7/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -6095,7 +6130,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-02-27T14:33:43.000Z",
-      "modified": "2024-11-28T11:35:54.412Z",
+      "modified": "2024-12-02T12:33:16.314Z",
       "publisher": {
         "name": "datalk"
       },
@@ -6567,7 +6602,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=cdf44a45086548b1a450c96fcdef04c1&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/cdf44a45086548b1a450c96fcdef04c1_0",
       "title": "Dopravci provozující osobní linkovou dopravu ",
-      "description": "<p>Seznam dopravců provozujících osobní linkovou dopravu na území Libereckého kraje.<br /></p>",
+      "description": "Seznam dopravců provozujících osobní linkovou dopravu na území Libereckého kraje.",
       "keyword": [
         "doprava",
         "dopravci",

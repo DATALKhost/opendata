@@ -163,8 +163,8 @@
       },
       "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/featureCollection?layers=0",
       "přístupové_url": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/featureCollection?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/plain",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/TXT",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -181,8 +181,8 @@
       },
       "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/excel?layers=0",
       "přístupové_url": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/excel?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -199,8 +199,8 @@
       },
       "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/geoPackage?layers=0",
       "přístupové_url": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/geoPackage?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GDB",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -217,8 +217,8 @@
       },
       "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/sqlite?layers=0",
       "přístupové_url": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/sqlite?layers=0",
-      "typ_média": "http://www.iana.org/assignments/media-types/unknown",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/UNKNOWN",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/GDB",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
