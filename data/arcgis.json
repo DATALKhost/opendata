@@ -1015,6 +1015,210 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=292e122fff904a84960e7ad029e7d550&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/292e122fff904a84960e7ad029e7d550_0",
+      "title": "Základní školy určené k poskytování jazykové přípravy",
+      "description": "Podle ustanovení § 10 vyhlášky č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů, krajský úřad ve spolupráci se zřizovateli a obecními úřady obcí s rozšířenou působností určuje školy, které poskytují bezplatnou jazykovou přípravu žáků cizinců. Jedná se o základní školy tvořené třídami prvního a druhého stupně, kde podíl žáků cizinců z celkového počtu žáků činil k 31. březnu předcházejícího školního roku alespoň 5 %. To neplatí pro školy zařazené na seznam škol určených na vlastní žádost, kdy podmínky zařazení stanoví § 10 odst. 5 dané vyhlášky. <br /><br />\nDůvod zařazení základní školy na seznam je označený číslem odstavce uvedeného § 10 vyhlášky č. 48/2005 Sb. a slovním popisem.",
+      "keyword": [
+        "základní",
+        "škola",
+        "ZŠ",
+        "čeština",
+        "cizinci",
+        "cizinec",
+        "jazyk",
+        "opendata"
+      ],
+      "issued": "2024-12-04T08:38:47.000Z",
+      "modified": "2024-12-04T08:39:01.179Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.3903,
+            50.5279
+          ],
+          [
+            15.6071,
+            50.8801
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Vzdělávání"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "292e122fff904a84960e7ad029e7d550",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Základní_školy_určené_k_poskytování_jazykové_přípravy/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-12-04",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "09:47:07.41",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-12-04",
+            "CreaDate": "2024-12-04",
+            "ModTime": "09:48:39.08",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "09:47:07.41",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Podle ustanovení § 10 vyhlášky č. 48/2005 Sb., o základním vzdělávání a některých náležitostech plnění povinné školní docházky, ve znění pozdějších předpisů, krajský úřad ve spolupráci se zřizovateli a obecními úřady obcí s rozšířenou působností určuje školy, které poskytují bezplatnou jazykovou přípravu žáků cizinců. Jedná se o základní školy tvořené třídami prvního a druhého stupně, kde podíl žáků cizinců z celkového počtu žáků činil k 31. březnu předcházejícího školního roku alespoň 5 %. To neplatí pro školy zařazené na seznam škol určených na vlastní žádost, kdy podmínky zařazení stanoví § 10 odst. 5 dané vyhlášky. <br /><br />\nDůvod zařazení základní školy na seznam je označený číslem odstavce uvedeného § 10 vyhlášky č. 48/2005 Sb. a slovním popisem.",
+            "idCredit": "Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Základní školy určené k poskytování jazykové přípravy"
+            },
+            "idPurp": "Seznam základních škol v Libereckém kraji určených k poskytování jazykové přípravy",
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "základní",
+                "škola",
+                "ZŠ",
+                "čeština",
+                "cizinci",
+                "cizinec",
+                "jazyk",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/292e122fff904a84960e7ad029e7d550_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Z%C3%A1kladn%C3%AD_%C5%A1koly_ur%C4%8Den%C3%A9_k_poskytov%C3%A1n%C3%AD_jazykov%C3%A9_p%C5%99%C3%ADpravy/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/292e122fff904a84960e7ad029e7d550/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/292e122fff904a84960e7ad029e7d550/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/292e122fff904a84960e7ad029e7d550/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/292e122fff904a84960e7ad029e7d550/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2e1c9521eab44e53a5a14d065b20012d&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/2e1c9521eab44e53a5a14d065b20012d_0",
       "title": "Aquaparky a bazény a další místa na koupání",
@@ -2137,7 +2341,7 @@
         "Liberecký kraj"
       ],
       "issued": "2023-11-02T13:50:55.000Z",
-      "modified": "2024-11-28T11:33:18.261Z",
+      "modified": "2024-12-04T13:35:14.868Z",
       "publisher": {
         "name": "datalk"
       },
@@ -2606,7 +2810,7 @@
         "prostory"
       ],
       "issued": "2024-11-29T10:19:38.000Z",
-      "modified": "2024-12-03T15:14:23.907Z",
+      "modified": "2024-12-04T13:26:51.203Z",
       "publisher": {
         "name": "datalk"
       },
