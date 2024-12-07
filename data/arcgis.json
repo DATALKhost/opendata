@@ -3283,6 +3283,210 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=66abb2bd10af48c49ef6e067aa1972c7&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/66abb2bd10af48c49ef6e067aa1972c7_0",
+      "title": "Střední školy určené k poskytování jazykové přípravy",
+      "description": "Podle ustanovení § 20 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů, a § 6a vyhlášky č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů (dále jen vyhláška), vytváří krajský úřad seznam určených škol k poskytování jazykové přípravy žáků cizinců. Jedná se o střední školy, kde podíl cizinců z celkového počtu žáků činil k 31. březnu předcházejícího školního roku alespoň 5 %, nebo je žákem školy alespoň 5 cizinců podle § 6b odst. 2 vyhlášky.",
+      "keyword": [
+        "střední",
+        "škola",
+        "SŠ",
+        "čeština",
+        "cizinci",
+        "cizinec",
+        "jazyk",
+        "opendata"
+      ],
+      "issued": "2024-12-06T07:03:54.000Z",
+      "modified": "2024-12-06T07:04:10.409Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.5339,
+            50.5939
+          ],
+          [
+            15.1764,
+            50.7449
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "http://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Vzdělávání"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "mdFileID": "66abb2bd10af48c49ef6e067aa1972c7",
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Střední_školy_určené_k_poskytování_jazykové_přípravy/FeatureServer"
+              }
+            }
+          },
+          "mdDateSt": "2024-12-06",
+          "Esri": {
+            "locales": {
+              "locale": {
+                "@_language": "cze"
+              }
+            },
+            "ArcGISFormat": 1,
+            "CreaTime": "08:05:49.50",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ArcGISProfile": "ISO19139",
+            "ModDate": "2024-12-06",
+            "CreaDate": "2024-12-06",
+            "ModTime": "08:06:25.49",
+            "MapLyrSync": false,
+            "PublishStatus": "editor:esri.dijit.metadata.editor"
+          },
+          "mdTimeSt": "08:05:49.50",
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idAbs": "Podle ustanovení § 20 zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon), ve znění pozdějších předpisů, a § 6a vyhlášky č. 13/2005 Sb., o středním vzdělávání a vzdělávání v konzervatoři, ve znění pozdějších předpisů (dále jen vyhláška), vytváří krajský úřad seznam určených škol k poskytování jazykové přípravy žáků cizinců. Jedná se o střední školy, kde podíl cizinců z celkového počtu žáků činil k 31. březnu předcházejícího školního roku alespoň 5 %, nebo je žákem školy alespoň 5 cizinců podle § 6b odst. 2 vyhlášky.",
+            "idCredit": "Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Střední školy určené k poskytování jazykové přípravy"
+            },
+            "idPurp": "Seznam středních škol v Libereckém kraji určených k poskytování jazykové přípravy",
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "střední",
+                "škola",
+                "SŠ",
+                "čeština",
+                "cizinci",
+                "cizinec",
+                "jazyk",
+                "opendata"
+              ]
+            },
+            "resConst": [
+              {
+                "Consts": {
+                  "useLimit": "CC0 1.0"
+                }
+              },
+              {
+                "LegConsts": {
+                  "othConsts": "Jiná omezení",
+                  "accessConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  }
+                }
+              },
+              {
+                "LegConsts": {
+                  "useConsts": {
+                    "RestrictCd": {
+                      "@_value": "008"
+                    }
+                  },
+                  "othConsts": "Jiná omezení"
+                }
+              }
+            ]
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/66abb2bd10af48c49ef6e067aa1972c7_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/St%C5%99edn%C3%AD_%C5%A1koly_ur%C4%8Den%C3%A9_k_poskytov%C3%A1n%C3%AD_jazykov%C3%A9_p%C5%99%C3%ADpravy/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/66abb2bd10af48c49ef6e067aa1972c7/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=68bd1d885b524391a7c08c91ebf1556c&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/68bd1d885b524391a7c08c91ebf1556c_0",
       "title": "Školy zajišťující kurz pro doplnění základního vzdělávání",
