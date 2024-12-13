@@ -5738,292 +5738,6 @@
     },
     {
       "@type": "dcat:Dataset",
-      "identifier": "https://www.arcgis.com/home/item.html?id=93c69d41e65c46cf919ebe851da95d0b&sublayer=0",
-      "landingPage": "https://www.datalk.cz/datasets/93c69d41e65c46cf919ebe851da95d0b_0",
-      "title": "Dobrovolné svazky obcí Libereckého kraje",
-      "description": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
-      "keyword": [
-        "dobrovolný",
-        "svazek",
-        "seznam",
-        "opendata",
-        "obce",
-        "Liberecký kraj",
-        "osobní údaje"
-      ],
-      "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2024-11-28T11:27:22.288Z",
-      "publisher": {
-        "name": "datalk"
-      },
-      "contactPoint": {
-        "@type": "vcard:Contact",
-        "fn": "datalk",
-        "hasEmail": "{{orgContactEmail}}"
-      },
-      "accessLevel": "public",
-      "spatial": {
-        "coordinates": [
-          [
-            14.3925,
-            50.3904
-          ],
-          [
-            15.6075,
-            51.0186
-          ]
-        ],
-        "type": "envelope"
-      },
-      "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [
-        "Správa a rozvoj území"
-      ],
-      "metadata": {
-        "metadata": {
-          "mdLang": {
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "mdContact": {
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "mdFileID": "93c69d41e65c46cf919ebe851da95d0b",
-          "distInfo": {
-            "distTranOps": {
-              "onLineSrc": {
-                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dobrovolné_svazky_obcí_Libereckého_kraje/FeatureServer"
-              }
-            }
-          },
-          "mdDateSt": "2024-03-06",
-          "Esri": {
-            "ArcGISFormat": 1,
-            "CreaTime": 15291758,
-            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-            "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-10-30",
-            "CreaDate": "2024-03-06",
-            "ModTime": "13:04:00.41",
-            "MapLyrSync": false,
-            "PublishStatus": "editor:esri.dijit.metadata.editor"
-          },
-          "mdTimeSt": "15:29:17.58",
-          "@_xml:lang": "cs",
-          "dataIdInfo": {
-            "idAbs": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
-            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
-            "dataExt": {
-              "geoEle": {
-                "GeoBndBox": {
-                  "eastBL": 0,
-                  "southBL": 0,
-                  "northBL": 0,
-                  "westBL": 0
-                }
-              }
-            },
-            "idCitation": {
-              "resTitle": "Dobrovolné svazky obcí Libereckého kraje"
-            },
-            "dataLang": {
-              "languageCode": {
-                "@_value": "cze"
-              }
-            },
-            "resMaint": {
-              "maintFreq": {
-                "MaintFreqCd": {
-                  "@_value": "009"
-                }
-              }
-            },
-            "dataChar": {
-              "CharSetCd": {
-                "@_value": "004"
-              }
-            },
-            "searchKeys": {
-              "keyword": [
-                "dobrovolný",
-                "svazek",
-                "seznam",
-                "opendata",
-                "obce",
-                "Liberecký kraj",
-                "osobní údaje"
-              ]
-            },
-            "resConst": [
-              {
-                "LegConsts": {
-                  "othConsts": "Jiná omezení",
-                  "accessConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  }
-                }
-              },
-              {
-                "LegConsts": {
-                  "useConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  },
-                  "othConsts": "Jiná omezení"
-                }
-              },
-              {
-                "Consts": {
-                  "useLimit": "CC0 1.0"
-                }
-              },
-              {
-                "LegConsts": {
-                  "othConsts": "Jiná omezení",
-                  "accessConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  }
-                }
-              },
-              {
-                "LegConsts": {
-                  "useConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  },
-                  "othConsts": "Jiná omezení"
-                }
-              },
-              {
-                "LegConsts": {
-                  "othConsts": "Jiná omezení",
-                  "accessConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  }
-                }
-              },
-              {
-                "LegConsts": {
-                  "useConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  },
-                  "othConsts": "Jiná omezení"
-                }
-              }
-            ]
-          },
-          "mdChar": {
-            "CharSetCd": {
-              "@_value": "004"
-            }
-          }
-        },
-        "?xml": {
-          "@_standalone": "no",
-          "@_encoding": "UTF-8",
-          "@_version": "1.0"
-        }
-      },
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS Hub Dataset",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "accessURL": "https://www.datalk.cz/datasets/93c69d41e65c46cf919ebe851da95d0b_0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "ArcGIS GeoService",
-          "format": "ArcGIS GeoServices REST API",
-          "mediaType": "application/json",
-          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Dobrovoln%C3%A9_svazky_obc%C3%AD_Libereck%C3%A9ho_kraje/FeatureServer/0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "CSV",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/csv?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Shapefile",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/shapefile?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoJSON",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/geojson?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "KML",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/sqlite?layers=0"
-        }
-      ],
-      "theme": [
-        "geospatial"
-      ]
-    },
-    {
-      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=95fa7a11cca0403b875738a3facea211&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/95fa7a11cca0403b875738a3facea211_0",
       "title": "Letiště a letecké aktivity",
@@ -7216,6 +6930,128 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=d6a982b7c4b04f23b6a2fbcd99880ad9&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/d6a982b7c4b04f23b6a2fbcd99880ad9_0",
+      "title": "Brownfields a greenfields v Libereckém kraji",
+      "description": "Databáze brownfields a greenfields v Libereckém kraji představuje komplexní přehled pozemků a nemovitostí vhodných pro investice, přestavbu nebo rozvoj. Brownfields jsou opuštěné, zanedbané nebo nedostatečně využívané objekty a pozemky, často s průmyslovou, zemědělskou či jinou historickou funkcí, které vyžadují revitalizaci. Naopak greenfields označují nedotčené pozemky, obvykle mimo zastavěné oblasti, které jsou určeny pro nové investiční projekty bez nutnosti předchozí sanace.",
+      "keyword": [
+        "brownfield",
+        "opendata"
+      ],
+      "issued": "2024-12-12T07:55:33.000Z",
+      "modified": "2024-12-12T07:59:48.778Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.4058,
+            50.5198
+          ],
+          [
+            15.5962,
+            51.0215
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Životní prostředí"
+      ],
+      "metadata": "{{metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/d6a982b7c4b04f23b6a2fbcd99880ad9_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Brownfields_LK_2024_DATAPORTAL/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/sqlite?layers=0"
         }
       ],
       "theme": [
