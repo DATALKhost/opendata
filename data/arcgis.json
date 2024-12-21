@@ -6400,6 +6400,129 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=b01f1452d19d43db9706e12b3c2efcfc&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/b01f1452d19d43db9706e12b3c2efcfc_0",
+      "title": "Regionální výrobci Libereckého kraje",
+      "description": "<span style='color:rgb(51, 51, 51); font-family:Poppins; font-size:14px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; text-align:center; text-indent:0px; text-transform:none; word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial; text-decoration-color:initial; display:inline !important;'>Liberecký kraj nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.</span>",
+      "keyword": [
+        "výrobce",
+        "regionální",
+        "opendata"
+      ],
+      "issued": "2024-12-20T12:55:23.000Z",
+      "modified": "2024-12-20T12:57:01.898Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": {
+        "coordinates": [
+          [
+            14.4245,
+            50.5046
+          ],
+          [
+            15.6216,
+            51.0165
+          ]
+        ],
+        "type": "envelope"
+      },
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Cestovní ruch"
+      ],
+      "metadata": "{{metadata}}",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/b01f1452d19d43db9706e12b3c2efcfc_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_v%C3%BDrobci_Libereck%C3%A9ho_kraje2/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=b2cd3e27a2c34c7892a4164de2fa34bd&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/b2cd3e27a2c34c7892a4164de2fa34bd_0",
       "title": "Zábavní centra",
