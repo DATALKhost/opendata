@@ -7088,7 +7088,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=e7c67bee712f450783b490883fb6ff09&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/e7c67bee712f450783b490883fb6ff09_0",
       "title": "Válečné hroby v Libereckém kraji",
-      "description": "Centrální evidence válečných hrobů a pietních míst (CEVH) byla zpřístupněna veřejnosti v roce 2010 a obsahuje databázi válečných hrobů a pietních míst na území ČR i v zahraničí. Jejím vedením jsou pověřeny obecní a krajské úřady spolu s Ministerstvem obrany ČR, které údaje shromažďují a průběžně doplňují na základě archivních záznamů. V Libereckém kraji správu evidence zajišťují obecní úřady s rozšířenou působností.",
+      "description": "Centrální evidence válečných hrobů a pietních míst (CEVH) byla zpřístupněna veřejnosti v roce 2010 prostřednictvím internetových stránek Ministerstva obrany - https://valecnehroby.mo.gov.cz/ Obsahuje databázi válečných hrobů a pietních míst na území ČR i v zahraničí. Jejím vedením jsou pověřeny obecní a krajské úřady spolu s Ministerstvem obrany ČR, které zveřejňované informace doplňují a upravují. ",
       "keyword": [
         "Liberecký kraj",
         "válečný",
@@ -7099,7 +7099,7 @@
         "opendata"
       ],
       "issued": "2025-02-05T15:09:52.000Z",
-      "modified": "2025-02-06T08:00:43.236Z",
+      "modified": "2025-02-10T12:41:01.759Z",
       "publisher": {
         "name": "datalk"
       },
