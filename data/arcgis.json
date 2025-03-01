@@ -2432,8 +2432,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=5c32328211f34553a6c2c1690c670b65&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/5c32328211f34553a6c2c1690c670b65_0",
-      "title": "Přirodní památky",
-      "description": "Sada otevřených dat přírodních památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Přírodní památky zde zahrnují chráněná území, skály, jeskyně, vodopády, rašeliniště a přírodní zajímavosti.",
+      "title": "Přirodní zajímavosti",
+      "description": "Sada otevřených dat přírodních zajímavostí v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Přírodní zajímavosti zde zahrnují chráněná území, skály, jeskyně, vodopády, rašeliniště a přírodní památky. Data jsou součástí databáze cestovního ruchu.",
       "keyword": [
         "přírodní",
         "Liberecký kraj",
@@ -2441,7 +2441,7 @@
         "památky"
       ],
       "issued": "2024-10-21T12:41:34.000Z",
-      "modified": "2025-02-05T09:27:42.604Z",
+      "modified": "2025-02-28T13:15:01.911Z",
       "publisher": {
         "name": "datalk"
       },
@@ -2512,7 +2512,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "Sada otevřených dat přírodních památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Přírodní památky zde zahrnují chráněná území, skály, jeskyně, vodopády, rašeliniště a přírodní zajímavosti.",
+            "idAbs": "Sada otevřených dat přírodních zajímavostí v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Přírodní zajímavosti zde zahrnují chráněná území, skály, jeskyně, vodopády, rašeliniště a přírodní památky. Data jsou součástí databáze cestovního ruchu.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "idCitation": {
               "resTitle": "Přirodní památky"
