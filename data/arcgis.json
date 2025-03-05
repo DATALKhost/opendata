@@ -4814,7 +4814,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-02-26T16:06:58.000Z",
-      "modified": "2025-02-19T11:28:48.775Z",
+      "modified": "2025-03-04T14:44:48.193Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5048,7 +5048,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=8c3ea27f40a04a3fa292f222100930ec&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/8c3ea27f40a04a3fa292f222100930ec_0",
       "title": "Lidové architektonické památky",
-      "description": "Sada otevřených dat lidových architektonických památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Lidové architektonické památky jsou roubené chalupy, podstávkové domy, zvoničky i lidová architektura. Bohatství, které dokládá um řezbářů, tesařů i obyvatel kraje. Spousta z nich je přístupná celoročně, další však jen při speciálních událostech, kterými jsou Dny lidové architektury nebo Léto v podstávce.",
+      "description": "Sada otevřených dat lidových architektonických památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Lidové architektonické památky jsou roubené chalupy, podstávkové domy, zvoničky i lidová architektura. Bohatství, které dokládá um řezbářů, tesařů i obyvatel kraje. Spousta z nich je přístupná celoročně, další však jen při speciálních událostech, kterými jsou Dny lidové architektury nebo Léto v podstávce. Data pocházejí z datového skladu odboru cestovního ruchu.",
       "keyword": [
         "lidové",
         "lidová",
@@ -5058,7 +5058,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-08-30T11:40:02.000Z",
-      "modified": "2025-02-05T09:15:29.428Z",
+      "modified": "2025-03-04T11:10:32.651Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5068,7 +5068,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.5402,50.5037,15.5026,50.9610",
+      "spatial": "14.4504,50.5037,15.5026,50.9610",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Kultura a kulturní dědictví",
@@ -5123,7 +5123,7 @@
           "mdTimeSt": "13:53:10.79",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "Sada otevřených dat lidových architektonických památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Lidové architektonické památky jsou roubené chalupy, podstávkové domy, zvoničky i lidová architektura. Bohatství, které dokládá um řezbářů, tesařů i obyvatel kraje. Spousta z nich je přístupná celoročně, další však jen při speciálních událostech, kterými jsou Dny lidové architektury nebo Léto v podstávce.",
+            "idAbs": "Sada otevřených dat lidových architektonických památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Lidové architektonické památky jsou roubené chalupy, podstávkové domy, zvoničky i lidová architektura. Bohatství, které dokládá um řezbářů, tesařů i obyvatel kraje. Spousta z nich je přístupná celoročně, další však jen při speciálních událostech, kterými jsou Dny lidové architektury nebo Léto v podstávce. Data pocházejí z datového skladu odboru cestovního ruchu.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "idCitation": {
               "resTitle": "Lidové architektonické památky"
@@ -5225,41 +5225,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/8c3ea27f40a04a3fa292f222100930ec/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -5499,7 +5464,7 @@
         "osobní údaje"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2025-02-13T11:34:01.810Z",
+      "modified": "2025-03-04T12:31:57.233Z",
       "publisher": {
         "name": "datalk"
       },
