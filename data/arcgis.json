@@ -2678,9 +2678,7 @@
       "accessLevel": "public",
       "spatial": "14.6389,50.5321,15.5476,50.9275",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [
-        "Cestovní ruch"
-      ],
+      "category": "{{categories}}",
       "metadata": {
         "metadata": {
           "mdLang": {

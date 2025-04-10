@@ -17,9 +17,7 @@
       "prostory"
     ]
   },
-  "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/EDUC"
-  ],
+  "téma": [],
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL_2",
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/vusc/78"
