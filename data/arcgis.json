@@ -6132,9 +6132,7 @@
       "accessLevel": "public",
       "spatial": "14.4245,50.5046,15.6216,51.0165",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [
-        "Cestovní ruch"
-      ],
+      "category": "{{categories}}",
       "metadata": "{{metadata}}",
       "distribution": [
         {
