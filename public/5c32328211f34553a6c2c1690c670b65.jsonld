@@ -4,10 +4,10 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
   "název": {
-    "cs": "Přirodní zajímavosti"
+    "cs": "Přirodní památky"
   },
   "popis": {
-    "cs": "Sada otevřených dat přírodních zajímavostí v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Přírodní zajímavosti zde zahrnují chráněná území, skály, jeskyně, vodopády, rašeliniště a přírodní památky. Data jsou součástí databáze cestovního ruchu."
+    "cs": "Sada otevřených dat přírodních památek v Libereckém kraji. Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd. Přírodní památky zde zahrnují chráněná území, skály, jeskyně, vodopády, rašeliniště a přírodní zajímavosti."
   },
   "klíčové_slovo": {
     "cs": [
