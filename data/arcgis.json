@@ -5498,7 +5498,7 @@
         "osobní údaje"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2025-04-30T09:43:30.721Z",
+      "modified": "2025-05-13T15:59:00.951Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5715,41 +5715,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/sqlite?layers=0"
         }
       ],
       "theme": [
