@@ -500,7 +500,7 @@
         "opendata"
       ],
       "issued": "2024-10-17T12:39:36.000Z",
-      "modified": "2025-05-22T14:39:26.636Z",
+      "modified": "2025-05-23T13:11:57.231Z",
       "publisher": {
         "name": "datalk"
       },
@@ -510,7 +510,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.5572,50.5295,15.6085,50.9147",
+      "spatial": "14.5572,50.5295,15.4195,50.9147",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Cestovní ruch"
@@ -2406,7 +2406,7 @@
         "památky"
       ],
       "issued": "2024-10-21T12:41:34.000Z",
-      "modified": "2025-02-28T13:15:01.911Z",
+      "modified": "2025-05-23T13:08:24.855Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5463,7 +5463,7 @@
         "osobní údaje"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2025-05-13T15:59:00.951Z",
+      "modified": "2025-05-23T13:13:10.338Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5680,6 +5680,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -6160,7 +6195,7 @@
         "opendata"
       ],
       "issued": "2024-10-31T09:24:18.000Z",
-      "modified": "2025-02-05T09:06:42.507Z",
+      "modified": "2025-05-23T13:56:31.720Z",
       "publisher": {
         "name": "datalk"
       },
@@ -6170,7 +6205,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.5342,50.5406,15.5491,50.7911",
+      "spatial": "14.5026,50.5406,15.5550,50.7911",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Cestovní ruch"
@@ -6623,7 +6658,7 @@
         "opendata"
       ],
       "issued": "2024-10-15T08:32:23.000Z",
-      "modified": "2025-05-22T09:23:13.834Z",
+      "modified": "2025-05-23T13:12:25.185Z",
       "publisher": {
         "name": "datalk"
       },
@@ -6782,6 +6817,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/ca4c56cba6954c0aa60228cc6abfd5e9/sqlite?layers=0"
         }
       ],
       "theme": [
