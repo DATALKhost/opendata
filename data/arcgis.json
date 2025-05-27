@@ -1396,7 +1396,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-05-17T13:12:09.000Z",
-      "modified": "2024-12-03T10:33:38.839Z",
+      "modified": "2025-05-26T08:11:49.882Z",
       "publisher": {
         "name": "datalk"
       },
@@ -4127,7 +4127,7 @@
         "opendata"
       ],
       "issued": "2024-11-05T13:12:40.000Z",
-      "modified": "2025-02-05T09:07:12.023Z",
+      "modified": "2025-05-26T08:00:24.115Z",
       "publisher": {
         "name": "datalk"
       },
@@ -4564,14 +4564,14 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=823b604ad926481dae05ab967bd08edd&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/823b604ad926481dae05ab967bd08edd_0",
       "title": "Knihovny v Libereckém kraji",
-      "description": "Seznam knihoven v Libereckém kraji. Obsahuje jejich adresy, souřadnice, název, druh a kategorie.",
+      "description": " Seznam knihoven v Libereckém kraji. Obsahuje jejich adresy, souřadnice, název, druh a kategorie.",
       "keyword": [
         "knihovna",
         "opendata",
         "Liberecký kraj"
       ],
       "issued": "2024-03-22T10:48:00.000Z",
-      "modified": "2024-11-28T11:30:15.074Z",
+      "modified": "2025-05-26T11:55:11.225Z",
       "publisher": {
         "name": "datalk"
       },
@@ -4756,41 +4756,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -6008,7 +5973,7 @@
         "opendata"
       ],
       "issued": "2024-11-14T10:18:17.000Z",
-      "modified": "2025-02-05T09:27:14.254Z",
+      "modified": "2025-05-26T13:43:55.797Z",
       "publisher": {
         "name": "datalk"
       },
