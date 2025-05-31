@@ -1159,6 +1159,540 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=2dbdf56fd9a7434baaf3e3b21aa7bfa4&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/2dbdf56fd9a7434baaf3e3b21aa7bfa4_0",
+      "title": "Přírodní parky",
+      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Datová sada s prostorovou lokalizací na území Libereckého kraje. </SPAN></P></DIV></DIV></DIV>",
+      "keyword": [
+        "přírodní park",
+        "opendata"
+      ],
+      "issued": "2025-05-29T08:59:03.000Z",
+      "modified": "2025-04-28T00:00:00.000Z",
+      "publisher": {
+        "name": "Krajský úřad Libereckého kraje, odbor životního prostředí a zemědělství"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.8305,50.6054,15.2703,50.9353",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "countryCode": {
+              "@_Sync": "TRUE",
+              "@_value": "CZE"
+            },
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "rpCntInfo": {
+              "cntPhone": {
+                "voiceNum": "485 226 412"
+              },
+              "cntAddress": {
+                "country": "CZ",
+                "delPoint": "U Jezu 642/2a",
+                "city": "Liberec 2",
+                "postCode": "461 80"
+              }
+            },
+            "rpIndName": "Ing. Věra Kneysová",
+            "rpOrgName": "Krajský úřad Libereckého kraje, odbor životního prostředí a zemědělství",
+            "role": {
+              "RoleCd": {
+                "@_value": "001"
+              }
+            }
+          },
+          "spatRepInfo": {
+            "VectSpatRep": {
+              "geometObjs": {
+                "geoObjCnt": 0,
+                "geoObjTyp": {
+                  "GeoObjTypCd": {
+                    "@_Sync": "TRUE",
+                    "@_value": "002"
+                  }
+                },
+                "@_Name": "prirodni_parky_LK"
+              },
+              "topLvl": {
+                "TopoLevCd": {
+                  "@_Sync": "TRUE",
+                  "@_value": "001"
+                }
+              }
+            }
+          },
+          "mdDateSt": 20250502,
+          "Esri": {
+            "scaleRange": {
+              "maxScale": 5000,
+              "minScale": 500000
+            },
+            "ArcGISFormat": 1,
+            "locales": {
+              "locale": {
+                "@_language": "cze",
+                "@_country": "CZ"
+              }
+            },
+            "CreaTime": 9340000,
+            "SyncDate": 20250502,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "imsContentType": {
+                  "@_export": "False"
+                },
+                "itemName": {
+                  "@_Sync": "TRUE",
+                  "#value": "prirodni_parky_LK"
+                },
+                "nativeExtBox": {
+                  "eastBL": {
+                    "@_Sync": "TRUE",
+                    "#value": -674942.505982
+                  },
+                  "southBL": {
+                    "@_Sync": "TRUE",
+                    "#value": -990385.939225
+                  },
+                  "exTypeCode": {
+                    "@_Sync": "TRUE",
+                    "#value": 1
+                  },
+                  "northBL": {
+                    "@_Sync": "TRUE",
+                    "#value": -956866.875
+                  },
+                  "westBL": {
+                    "@_Sync": "TRUE",
+                    "#value": -701906
+                  }
+                },
+                "itemSize": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                }
+              },
+              "coordRef": {
+                "projcsn": {
+                  "@_Sync": "TRUE",
+                  "#value": "S-JTSK_Krovak_East_North"
+                },
+                "csUnits": {
+                  "@_Sync": "TRUE",
+                  "#value": "Linear Unit: Meter (1.000000)"
+                },
+                "peXml": {
+                  "@_Sync": "TRUE",
+                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.4.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
+                },
+                "type": {
+                  "@_Sync": "TRUE",
+                  "#value": "Projected"
+                },
+                "geogcsn": {
+                  "@_Sync": "TRUE",
+                  "#value": "GCS_S_JTSK"
+                }
+              }
+            },
+            "ModDate": 20250502,
+            "SyncTime": 16103700,
+            "CreaDate": 20250327,
+            "ModTime": 16170200,
+            "SyncOnce": "FALSE"
+          },
+          "dqInfo": {
+            "dqScope": {
+              "scpLvlDesc": {
+                "featSet": "Vymezení jednotlivých přírodních parků vychází převážně z původních (analogových) katastrálních map. Geometrie prvků proto nemusí plně odpovídat současnému stavu parcelního členění."
+              },
+              "scpLvl": {
+                "ScopeCd": {
+                  "@_value": "010"
+                }
+              }
+            }
+          },
+          "spdoinfo": {
+            "ptvctinf": {
+              "esriterm": {
+                "spindex": {
+                  "@_Sync": "TRUE",
+                  "#value": "FALSE"
+                },
+                "esritopo": {
+                  "@_Sync": "TRUE",
+                  "#value": "FALSE"
+                },
+                "linrefer": {
+                  "@_Sync": "TRUE",
+                  "#value": "FALSE"
+                },
+                "efeageom": {
+                  "@_Sync": "TRUE",
+                  "@_code": "4"
+                },
+                "efeacnt": {
+                  "@_Sync": "TRUE",
+                  "#value": 0
+                },
+                "efeatyp": {
+                  "@_Sync": "TRUE",
+                  "#value": "Simple"
+                },
+                "@_Name": "prirodni_parky_LK"
+              }
+            }
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Datová sada s prostorovou lokalizací na území Libereckého kraje. </SPAN></P></DIV></DIV></DIV>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataLang": {
+              "countryCode": {
+                "@_Sync": "TRUE",
+                "@_value": "CZ"
+              },
+              "languageCode": {
+                "@_value": "cze"
+              }
+            },
+            "idPurp": "Vymezeno v souladu s § 12 zákona č. 114/1992 Sb. o ochraně přírody a krajiny k ochraně krajinného rázu s významnými soustředěnými estetickými a přírodními hodnotami, který není chráněn jako zvláště chráněné území",
+            "tpCat": {
+              "TopicCatCd": {
+                "@_value": "007"
+              }
+            },
+            "dataExt": {
+              "exDesc": "aktualizace dat: 01.08.2022",
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": 15.647,
+                  "southBL": 50.47,
+                  "northBL": 51.028,
+                  "westBL": 14.328
+                }
+              }
+            },
+            "envirDesc": {
+              "@_Sync": "FALSE",
+              "#value": "Esri ArcGIS 13.4.0.55405"
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2025-04-28T00:00:00"
+              },
+              "resTitle": "Přírodní parky Libereckého kraje",
+              "presForm": {
+                "PresFormCd": {
+                  "@_Sync": "TRUE",
+                  "@_value": "005"
+                }
+              }
+            },
+            "themeKeys": [
+              {
+                "keyword": "Přírodní park"
+              },
+              {
+                "keyword": "krajinný ráz"
+              }
+            ],
+            "resMaint": {
+              "maintFreq": {
+                "MaintFreqCd": {
+                  "@_value": "009"
+                }
+              }
+            },
+            "spatRpType": {
+              "SpatRepTypCd": {
+                "@_value": "001"
+              }
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "přírodní park",
+                "opendata"
+              ]
+            },
+            "idPoC": {
+              "rpCntInfo": {
+                "cntPhone": {
+                  "voiceNum": "485 226 359"
+                },
+                "cntAddress": {
+                  "country": "CZ",
+                  "delPoint": "U jezu 642/2a",
+                  "city": "Liberec 2",
+                  "@_addressType": "postal",
+                  "postCode": "461 80"
+                }
+              },
+              "rpIndName": "Ing. Pavel Bulíř",
+              "rpOrgName": "Krajský úřad Libereckého kraje, odbor životního prostředí a zemědělství",
+              "rpPosName": "odbor životního prostředí a zemědělství",
+              "role": {
+                "RoleCd": {
+                  "@_value": "001"
+                }
+              }
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "CC0 1.0"
+              }
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "5514"
+                },
+                "idCodeSpace": "EPSG",
+                "idVersion": "7.7(10.1.0)"
+              },
+              "@_dimension": ""
+            }
+          },
+          "eainfo": {
+            "detailed": {
+              "attr": [
+                {
+                  "attrlabl": "FID",
+                  "attwidth": 4,
+                  "attrdef": "Internal feature number.",
+                  "attscale": 0,
+                  "attrdefs": "Esri",
+                  "atprecis": 0,
+                  "attrdomv": {
+                    "udom": "Sequential unique whole numbers that are automatically generated."
+                  },
+                  "attalias": "FID",
+                  "attrtype": "OID"
+                },
+                {
+                  "attrlabl": "Shape",
+                  "attwidth": 0,
+                  "attrdef": "Feature geometry.",
+                  "attscale": 0,
+                  "attrdefs": "Esri",
+                  "atprecis": 0,
+                  "attrdomv": {
+                    "udom": "Coordinates defining the features."
+                  },
+                  "attalias": "Shape",
+                  "attrtype": "Geometry"
+                },
+                {
+                  "attrlabl": "AREA",
+                  "attwidth": 19,
+                  "attrdef": "výměra",
+                  "attscale": 4,
+                  "attrdefs": "vypočteno geometricky",
+                  "atprecis": 18,
+                  "attrdomv": {
+                    "udom": "hodnota"
+                  },
+                  "attalias": "AREA",
+                  "attrtype": "Double"
+                },
+                {
+                  "attrlabl": "PERIMETER",
+                  "attwidth": 19,
+                  "attrdef": "obvod území",
+                  "attscale": 4,
+                  "attrdefs": "vypočteno geometricky",
+                  "atprecis": 18,
+                  "attrdomv": {
+                    "udom": "hodnota"
+                  },
+                  "attalias": "PERIMETER",
+                  "attrtype": "Double"
+                },
+                {
+                  "attrlabl": "VYHLASENO",
+                  "attwidth": 50,
+                  "attrdef": "vyhlašovací dokument",
+                  "attscale": 0,
+                  "attrdefs": "vyhlašovací dokument",
+                  "atprecis": 0,
+                  "attrdomv": {
+                    "udom": "Datum vyhlášení a název zřizovacího dokumentu"
+                  },
+                  "attalias": "Název vyhlašovacího dokumentu",
+                  "attrtype": "String"
+                },
+                {
+                  "attrlabl": "NAZEV",
+                  "attwidth": 50,
+                  "attrdef": "Název Přírodního parku",
+                  "attscale": 0,
+                  "attrdefs": "vyhlašovací dokument",
+                  "atprecis": 0,
+                  "attrdomv": {
+                    "udom": "Peklo\nJeštěd\nMaloskalsko"
+                  },
+                  "attalias": "Název Přírodního parku",
+                  "attrtype": "String"
+                }
+              ],
+              "enttyp": {
+                "enttypc": 3,
+                "enttypd": "vymezeno k ochraně krajinného rázu s významnými soustředěnými estetickými a přírodními hodnotami, který není chráněn podle části třetí zákona č. 114/1992 Sb. o ochraně přírody v platném znění",
+                "enttypt": "Feature Class",
+                "enttypds": "zákon č. 114/1992 Sb. o ochraně přírody v platném znění",
+                "enttypl": "Přírodní park"
+              },
+              "@_Name": "prirodni_parky_LK"
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          },
+          "mdFileID": "e15d8186f9124e1999fc18de08bf1d46",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://www.datalk.cz/search?collection=Dataset"
+              },
+              "transSize": {
+                "@_Sync": "TRUE",
+                "#value": 0
+              }
+            },
+            "distFormat": {
+              "formatVer": 1,
+              "formatName": "Shapefile"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "009"
+              }
+            }
+          },
+          "@_xml:lang": "cs",
+          "mdHrLvName": "dataset"
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/2dbdf56fd9a7434baaf3e3b21aa7bfa4_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/P%C5%99%C3%ADrodn%C3%AD_parky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/2dbdf56fd9a7434baaf3e3b21aa7bfa4/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2e1c9521eab44e53a5a14d065b20012d&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/2e1c9521eab44e53a5a14d065b20012d_0",
       "title": "Aquaparky a bazény a další místa na koupání",
