@@ -245,6 +245,213 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=0d8b171ced024199a973be418bcdf513&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/0d8b171ced024199a973be418bcdf513_0",
+      "title": "Stromy republiky",
+      "description": "Datová sada s prostorovou lokalizací na území Libereckého kraje.",
+      "keyword": [
+        "strom",
+        "lípa",
+        "republika",
+        "památný",
+        "opendata"
+      ],
+      "issued": "2025-06-03T08:25:52.000Z",
+      "modified": "2025-06-03T08:30:07.182Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.4704,50.1407,15.5447,50.9609",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_value": "cze"
+            }
+          },
+          "mdContact": {
+            "role": {
+              "RoleCd": {
+                "@_value": "001"
+              }
+            },
+            "rpOrgName": "KÚ LK Krajský úřad Libereckého kraje"
+          },
+          "mdFileID": "0d8b171ced024199a973be418bcdf513",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Stromy_republiky/FeatureServer"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "ArcGISProfile": "ISO19139"
+          },
+          "@_xml:lang": "cs",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "Datová sada s prostorovou lokalizací na území Libereckého kraje.",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": 15.544718100000003,
+                  "southBL": 50.140691,
+                  "northBL": 50.9609107,
+                  "westBL": 14.470428500000002
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "createDate": "2025-06-03T00:00:00"
+              },
+              "resTitle": "Stromy republiky"
+            },
+            "dataLang": {
+              "languageCode": {
+                "@_value": "cze"
+              }
+            },
+            "idPurp": "Stromy republiky Libereckého kraje nenabízí seznam stromů, které byly k výročí vzniku republiky na území Libereckého kraje vysazeny.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_value": "004"
+              }
+            },
+            "tpCat": {
+              "TopicCatCd": {
+                "@_value": "007"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "strom",
+                "lípa",
+                "republika",
+                "památný",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/0d8b171ced024199a973be418bcdf513_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Stromy_republiky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/0d8b171ced024199a973be418bcdf513/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=0eea4ad6c9b5426394a4f05c4dca9217&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0",
       "title": "Adresář obcí Libereckého kraje",
