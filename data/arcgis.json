@@ -1368,7 +1368,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=2dbdf56fd9a7434baaf3e3b21aa7bfa4&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/2dbdf56fd9a7434baaf3e3b21aa7bfa4_0",
-      "title": "Prirodni parky",
+      "title": "Přírodní parky",
       "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Datová sada s prostorovou lokalizací na území Libereckého kraje. </SPAN></P></DIV></DIV></DIV>",
       "keyword": [
         "přírodní park",
@@ -6476,7 +6476,7 @@
         "opendata"
       ],
       "issued": "2024-10-08T12:52:41.000Z",
-      "modified": "2025-05-21T12:19:10.206Z",
+      "modified": "2025-06-16T13:54:41.764Z",
       "publisher": {
         "name": "datalk"
       },
