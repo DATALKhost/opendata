@@ -5161,6 +5161,1154 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a",
+      "landingPage": "https://www.datalk.cz/maps/7d7c0f471db24e3eba6927f0e839984a",
+      "title": "Záplavové území v Libereckém kraji",
+      "description": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+      "keyword": [
+        "Záplavové území",
+        "opendata"
+      ],
+      "issued": "2025-07-09T14:06:22.000Z",
+      "modified": "2025-07-09T14:06:22.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.1670,50.3139,15.5873,51.0616",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdFileID": "7d7c0f471db24e3eba6927f0e839984a",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14062200,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a",
+                  "itemIdentifier": "7d7c0f471db24e3eba6927f0e839984a",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/7d7c0f471db24e3eba6927f0e839984a/info/thumbnail/thumbnail1752135021571.png"
+                }
+              }
+            },
+            "ModDate": 20250709,
+            "CreaDate": 20250709,
+            "ModTime": 14062200
+          },
+          "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 15.5873
+                  },
+                  "southBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 50.3139
+                  },
+                  "exTypeCode": {
+                    "@_Sync": "TRUE",
+                    "#value": 1
+                  },
+                  "northBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 51.0616
+                  },
+                  "westBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 14.167
+                  }
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2025-07-09T14:06:22",
+                "createDate": "2025-07-09T14:06:22"
+              },
+              "resTitle": "ZAPLAV_UZEMI_gdb"
+            },
+            "idPurp": "Záplavového území (Q5, Q20, Q100, Q500, aktivní zóna) na území Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "Záplavové území",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "102100"
+                },
+                "idCodeSpace": "EPSG"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/maps/7d7c0f471db24e3eba6927f0e839984a"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_0",
+      "title": "zaplavove uzemi Q20",
+      "description": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+      "keyword": [
+        "Záplavové území",
+        "opendata"
+      ],
+      "issued": "2025-07-09T14:06:22.000Z",
+      "modified": "2025-07-09T14:06:22.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.1677,50.3141,15.5872,51.0616",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdFileID": "7d7c0f471db24e3eba6927f0e839984a",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14062200,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a",
+                  "itemIdentifier": "7d7c0f471db24e3eba6927f0e839984a",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/7d7c0f471db24e3eba6927f0e839984a/info/thumbnail/thumbnail1752135021571.png"
+                }
+              }
+            },
+            "ModDate": 20250709,
+            "CreaDate": 20250709,
+            "ModTime": 14062200
+          },
+          "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 15.5873
+                  },
+                  "southBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 50.3139
+                  },
+                  "exTypeCode": {
+                    "@_Sync": "TRUE",
+                    "#value": 1
+                  },
+                  "northBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 51.0616
+                  },
+                  "westBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 14.167
+                  }
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2025-07-09T14:06:22",
+                "createDate": "2025-07-09T14:06:22"
+              },
+              "resTitle": "ZAPLAV_UZEMI_gdb"
+            },
+            "idPurp": "Záplavového území (Q5, Q20, Q100, Q500, aktivní zóna) na území Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "Záplavové území",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "102100"
+                },
+                "idCodeSpace": "EPSG"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a&sublayer=1",
+      "landingPage": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_1",
+      "title": "zaplavove uzemi Q5",
+      "description": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+      "keyword": [
+        "Záplavové území",
+        "opendata"
+      ],
+      "issued": "2025-07-09T14:06:22.000Z",
+      "modified": "2025-07-09T14:06:22.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.1677,50.3143,15.5872,51.0616",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdFileID": "7d7c0f471db24e3eba6927f0e839984a",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14062200,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a",
+                  "itemIdentifier": "7d7c0f471db24e3eba6927f0e839984a",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/7d7c0f471db24e3eba6927f0e839984a/info/thumbnail/thumbnail1752135021571.png"
+                }
+              }
+            },
+            "ModDate": 20250709,
+            "CreaDate": 20250709,
+            "ModTime": 14062200
+          },
+          "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 15.5873
+                  },
+                  "southBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 50.3139
+                  },
+                  "exTypeCode": {
+                    "@_Sync": "TRUE",
+                    "#value": 1
+                  },
+                  "northBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 51.0616
+                  },
+                  "westBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 14.167
+                  }
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2025-07-09T14:06:22",
+                "createDate": "2025-07-09T14:06:22"
+              },
+              "resTitle": "ZAPLAV_UZEMI_gdb"
+            },
+            "idPurp": "Záplavového území (Q5, Q20, Q100, Q500, aktivní zóna) na území Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "Záplavové území",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "102100"
+                },
+                "idCodeSpace": "EPSG"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_1"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/1"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/csv?layers=1"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/shapefile?layers=1"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/geojson?layers=1"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/kml?layers=1"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a&sublayer=2",
+      "landingPage": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_2",
+      "title": "zaplavove uzemi AZ",
+      "description": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+      "keyword": [
+        "Záplavové území",
+        "opendata"
+      ],
+      "issued": "2025-07-09T14:06:22.000Z",
+      "modified": "2025-07-09T14:06:22.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.1670,50.3141,15.5611,51.0595",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdFileID": "7d7c0f471db24e3eba6927f0e839984a",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14062200,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a",
+                  "itemIdentifier": "7d7c0f471db24e3eba6927f0e839984a",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/7d7c0f471db24e3eba6927f0e839984a/info/thumbnail/thumbnail1752135021571.png"
+                }
+              }
+            },
+            "ModDate": 20250709,
+            "CreaDate": 20250709,
+            "ModTime": 14062200
+          },
+          "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 15.5873
+                  },
+                  "southBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 50.3139
+                  },
+                  "exTypeCode": {
+                    "@_Sync": "TRUE",
+                    "#value": 1
+                  },
+                  "northBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 51.0616
+                  },
+                  "westBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 14.167
+                  }
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2025-07-09T14:06:22",
+                "createDate": "2025-07-09T14:06:22"
+              },
+              "resTitle": "ZAPLAV_UZEMI_gdb"
+            },
+            "idPurp": "Záplavového území (Q5, Q20, Q100, Q500, aktivní zóna) na území Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "Záplavové území",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "102100"
+                },
+                "idCodeSpace": "EPSG"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/csv?layers=2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/shapefile?layers=2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/geojson?layers=2"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/kml?layers=2"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a&sublayer=3",
+      "landingPage": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_3",
+      "title": "zaplavove uzemi Q500",
+      "description": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+      "keyword": [
+        "Záplavové území",
+        "opendata"
+      ],
+      "issued": "2025-07-09T14:06:22.000Z",
+      "modified": "2025-07-09T14:06:22.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.4059,50.4567,15.5378,50.9995",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdFileID": "7d7c0f471db24e3eba6927f0e839984a",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14062200,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a",
+                  "itemIdentifier": "7d7c0f471db24e3eba6927f0e839984a",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/7d7c0f471db24e3eba6927f0e839984a/info/thumbnail/thumbnail1752135021571.png"
+                }
+              }
+            },
+            "ModDate": 20250709,
+            "CreaDate": 20250709,
+            "ModTime": 14062200
+          },
+          "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 15.5873
+                  },
+                  "southBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 50.3139
+                  },
+                  "exTypeCode": {
+                    "@_Sync": "TRUE",
+                    "#value": 1
+                  },
+                  "northBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 51.0616
+                  },
+                  "westBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 14.167
+                  }
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2025-07-09T14:06:22",
+                "createDate": "2025-07-09T14:06:22"
+              },
+              "resTitle": "ZAPLAV_UZEMI_gdb"
+            },
+            "idPurp": "Záplavového území (Q5, Q20, Q100, Q500, aktivní zóna) na území Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "Záplavové území",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "102100"
+                },
+                "idCodeSpace": "EPSG"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/csv?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/shapefile?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/geojson?layers=3"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/kml?layers=3"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a&sublayer=4",
+      "landingPage": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_4",
+      "title": "zaplavove uzemi Q100",
+      "description": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+      "keyword": [
+        "Záplavové území",
+        "opendata"
+      ],
+      "issued": "2025-07-09T14:06:22.000Z",
+      "modified": "2025-07-09T14:06:22.000Z",
+      "publisher": {
+        "name": "datalk"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.1670,50.3139,15.5873,51.0616",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdFileID": "7d7c0f471db24e3eba6927f0e839984a",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "010"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14062200,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=7d7c0f471db24e3eba6927f0e839984a",
+                  "itemIdentifier": "7d7c0f471db24e3eba6927f0e839984a",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/7d7c0f471db24e3eba6927f0e839984a/info/thumbnail/thumbnail1752135021571.png"
+                }
+              }
+            },
+            "ModDate": 20250709,
+            "CreaDate": 20250709,
+            "ModTime": 14062200
+          },
+          "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Vrstva obsahuje území s výskytem povodně na území Libereckého kraje pro Q5, Q20, Q100, Q500 a aktivní zónu. Tato data byla zpracována jako součást odborných studií sloužících ke stanovení záplavových území (Q100). Údaje mají informativní charakter a nejsou úředně stanoveny podle § 66 zákona č. 254/2001 Sb. vodního zákona.</p>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": {
+                "GeoBndBox": {
+                  "eastBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 15.5873
+                  },
+                  "southBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 50.3139
+                  },
+                  "exTypeCode": {
+                    "@_Sync": "TRUE",
+                    "#value": 1
+                  },
+                  "northBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 51.0616
+                  },
+                  "westBL": {
+                    "@_Sync": "FALSE",
+                    "#value": 14.167
+                  }
+                }
+              }
+            },
+            "idCitation": {
+              "date": {
+                "reviseDate": "2025-07-09T14:06:22",
+                "createDate": "2025-07-09T14:06:22"
+              },
+              "resTitle": "ZAPLAV_UZEMI_gdb"
+            },
+            "idPurp": "Záplavového území (Q5, Q20, Q100, Q500, aktivní zóna) na území Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "Záplavové území",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "102100"
+                },
+                "idCodeSpace": "EPSG"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/7d7c0f471db24e3eba6927f0e839984a_4"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/ZAPLAV_UZEMI_gdb/FeatureServer/4"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/csv?layers=4"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/shapefile?layers=4"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/geojson?layers=4"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d7c0f471db24e3eba6927f0e839984a/kml?layers=4"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=823b604ad926481dae05ab967bd08edd&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/823b604ad926481dae05ab967bd08edd_0",
       "title": "Knihovny v Libereckém kraji",
