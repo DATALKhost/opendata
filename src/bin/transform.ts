@@ -11,7 +11,7 @@ import * as CONFIG from '@/../config';
 	const dto: Partial<Transfer.Root> = {};
 
 	// Catalogue
-	dto["@context"] = "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld";
+	dto["@context"] = "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld";
 	dto['iri'] = generateUrl('katalog.jsonld');
 	dto['typ'] = "Katalog";
 	dto['domovská_stránka'] = CONFIG.META_LKOD.homepage;
