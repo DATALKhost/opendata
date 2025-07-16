@@ -3066,7 +3066,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=49731386809549c9a9ad32b83e2cb9ef&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/49731386809549c9a9ad32b83e2cb9ef_0",
       "title": "Dvacetiletá voda Q20 - záplavové území - Liberecký kraj",
-      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
       "keyword": [
         "dvacetiletá voda",
         "záplavové území",
@@ -3265,7 +3265,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
             "idCredit": "Data (Q20) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -4097,7 +4097,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=537ae88834654f11b48bf8874a011a61&sublayer=4",
       "landingPage": "https://www.datalk.cz/datasets/537ae88834654f11b48bf8874a011a61_4",
       "title": "Záplavové území Q100 - stoletá voda - Liberecký kraj",
-      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Datová sada s prostorovou lokalizací na území Libereckého kraje</SPAN></P></DIV></DIV></DIV>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Datová sada s prostorovou lokalizací na území Libereckého kraje. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
       "keyword": [
         "záplavové území",
         "Liberecký kraj",
@@ -4295,7 +4295,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Datová sada s prostorovou lokalizací na území Libereckého kraje</SPAN></P></DIV></DIV></DIV>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Datová sada s prostorovou lokalizací na území Libereckého kraje. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
             "idCredit": "Data byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -5293,7 +5293,7 @@
         "prostory"
       ],
       "issued": "2024-11-29T10:19:38.000Z",
-      "modified": "2025-07-02T14:19:36.260Z",
+      "modified": "2025-07-16T11:48:01.142Z",
       "publisher": {
         "name": "datalk"
       },
@@ -5458,6 +5458,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/5efd7eddece2402aaac05b04e3644a2a/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -7165,7 +7200,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-03-22T10:48:00.000Z",
-      "modified": "2025-05-26T11:55:11.225Z",
+      "modified": "2025-07-16T13:04:13.117Z",
       "publisher": {
         "name": "datalk"
       },
@@ -7350,6 +7385,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/823b604ad926481dae05ab967bd08edd/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -7361,7 +7431,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=83b31c2f10934b3f82e59ef1d7e1675f&sublayer=1",
       "landingPage": "https://www.datalk.cz/datasets/83b31c2f10934b3f82e59ef1d7e1675f_1",
       "title": "Pětiletá voda (Q5) - záplavové území - Liberecký kraj",
-      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
       "keyword": [
         "pětiletá voda",
         "záplavové území",
@@ -7560,7 +7630,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
             "idCredit": "Data (Q5) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -9703,7 +9773,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=b01f1452d19d43db9706e12b3c2efcfc&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/b01f1452d19d43db9706e12b3c2efcfc_0",
       "title": "Regionální výrobci Libereckého kraje",
-      "description": "<span style='color:rgb(51, 51, 51); font-family:Poppins; font-size:14px; font-style:normal; font-variant-ligatures:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; text-align:center; text-indent:0px; text-transform:none; word-spacing:0px; background-color:rgb(255, 255, 255); text-decoration-style:initial; text-decoration-color:initial; display:inline !important;'>Liberecký kraj nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.</span>",
+      "description": "<p>Liberecký kraj nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.</p>",
       "keyword": [
         "výrobce",
         "regionální",
@@ -9722,8 +9792,47 @@
       "accessLevel": "public",
       "spatial": "14.4245,50.5046,15.6216,51.0165",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": "{{categories}}",
-      "metadata": "{{metadata}}",
+      "category": [
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "007"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "ArcGISProfile": "ISO19139"
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -10030,7 +10139,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=b7cabfa6bc9048458e79f4e2e63b8cf1&sublayer=2",
       "landingPage": "https://www.datalk.cz/datasets/b7cabfa6bc9048458e79f4e2e63b8cf1_2",
       "title": "Aktivní zóna záplavového území - Liberecký kraj",
-      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Záplavová území na území Libereckého kraje</SPAN></P></DIV></DIV></DIV>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Záplavová území na území Libereckého kraje. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
       "keyword": [
         "aktivní zóna",
         "záplavové území",
@@ -10228,7 +10337,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Záplavová území na území Libereckého kraje</SPAN></P></DIV></DIV></DIV>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Záplavová území na území Libereckého kraje. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
             "idCredit": "Data byla převzata z hydrotechnických studií, které byly zpracovány specializovanými firmami obvykle na objednávku státních podniků Povodí Labe s.p. a Povodí Ohře s.p. Tyto podniky následně předkládají výsledky studií příslušným vodoprávním úřadům jako podklad pro stanovení záplavových území. \nZáplavové území (Q100) a aktivní zóna se pak stávají údaji o území a poskytovatelem údaje o území příslušný úřad. \nV atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. \nHodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) \nHodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. \nUživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -11775,7 +11884,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=da13d64123ec4a2aab0ad9b3410062bc&sublayer=3",
       "landingPage": "https://www.datalk.cz/datasets/da13d64123ec4a2aab0ad9b3410062bc_3",
       "title": "Pětisetletá voda Q500 - záplavové území - Liberecký kraj",
-      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
       "keyword": [
         "pětisetletá voda",
         "záplavové území",
@@ -11973,7 +12082,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. V budoucnu se bude měnit zdroj -&gt; čímž se upraví URI a URL položky.</span></p></div></div></div>",
             "idCredit": "Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
