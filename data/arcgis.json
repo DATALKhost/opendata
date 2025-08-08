@@ -2840,8 +2840,8 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=3fd0270addea451788eb82e018d4d675&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/3fd0270addea451788eb82e018d4d675_0",
-      "title": "Organizace zřizované Libereckým krajem",
-      "description": "Otevřená sada organizací zřizovaných Libereckým krajem.",
+      "title": "Organizace Libereckého kraje",
+      "description": "<p>Otevřená sada organizací zřizovaných Libereckým krajem a organizací, ve kterých má Liberecký kraj majetkový podíl.</p>",
       "keyword": [
         "subjekt",
         "organizace",

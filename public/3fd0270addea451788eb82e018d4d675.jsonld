@@ -4,10 +4,10 @@
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
   "název": {
-    "cs": "Organizace zřizované Libereckým krajem"
+    "cs": "Organizace Libereckého kraje"
   },
   "popis": {
-    "cs": "Otevřená sada organizací zřizovaných Libereckým krajem."
+    "cs": "Otevřená sada organizací zřizovaných Libereckým krajem a organizací, ve kterých má Liberecký kraj majetkový podíl."
   },
   "klíčové_slovo": {
     "cs": [
