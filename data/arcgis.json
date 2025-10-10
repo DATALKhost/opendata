@@ -27,7 +27,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.4642,50.1235,15.0744,50.7731",
+      "spatial": "14.4642,50.1235,15.0744,50.7783",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Dotace"
@@ -8128,7 +8128,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=93c69d41e65c46cf919ebe851da95d0b&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/93c69d41e65c46cf919ebe851da95d0b_0",
       "title": "Dobrovolné svazky obcí Libereckého kraje",
-      "description": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
+      "description": "<p>Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.</p>",
       "keyword": [
         "dobrovolný",
         "svazek",
@@ -8139,7 +8139,7 @@
         "osobní údaje"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2025-05-23T13:13:10.338Z",
+      "modified": "2025-10-09T12:40:34.626Z",
       "publisher": {
         "name": "datalk"
       },
@@ -8182,6 +8182,13 @@
             "CreaTime": 15291758,
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/93c69d41e65c46cf919ebe851da95d0b/info/thumbnail/thumbnail1760013751018.png"
+                }
+              }
+            },
             "ModDate": "2024-10-30",
             "CreaDate": "2024-03-06",
             "ModTime": "13:04:00.41",
@@ -8191,7 +8198,7 @@
           "mdTimeSt": "15:29:17.58",
           "@_xml:lang": "cs",
           "dataIdInfo": {
-            "idAbs": "Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.",
+            "idAbs": "<p>Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.</p>",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "dataExt": {
               "geoEle": {
@@ -8356,41 +8363,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/93c69d41e65c46cf919ebe851da95d0b/sqlite?layers=0"
         }
       ],
       "theme": [
