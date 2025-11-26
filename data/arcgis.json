@@ -4661,7 +4661,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=75d7790c580b4cbca00fb36af9c2e3bb&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/75d7790c580b4cbca00fb36af9c2e3bb_0",
       "title": "Pětisetletá voda Q500 - záplavové území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+      "description": "<div style='text-align:Left;'><div><div><p>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
       "keyword": [
         "pětisetletá voda",
         "záplavové území",
@@ -4669,7 +4669,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:57:52.000Z",
-      "modified": "2025-06-16T00:00:00.000Z",
+      "modified": "2025-11-11T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -4712,8 +4712,6 @@
                 "@_addressType": ""
               }
             },
-            "editorSave": "True",
-            "editorSource": "external",
             "rpIndName": "Ing. Věra Kneysová",
             "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
             "role": {
@@ -4721,8 +4719,7 @@
                 "@_value": "010"
               }
             },
-            "displayName": "Ing. Věra Kneysová",
-            "editorDigest": "1afff577f67761bfe7092e95e96303ae5aaf31ca"
+            "displayName": "Ing. Věra Kneysová"
           },
           "spatRepInfo": {
             "VectSpatRep": {
@@ -4749,7 +4746,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251006
+            "#value": 20251114
           },
           "Esri": {
             "scaleRange": {
@@ -4764,7 +4761,7 @@
               }
             },
             "CreaTime": 9375000,
-            "SyncDate": 20251006,
+            "SyncDate": 20251114,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -4793,7 +4790,7 @@
                 },
                 "peXml": {
                   "@_Sync": "TRUE",
-                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.4.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
+                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.5.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
                 },
                 "type": {
                   "@_Sync": "TRUE",
@@ -4805,11 +4802,11 @@
                 }
               }
             },
-            "SyncTime": 12373200,
-            "ModDate": 20251006,
+            "SyncTime": 7380500,
+            "ModDate": 20251114,
             "CreaDate": 20231031,
             "SyncOnce": "FALSE",
-            "ModTime": 12451200
+            "ModTime": 8464500
           },
           "dqInfo": {
             "dataLineage": {
@@ -4861,7 +4858,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
             "idCredit": "Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -4899,12 +4896,12 @@
             },
             "envirDesc": {
               "@_Sync": "FALSE",
-              "#value": "Esri ArcGIS 13.4.0.55405"
+              "#value": "Esri ArcGIS 13.5.3.57366"
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-06-16T00:00:00",
-                "pubDate": "2025-06-03T00:00:00",
+                "reviseDate": "2025-11-11T00:00:00",
+                "pubDate": "2025-11-11T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -4913,28 +4910,22 @@
               },
               "citRespParty": [
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Labe s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Labe s.p.",
-                  "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                  "displayName": "Povodí Labe s.p."
                 },
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Ohře s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Ohře s.p.",
-                  "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                  "displayName": "Povodí Ohře s.p."
                 },
                 {
                   "rpCntInfo": {
@@ -4953,8 +4944,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Zdeněk Madej",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -4962,8 +4951,7 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Zdeněk Madej",
-                  "editorDigest": "223d5892f890c35119204b93ec490ee4eed58701"
+                  "displayName": "Ing. Zdeněk Madej"
                 },
                 {
                   "rpCntInfo": {
@@ -4981,8 +4969,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Hana Stárková",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -4990,8 +4976,7 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Hana Stárková",
-                  "editorDigest": "3f2beac448749b74acc699070c81d91f2f266502"
+                  "displayName": "Ing. Hana Stárková"
                 }
               ],
               "presForm": {
@@ -5029,28 +5014,22 @@
             },
             "idPoC": [
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Labe s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Labe s.p.",
-                "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                "displayName": "Povodí Labe s.p."
               },
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Ohře s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Ohře s.p.",
-                "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                "displayName": "Povodí Ohře s.p."
               }
             ]
           },
@@ -5482,24 +5461,50 @@
                 {
                   "attrlabl": {
                     "@_Sync": "TRUE",
+                    "#value": "ZPRACOVATE"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 254
+                  },
+                  "attrdef": "Zpracovatel studie, podle které bylo vyhlášeno záplavové území.",
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdefs": "Studie",
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": "Zpracovatel studie"
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "ZPRACOVATE"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "String"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
                     "#value": "Shape_Leng"
                   },
                   "attwidth": {
                     "@_Sync": "TRUE",
                     "#value": 19
                   },
-                  "attrdef": "x",
                   "attscale": {
                     "@_Sync": "TRUE",
                     "#value": 0
                   },
-                  "attrdefs": "x",
                   "atprecis": {
                     "@_Sync": "TRUE",
                     "#value": 0
-                  },
-                  "attrdomv": {
-                    "udom": "x"
                   },
                   "attalias": {
                     "@_Sync": "TRUE",
@@ -6590,7 +6595,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=89a9fb35d2fe4a2abc7ee77a56386bd4&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/89a9fb35d2fe4a2abc7ee77a56386bd4_0",
       "title": "Dvacetiletá voda Q20 - záplavové území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+      "description": "<div style='text-align:Left;'><div><div><p>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
       "keyword": [
         "dvacetiletá voda",
         "záplavové území",
@@ -6599,7 +6604,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:40:28.000Z",
-      "modified": "2025-06-16T00:00:00.000Z",
+      "modified": "2025-11-11T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -6642,8 +6647,6 @@
                 "@_addressType": ""
               }
             },
-            "editorSave": "True",
-            "editorSource": "external",
             "rpIndName": "Ing. Věra Kneysová",
             "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
             "role": {
@@ -6651,8 +6654,7 @@
                 "@_value": "010"
               }
             },
-            "displayName": "Ing. Věra Kneysová",
-            "editorDigest": "1afff577f67761bfe7092e95e96303ae5aaf31ca"
+            "displayName": "Ing. Věra Kneysová"
           },
           "spatRepInfo": {
             "VectSpatRep": {
@@ -6679,7 +6681,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251006
+            "#value": 20251114
           },
           "Esri": {
             "scaleRange": {
@@ -6694,7 +6696,7 @@
               }
             },
             "CreaTime": 10360800,
-            "SyncDate": 20251006,
+            "SyncDate": 20251111,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -6735,11 +6737,11 @@
                 }
               }
             },
-            "SyncTime": 12362000,
-            "ModDate": 20251006,
+            "SyncTime": 13594600,
+            "ModDate": 20251114,
             "CreaDate": 20250526,
             "SyncOnce": "FALSE",
-            "ModTime": 12451500
+            "ModTime": 8484000
           },
           "dqInfo": {
             "dataLineage": {
@@ -6791,7 +6793,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
             "idCredit": "Data (Q20) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -6833,8 +6835,8 @@
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-06-16T00:00:00",
-                "pubDate": "2025-06-03T00:00:00",
+                "reviseDate": "2025-11-11T00:00:00",
+                "pubDate": "2025-11-11T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -6843,28 +6845,22 @@
               },
               "citRespParty": [
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Labe s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Labe s.p.",
-                  "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                  "displayName": "Povodí Labe s.p."
                 },
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Ohře s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Ohře s.p.",
-                  "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                  "displayName": "Povodí Ohře s.p."
                 },
                 {
                   "rpCntInfo": {
@@ -6883,8 +6879,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Zdeněk Madej",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -6892,8 +6886,7 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Zdeněk Madej",
-                  "editorDigest": "223d5892f890c35119204b93ec490ee4eed58701"
+                  "displayName": "Ing. Zdeněk Madej"
                 },
                 {
                   "rpCntInfo": {
@@ -6911,8 +6904,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Hana Stárková",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -6920,8 +6911,7 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Hana Stárková",
-                  "editorDigest": "3f2beac448749b74acc699070c81d91f2f266502"
+                  "displayName": "Ing. Hana Stárková"
                 }
               ],
               "presForm": {
@@ -6960,28 +6950,22 @@
             },
             "idPoC": [
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Labe s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Labe s.p.",
-                "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                "displayName": "Povodí Labe s.p."
               },
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Ohře s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Ohře s.p.",
-                "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                "displayName": "Povodí Ohře s.p."
               }
             ]
           },
@@ -7147,6 +7131,37 @@
                   "attalias": {
                     "@_Sync": "TRUE",
                     "#value": "NAZEV_TOKU"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "String"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "ZPRACOVATE"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 254
+                  },
+                  "attrdef": "Zpracovatel studie, podle které bylo vyhlášeno záplavové území.",
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdefs": "Studie",
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": "Zpracovatel studie"
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "ZPRACOVATE"
                   },
                   "attrtype": {
                     "@_Sync": "TRUE",
@@ -7419,18 +7434,13 @@
                     "@_Sync": "TRUE",
                     "#value": 19
                   },
-                  "attrdef": "x",
                   "attscale": {
                     "@_Sync": "TRUE",
                     "#value": 0
                   },
-                  "attrdefs": "x",
                   "atprecis": {
                     "@_Sync": "TRUE",
                     "#value": 0
-                  },
-                  "attrdomv": {
-                    "udom": "x"
                   },
                   "attalias": {
                     "@_Sync": "TRUE",
@@ -8529,7 +8539,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:33:01.000Z",
-      "modified": "2025-06-16T00:00:00.000Z",
+      "modified": "2025-11-11T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -8572,8 +8582,6 @@
                 "@_addressType": ""
               }
             },
-            "editorSave": "True",
-            "editorSource": "external",
             "rpIndName": "Ing. Věra Kneysová",
             "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
             "role": {
@@ -8581,8 +8589,7 @@
                 "@_value": "010"
               }
             },
-            "displayName": "Ing. Věra Kneysová",
-            "editorDigest": "1afff577f67761bfe7092e95e96303ae5aaf31ca"
+            "displayName": "Ing. Věra Kneysová"
           },
           "spatRepInfo": {
             "VectSpatRep": {
@@ -8609,7 +8616,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251006
+            "#value": 20251114
           },
           "Esri": {
             "scaleRange": {
@@ -8624,7 +8631,7 @@
               }
             },
             "CreaTime": 10352500,
-            "SyncDate": 20251006,
+            "SyncDate": 20251111,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -8664,11 +8671,11 @@
                 }
               }
             },
-            "SyncTime": 12121300,
-            "ModDate": 20251006,
+            "SyncTime": 13592200,
+            "ModDate": 20251114,
             "CreaDate": 20250526,
             "SyncOnce": "FALSE",
-            "ModTime": 12451700
+            "ModTime": 8490700
           },
           "dqInfo": {
             "dataLineage": {
@@ -8762,8 +8769,8 @@
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-06-16T00:00:00",
-                "pubDate": "2025-06-03T00:00:00",
+                "reviseDate": "2025-11-11T00:00:00",
+                "pubDate": "2025-11-11T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -8772,28 +8779,22 @@
               },
               "citRespParty": [
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Labe s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Labe s.p.",
-                  "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                  "displayName": "Povodí Labe s.p."
                 },
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Ohře s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Ohře s.p.",
-                  "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                  "displayName": "Povodí Ohře s.p."
                 },
                 {
                   "rpCntInfo": {
@@ -8812,8 +8813,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Zdeněk Madej",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -8821,8 +8820,7 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Zdeněk Madej",
-                  "editorDigest": "223d5892f890c35119204b93ec490ee4eed58701"
+                  "displayName": "Ing. Zdeněk Madej"
                 },
                 {
                   "rpCntInfo": {
@@ -8840,8 +8838,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Hana Stárková",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -8849,8 +8845,7 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Hana Stárková",
-                  "editorDigest": "3f2beac448749b74acc699070c81d91f2f266502"
+                  "displayName": "Ing. Hana Stárková"
                 }
               ],
               "presForm": {
@@ -8889,28 +8884,22 @@
             },
             "idPoC": [
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Labe s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Labe s.p.",
-                "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                "displayName": "Povodí Labe s.p."
               },
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Ohře s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Ohře s.p.",
-                "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                "displayName": "Povodí Ohře s.p."
               }
             ]
           },
@@ -9085,6 +9074,37 @@
                 {
                   "attrlabl": {
                     "@_Sync": "TRUE",
+                    "#value": "ZPRACOVATE"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 254
+                  },
+                  "attrdef": "Zpracovatel studie, podle které bylo vyhlášeno záplavové území.",
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdefs": "Studie",
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": "Zpracovatel studie"
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "ZPRACOVATE"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "String"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
                     "#value": "POVODI"
                   },
                   "attwidth": {
@@ -9204,7 +9224,7 @@
                     "@_Sync": "TRUE",
                     "#value": 10
                   },
-                  "attrdef": "Informace, zda je Krajský úřad Libereckého kraje je poskytovatelem údajů o území podle § 63 zákona č. 283/2021 Sb. stavebního zákona pro záplavového území Q5",
+                  "attrdef": "Informace, zda je Krajský úřad Libereckého kraje poskytovatelem údajů o území podle § 63 zákona č. 283/2021 Sb. stavebního zákona pro záplavového území Q5 pro záplavového území Q5",
                   "attscale": {
                     "@_Sync": "TRUE",
                     "#value": 0
@@ -9348,18 +9368,13 @@
                     "@_Sync": "TRUE",
                     "#value": 19
                   },
-                  "attrdef": "x",
                   "attscale": {
                     "@_Sync": "TRUE",
                     "#value": 0
                   },
-                  "attrdefs": "x",
                   "atprecis": {
                     "@_Sync": "TRUE",
                     "#value": 0
-                  },
-                  "attrdomv": {
-                    "udom": "x"
                   },
                   "attalias": {
                     "@_Sync": "TRUE",
@@ -10001,7 +10016,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=c248a121ee8945899f78c29189b55c70&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/c248a121ee8945899f78c29189b55c70_0",
       "title": "Aktivní zóna záplavového území - Liberecký kraj",
-      "description": "<p>Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
       "keyword": [
         "aktivní zóna",
         "záplavové území",
@@ -10018,7 +10033,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.1670,50.3141,15.5611,51.0595",
+      "spatial": "14.1669,50.3140,15.5610,51.0595",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Příroda a krajina"
@@ -10074,7 +10089,7 @@
                     "@_value": "002"
                   }
                 },
-                "@_Name": "ARR_AZ_2"
+                "@_Name": "ARR_AZ"
               },
               "topLvl": {
                 "TopoLevCd": {
@@ -10086,7 +10101,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20250807
+            "#value": 20251111
           },
           "Esri": {
             "scaleRange": {
@@ -10101,13 +10116,13 @@
               }
             },
             "CreaTime": 10094700,
-            "SyncDate": 20250807,
+            "SyncDate": 20251111,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
                 "itemName": {
                   "@_Sync": "TRUE",
-                  "#value": "ARR_AZ_2"
+                  "#value": "ARR_AZ"
                 },
                 "imsContentType": {
                   "@_Sync": "TRUE",
@@ -10142,11 +10157,11 @@
                 }
               }
             },
-            "SyncTime": 9511400,
-            "ModDate": 20250807,
+            "SyncTime": 13585800,
+            "ModDate": 20251111,
             "CreaDate": 20250526,
             "SyncOnce": "FALSE",
-            "ModTime": 9511400
+            "ModTime": 13585800
           },
           "dqInfo": {
             "dataLineage": {
@@ -10190,7 +10205,7 @@
                   "@_Sync": "TRUE",
                   "#value": "Simple"
                 },
-                "@_Name": "ARR_AZ_2"
+                "@_Name": "ARR_AZ"
               }
             }
           },
@@ -10201,8 +10216,8 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<p>Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p>",
-            "idCredit": "Data byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+            "idCredit": "Data byla převzata z hydrotechnických studií, které byly zpracovány specializovanými firmami obvykle na objednávku státních podniků Povodí Labe s.p. a Povodí Ohře s.p. Tyto podniky následně předkládají výsledky studií příslušným vodoprávním úřadům jako podklad pro stanovení záplavových území.",
             "dataLang": {
               "countryCode": {
                 "@_Sync": "TRUE",
@@ -10972,7 +10987,7 @@
                   "#value": "Aktivní zóna záplavového území"
                 }
               },
-              "@_Name": "ARR_AZ_2"
+              "@_Name": "ARR_AZ"
             }
           },
           "mdChar": {
@@ -11837,7 +11852,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:50:23.000Z",
-      "modified": "2025-06-16T00:00:00.000Z",
+      "modified": "2025-11-11T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -11880,8 +11895,6 @@
                 "@_addressType": ""
               }
             },
-            "editorSave": "True",
-            "editorSource": "external",
             "rpIndName": "Ing. Věra Kneysová",
             "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
             "role": {
@@ -11889,8 +11902,7 @@
                 "@_value": "010"
               }
             },
-            "displayName": "Ing. Věra Kneysová",
-            "editorDigest": "1afff577f67761bfe7092e95e96303ae5aaf31ca"
+            "displayName": "Ing. Věra Kneysová"
           },
           "spatRepInfo": {
             "VectSpatRep": {
@@ -11917,7 +11929,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20250721
+            "#value": 20251114
           },
           "Esri": {
             "scaleRange": {
@@ -11932,7 +11944,7 @@
               }
             },
             "CreaTime": 11295300,
-            "SyncDate": 20250721,
+            "SyncDate": 20251114,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -11961,7 +11973,7 @@
                 },
                 "peXml": {
                   "@_Sync": "TRUE",
-                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.4.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
+                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.5.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
                 },
                 "type": {
                   "@_Sync": "TRUE",
@@ -11973,11 +11985,11 @@
                 }
               }
             },
-            "SyncTime": 13520800,
-            "ModDate": 20250721,
+            "SyncTime": 7432700,
+            "ModDate": 20251114,
             "CreaDate": 20250523,
             "SyncOnce": "FALSE",
-            "ModTime": 13522600
+            "ModTime": 8442300
           },
           "dqInfo": {
             "dataLineage": {
@@ -12030,7 +12042,7 @@
           },
           "dataIdInfo": {
             "idAbs": "<div style='text-align:Left;'><div><div><p><span>Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
-            "idCredit": "Data byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
+            "idCredit": "Data byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území.",
             "dataLang": {
               "countryCode": {
                 "@_Sync": "TRUE",
@@ -12067,12 +12079,12 @@
             },
             "envirDesc": {
               "@_Sync": "FALSE",
-              "#value": "Esri ArcGIS 13.4.0.55405"
+              "#value": "Esri ArcGIS 13.5.3.57366"
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-06-16T00:00:00",
-                "pubDate": "2025-06-03T00:00:00",
+                "reviseDate": "2025-11-11T00:00:00",
+                "pubDate": "2025-11-11T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -12190,28 +12202,22 @@
             },
             "idPoC": [
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Labe s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Labe s.p.",
-                "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                "displayName": "Povodí Labe s.p."
               },
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Ohře s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Ohře s.p.",
-                "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                "displayName": "Povodí Ohře s.p."
               }
             ]
           },
@@ -12420,6 +12426,50 @@
                   }
                 },
                 {
+                  "attrlabl": "ZPRACOVATE",
+                  "attwidth": 254,
+                  "attrdef": "Zpracovatel studie, podle které bylo vyhlášeno záplavové území.",
+                  "attrdefs": "Studie",
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": "Zpracovatel studie"
+                  },
+                  "attrtype": "string",
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "ZPRACOVATE"
+                  }
+                },
+                {
+                  "attrlabl": "DOKUMENT",
+                  "attwidth": 100,
+                  "attrdef": "Název souboru k zobrazení v Geoportálu",
+                  "attrdefs": "správa Geoportálu ŽP LK",
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": "Název souboru k zobrazení v Geoportálu"
+                  },
+                  "attrtype": "string",
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "DOKUMENT"
+                  }
+                },
+                {
                   "attrlabl": "VYHLA_URAD",
                   "attwidth": 100,
                   "attrdef": "Název úřadu, který vydal Opatření obecné povahy - stanovení záplavového území a aktivní zónu záplavového území",
@@ -12569,6 +12619,98 @@
                   "attalias": {
                     "@_Sync": "TRUE",
                     "#value": "TYP_ZAPLAV"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Leng"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 19
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Leng"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "Double"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Le_1"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 19
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Le_1"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "Double"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Area"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 19
+                  },
+                  "attrdef": {
+                    "@_Sync": "TRUE",
+                    "#value": "Area of feature in internal units squared."
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdefs": {
+                    "@_Sync": "TRUE",
+                    "#value": "Esri"
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": {
+                      "@_Sync": "TRUE",
+                      "#value": "Positive real numbers that are automatically generated."
+                    }
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Area"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "Double"
                   }
                 }
               ],
