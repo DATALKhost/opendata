@@ -8055,7 +8055,7 @@
         "osobní údaje"
       ],
       "issued": "2024-03-06T13:53:12.000Z",
-      "modified": "2025-10-21T08:10:37.155Z",
+      "modified": "2025-11-26T08:24:53.173Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -8101,7 +8101,7 @@
             "DataProperties": {
               "itemProps": {
                 "portalDetails": {
-                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/93c69d41e65c46cf919ebe851da95d0b/info/thumbnail/thumbnail1760447176269.png"
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/93c69d41e65c46cf919ebe851da95d0b/info/thumbnail/ago_downloaded.png"
                 }
               }
             },
