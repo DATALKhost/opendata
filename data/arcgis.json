@@ -455,7 +455,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=0eea4ad6c9b5426394a4f05c4dca9217&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/0eea4ad6c9b5426394a4f05c4dca9217_0",
       "title": "Adresář obcí Libereckého kraje",
-      "description": "Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů.",
+      "description": "null",
       "keyword": [
         "obce",
         "kód",
@@ -465,7 +465,7 @@
         "Liberecký kraj"
       ],
       "issued": "2023-10-31T16:01:12.000Z",
-      "modified": "2025-06-19T07:03:33.655Z",
+      "modified": "2025-11-27T14:17:25.760Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -482,65 +482,36 @@
       ],
       "metadata": {
         "metadata": {
-          "mdLang": {
-            "languageCode": {
-              "@_value": "cze"
-            }
-          },
-          "mdContact": {
-            "rpOrgName": "Liberecký kraj",
-            "role": {
-              "RoleCd": {
-                "@_value": "007"
-              }
-            }
-          },
-          "mdFileID": "0eea4ad6c9b5426394a4f05c4dca9217",
-          "mdMaint": {
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "008"
-              }
-            }
-          },
+          "mdFileID": "425c5c5633c44ee1bd2fcd9ce393633d",
           "distInfo": {
-            "distTranOps": {
-              "onLineSrc": {
-                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Adresář_obcí_Libereckého_kraje/FeatureServer"
-              }
+            "distFormat": {
+              "formatName": "Microsoft Excel"
             }
           },
-          "mdDateSt": "2023-10-31",
           "Esri": {
-            "locales": {
-              "locale": {
-                "@_language": "cze",
-                "@_country": "CZ"
+            "ArcGISFormat": 1,
+            "CreaTime": 16011000,
+            "ArcGISProfile": "DCPLUS",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Microsoft Excel",
+                  "resourceURL": "https://www.arcgis.com/sharing/rest/content/items/425c5c5633c44ee1bd2fcd9ce393633d/data",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=425c5c5633c44ee1bd2fcd9ce393633d",
+                  "itemIdentifier": "425c5c5633c44ee1bd2fcd9ce393633d",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/0eea4ad6c9b5426394a4f05c4dca9217/info/thumbnail/ago_downloaded.png"
+                }
               }
             },
-            "ArcGISFormat": 1,
-            "CreaTime": "17:16:07.41",
-            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
-            "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-05-10",
-            "CreaDate": "2023-10-31",
-            "ModTime": "11:50:30.43",
-            "MapLyrSync": false,
-            "PublishStatus": "editor:esri.dijit.metadata.editor"
+            "ModDate": 20240131,
+            "CreaDate": 20231031,
+            "ModTime": 16011000
           },
-          "mdTimeSt": "17:16:07.41",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů.",
-            "idCredit": "Krajský úřad Libereckého kraje",
+            "idAbs": "null",
             "idCitation": {
               "resTitle": "Adresář obcí Libereckého kraje"
-            },
-            "idPurp": "Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů.",
-            "dataChar": {
-              "CharSetCd": {
-                "@_value": "004"
-              }
             },
             "searchKeys": {
               "keyword": [
@@ -551,58 +522,6 @@
                 "opendata",
                 "Liberecký kraj"
               ]
-            },
-            "resConst": [
-              {
-                "Consts": {
-                  "useLimit": "CC0 1.0"
-                }
-              },
-              {
-                "LegConsts": {
-                  "othConsts": "Jiná omezení",
-                  "accessConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  }
-                }
-              },
-              {
-                "LegConsts": {
-                  "useConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  },
-                  "othConsts": "Jiná omezení"
-                }
-              },
-              {
-                "LegConsts": {
-                  "othConsts": "Jiná omezení",
-                  "accessConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  }
-                }
-              },
-              {
-                "LegConsts": {
-                  "useConsts": {
-                    "RestrictCd": {
-                      "@_value": "008"
-                    }
-                  },
-                  "othConsts": "Jiná omezení"
-                }
-              }
-            ]
-          },
-          "mdChar": {
-            "CharSetCd": {
-              "@_value": "004"
             }
           }
         },
@@ -654,41 +573,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/0eea4ad6c9b5426394a4f05c4dca9217/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/0eea4ad6c9b5426394a4f05c4dca9217/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/0eea4ad6c9b5426394a4f05c4dca9217/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/0eea4ad6c9b5426394a4f05c4dca9217/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/0eea4ad6c9b5426394a4f05c4dca9217/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/0eea4ad6c9b5426394a4f05c4dca9217/sqlite?layers=0"
         }
       ],
       "theme": [
