@@ -11890,6 +11890,209 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e6311678ea4e4760bb3664609cee8035&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/e6311678ea4e4760bb3664609cee8035_0",
+      "title": "Sociální podniky",
+      "description": "<p>Datová sada sociálních podniků v Libereckém kraji, které jsou registrované na https://www.socialnipodnikani.lk/<br />Sada zahrnuje i kategorie podnikání uvedených subjektů.</p>",
+      "keyword": [
+        "sociální podnik",
+        "otevřená data",
+        "opendata"
+      ],
+      "issued": "2025-12-01T14:43:25.000Z",
+      "modified": "2025-12-08T12:38:01.574Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.4534,50.6809,15.1558,51.0079",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Podnikání, výzkum, vývoj a inovace"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "mdFileID": "e6311678ea4e4760bb3664609cee8035",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Sociální_podniky/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14432500,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Sociální_podniky/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=e6311678ea4e4760bb3664609cee8035",
+                  "itemIdentifier": "e6311678ea4e4760bb3664609cee8035",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/e6311678ea4e4760bb3664609cee8035/info/thumbnail/thumbnail1765197506617.png"
+                }
+              }
+            },
+            "ModDate": 20251201,
+            "CreaDate": 20251201,
+            "ModTime": 14432500
+          },
+          "@_xml:lang": "cs",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Datová sada sociálních podniků v Libereckém kraji, které jsou registrované na https://www.socialnipodnikani.lk/<br />Sada zahrnuje i kategorie podnikání uvedených subjektů.</p>",
+            "idCredit": "ARR - Agentura regionálního rozvoje, spol. s r.o.",
+            "dataExt": {
+              "geoEle": [
+                {
+                  "GeoBndBox": {
+                    "eastBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 15.706329
+                    },
+                    "southBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 50.444388
+                    },
+                    "northBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 51.043984
+                    },
+                    "westBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 14.305572
+                    }
+                  }
+                },
+                {
+                  "GeoDesc": {
+                    "exTypeCode": {
+                      "@_Sync": "FALSE",
+                      "#value": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "idCitation": {
+              "resTitle": "Sociální podniky"
+            },
+            "dataLang": {
+              "languageCode": {
+                "@_Sync": "FALSE",
+                "@_value": "cze"
+              }
+            },
+            "idPurp": "Datová sada sociálních podniků v Libereckém kraji, které jsou registrované na https://www.socialnipodnikani.lk/",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "sociální podnik",
+                "otevřená data",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/e6311678ea4e4760bb3664609cee8035_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Soci%C3%A1ln%C3%AD_podniky/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e6311678ea4e4760bb3664609cee8035/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e6311678ea4e4760bb3664609cee8035/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e6311678ea4e4760bb3664609cee8035/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e6311678ea4e4760bb3664609cee8035/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=e7c67bee712f450783b490883fb6ff09&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/e7c67bee712f450783b490883fb6ff09_0",
       "title": "Válečné hroby v Libereckém kraji",
