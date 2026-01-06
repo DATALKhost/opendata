@@ -22,7 +22,7 @@ export const META_LKOD = {
 		'Kraj jako instituce': ['GOVE', 'ECON'],
 		'Dotace': ['GOVE', 'ECON'],
 		'Zaměstnanost a pracovní trh': ['ECON','SOCI'],
-		'Podníkání, výzkum, vývoj a inovace': ['TECH'],
+		'Podnikání, výzkum, vývoj a inovace': ['ECON','TECH'],
 		'Cestovní ruch': ['EDUC'],
 		'Sport': ['EDUC'],
 		'Kultura a kulturní dědictví':['EDUC'],
