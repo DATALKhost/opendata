@@ -626,7 +626,7 @@
         "opendata"
       ],
       "issued": "2024-10-17T12:39:36.000Z",
-      "modified": "2025-05-23T13:11:57.231Z",
+      "modified": "2026-01-15T13:48:20.192Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -923,7 +923,7 @@
                   "itemType": "Microsoft Excel",
                   "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=bc636e5930664fff9fe50f43b8a30d04",
                   "itemIdentifier": "bc636e5930664fff9fe50f43b8a30d04",
-                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/1b40d4b146e648cca7ca4dfe9712264b/info/thumbnail/thumbnail1764587271317.png"
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/1b40d4b146e648cca7ca4dfe9712264b/info/thumbnail/thumbnail1768484259018.png"
                 }
               }
             },
@@ -991,41 +991,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -3379,7 +3344,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-06-07T12:33:18.000Z",
-      "modified": "2025-03-03T15:35:17.904Z",
+      "modified": "2026-01-15T14:01:12.033Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -3435,6 +3400,13 @@
             "CreaTime": "14:39:19.51",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/5f6e9dc729f54ff9b45cda7a05730927/info/thumbnail/thumbnail1768486101310.png"
+                }
+              }
+            },
             "ModDate": "2024-07-19",
             "CreaDate": "2024-06-07",
             "ModTime": "14:59:57.77",
@@ -3565,41 +3537,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/5f6e9dc729f54ff9b45cda7a05730927/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -5889,7 +5826,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-10-04T08:08:43.000Z",
-      "modified": "2025-05-21T08:43:00.460Z",
+      "modified": "2026-01-15T15:21:54.833Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -6055,41 +5992,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -6108,7 +6010,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-03-22T10:48:00.000Z",
-      "modified": "2025-07-16T13:04:13.117Z",
+      "modified": "2026-01-15T13:10:19.659Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -8358,7 +8260,7 @@
         "opendata"
       ],
       "issued": "2024-10-08T12:52:41.000Z",
-      "modified": "2025-06-16T13:54:41.764Z",
+      "modified": "2026-01-15T14:25:07.332Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -8368,7 +8270,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.5666,50.5365,15.3770,50.8675",
+      "spatial": "14.5414,50.5365,15.5361,50.8675",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Cestovní ruch"
