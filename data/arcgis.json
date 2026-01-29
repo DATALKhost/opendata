@@ -4288,6 +4288,179 @@
     },
     {
       "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=6bbef3f697064dfdb82d0ae69cc8fbd6&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/6bbef3f697064dfdb82d0ae69cc8fbd6_0",
+      "title": "Hrady v Libereckém kraji",
+      "description": "<p>Datová sada obsahující hrady a zříceniny v Libereckém kraji. Součástí této sady jsou email, web, souřadnice, obec a krátky popis.</p>",
+      "keyword": [
+        "hrady",
+        "Liberecký kraj",
+        "zříceniny",
+        "opendata"
+      ],
+      "issued": "2026-01-28T14:30:14.000Z",
+      "modified": "2026-01-28T14:30:27.587Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.3944,50.4893,15.5394,50.9153",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Kultura a kulturní dědictví",
+        "Cestovní ruch"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "mdFileID": "6bbef3f697064dfdb82d0ae69cc8fbd6",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Hrady_v_Libereckém_kraji/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 14301400,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Hrady_v_Libereckém_kraji/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=6bbef3f697064dfdb82d0ae69cc8fbd6",
+                  "itemIdentifier": "6bbef3f697064dfdb82d0ae69cc8fbd6",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/6bbef3f697064dfdb82d0ae69cc8fbd6/info/thumbnail/thumbnail1769613046351.png"
+                }
+              }
+            },
+            "ModDate": 20260128,
+            "CreaDate": 20260128,
+            "ModTime": 14301400
+          },
+          "@_xml:lang": "cs",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Datová sada obsahující hrady a zříceniny v Libereckém kraji. Součástí této sady jsou email, web, souřadnice, obec a krátky popis.</p>",
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "idCitation": {
+              "resTitle": "Hrady v Libereckém kraji"
+            },
+            "dataLang": {
+              "languageCode": {
+                "@_Sync": "FALSE",
+                "@_value": "cze"
+              }
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "hrady",
+                "Liberecký kraj",
+                "zříceniny",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/6bbef3f697064dfdb82d0ae69cc8fbd6_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Hrady_v_Libereck%C3%A9m_kraji/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/kml?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6da21aeaf4844012929017561edb59be&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/6da21aeaf4844012929017561edb59be_0",
       "title": "Výjezdové základny ZZS LK",
