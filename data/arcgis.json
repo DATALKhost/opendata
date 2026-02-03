@@ -4290,7 +4290,7 @@
       "@type": "dcat:Dataset",
       "identifier": "https://www.arcgis.com/home/item.html?id=6bbef3f697064dfdb82d0ae69cc8fbd6&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/6bbef3f697064dfdb82d0ae69cc8fbd6_0",
-      "title": "Hrady v Libereckém kraji",
+      "title": "Hrady a zříceniny v Libereckém kraji",
       "description": "<p>Datová sada obsahující hrady a zříceniny v Libereckém kraji. Součástí této sady jsou email, web, souřadnice, obec a krátky popis.</p>",
       "keyword": [
         "hrady",
