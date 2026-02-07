@@ -11729,7 +11729,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "{{extent:computeSpatialProperty}}",
+      "spatial": "",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Doprava"
@@ -11814,9 +11814,7 @@
           "accessURL": "https://www.datalk.cz/api/download/v1/items/cdf44a45086548b1a450c96fcdef04c1/sqlite?layers=0"
         }
       ],
-      "theme": [
-        "geospatial"
-      ]
+      "theme": ""
     },
     {
       "@type": "dcat:Dataset",
