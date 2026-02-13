@@ -4690,7 +4690,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=75d7790c580b4cbca00fb36af9c2e3bb&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/75d7790c580b4cbca00fb36af9c2e3bb_0",
       "title": "Pětisetletá voda Q500 - záplavové území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
       "keyword": [
         "pětisetletá voda",
         "záplavové území",
@@ -4698,7 +4698,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:57:52.000Z",
-      "modified": "2025-11-11T00:00:00.000Z",
+      "modified": "2026-02-09T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -4708,7 +4708,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.4059,50.4567,15.5378,50.9995",
+      "spatial": "14.4030,50.4567,15.5378,51.0127",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Příroda a krajina"
@@ -4775,7 +4775,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251114
+            "#value": 20260211
           },
           "Esri": {
             "scaleRange": {
@@ -4790,7 +4790,7 @@
               }
             },
             "CreaTime": 9375000,
-            "SyncDate": 20251114,
+            "SyncDate": 20260211,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -4831,11 +4831,11 @@
                 }
               }
             },
-            "SyncTime": 7380500,
-            "ModDate": 20251114,
+            "SyncTime": 12474700,
+            "ModDate": 20260211,
             "CreaDate": 20231031,
             "SyncOnce": "FALSE",
-            "ModTime": 8464500
+            "ModTime": 12474700
           },
           "dqInfo": {
             "dataLineage": {
@@ -4887,7 +4887,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
             "idCredit": "Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -4929,8 +4929,8 @@
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-11-11T00:00:00",
-                "pubDate": "2025-11-11T00:00:00",
+                "reviseDate": "2026-02-09T00:00:00",
+                "pubDate": "2025-06-02T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -5006,6 +5006,30 @@
                     }
                   },
                   "displayName": "Ing. Hana Stárková"
+                },
+                {
+                  "rpCntInfo": {
+                    "cntPhone": {
+                      "voiceNum": {
+                        "#value": "+420 485 226 562",
+                        "@_tddtty": ""
+                      }
+                    },
+                    "cntAddress": {
+                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
+                      "delPoint": "U Jezu 642/2a",
+                      "city": "Liberec",
+                      "@_addressType": "",
+                      "postCode": "461 80"
+                    }
+                  },
+                  "rpIndName": "Mgr. Dominika Valečková",
+                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
+                  "role": {
+                    "RoleCd": {
+                      "@_value": "002"
+                    }
+                  }
                 }
               ],
               "presForm": {
@@ -5271,6 +5295,32 @@
                   "attalias": {
                     "@_Sync": "TRUE",
                     "#value": "POVODI"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "String"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 25
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
                   },
                   "attrtype": {
                     "@_Sync": "TRUE",
@@ -5686,41 +5736,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/75d7790c580b4cbca00fb36af9c2e3bb/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/75d7790c580b4cbca00fb36af9c2e3bb/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/75d7790c580b4cbca00fb36af9c2e3bb/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/75d7790c580b4cbca00fb36af9c2e3bb/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/75d7790c580b4cbca00fb36af9c2e3bb/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/75d7790c580b4cbca00fb36af9c2e3bb/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -6624,7 +6639,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=89a9fb35d2fe4a2abc7ee77a56386bd4&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/89a9fb35d2fe4a2abc7ee77a56386bd4_0",
       "title": "Dvacetiletá voda Q20 - záplavové území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
       "keyword": [
         "dvacetiletá voda",
         "záplavové území",
@@ -6633,7 +6648,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:40:28.000Z",
-      "modified": "2025-11-11T00:00:00.000Z",
+      "modified": "2026-02-09T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -6710,7 +6725,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251114
+            "#value": 20260211
           },
           "Esri": {
             "scaleRange": {
@@ -6725,7 +6740,7 @@
               }
             },
             "CreaTime": 10360800,
-            "SyncDate": 20251111,
+            "SyncDate": 20260211,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -6754,7 +6769,7 @@
                 },
                 "peXml": {
                   "@_Sync": "TRUE",
-                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.4.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
+                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.5.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
                 },
                 "type": {
                   "@_Sync": "TRUE",
@@ -6766,11 +6781,11 @@
                 }
               }
             },
-            "SyncTime": 13594600,
-            "ModDate": 20251114,
+            "SyncTime": 12492700,
+            "ModDate": 20260211,
             "CreaDate": 20250526,
             "SyncOnce": "FALSE",
-            "ModTime": 8484000
+            "ModTime": 12492700
           },
           "dqInfo": {
             "dataLineage": {
@@ -6822,7 +6837,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p></div></div></div>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
             "idCredit": "Data (Q20) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -6860,12 +6875,12 @@
             },
             "envirDesc": {
               "@_Sync": "FALSE",
-              "#value": "Esri ArcGIS 13.4.0.55405"
+              "#value": "Esri ArcGIS 13.5.3.57366"
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-11-11T00:00:00",
-                "pubDate": "2025-11-11T00:00:00",
+                "reviseDate": "2026-02-09T00:00:00",
+                "pubDate": "2025-06-02T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -6941,6 +6956,30 @@
                     }
                   },
                   "displayName": "Ing. Hana Stárková"
+                },
+                {
+                  "rpCntInfo": {
+                    "cntPhone": {
+                      "voiceNum": {
+                        "#value": "+420 485 226 562",
+                        "@_tddtty": ""
+                      }
+                    },
+                    "cntAddress": {
+                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
+                      "delPoint": "U Jezu 642/2a",
+                      "city": "Liberec",
+                      "@_addressType": "",
+                      "postCode": "461 80"
+                    }
+                  },
+                  "rpIndName": "Mgr. Dominika Valečková",
+                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
+                  "role": {
+                    "RoleCd": {
+                      "@_value": "002"
+                    }
+                  }
                 }
               ],
               "presForm": {
@@ -7160,6 +7199,32 @@
                   "attalias": {
                     "@_Sync": "TRUE",
                     "#value": "NAZEV_TOKU"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "String"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 25
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
                   },
                   "attrtype": {
                     "@_Sync": "TRUE",
@@ -7622,41 +7687,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -8638,7 +8668,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:33:01.000Z",
-      "modified": "2025-11-11T00:00:00.000Z",
+      "modified": "2026-02-09T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -8715,7 +8745,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251114
+            "#value": 20260211
           },
           "Esri": {
             "scaleRange": {
@@ -8730,7 +8760,7 @@
               }
             },
             "CreaTime": 10352500,
-            "SyncDate": 20251111,
+            "SyncDate": 20260211,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -8758,7 +8788,7 @@
                 },
                 "peXml": {
                   "@_Sync": "TRUE",
-                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.4.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
+                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.5.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
                 },
                 "type": {
                   "@_Sync": "TRUE",
@@ -8770,11 +8800,11 @@
                 }
               }
             },
-            "SyncTime": 13592200,
-            "ModDate": 20251114,
+            "SyncTime": 12504300,
+            "ModDate": 20260211,
             "CreaDate": 20250526,
             "SyncOnce": "FALSE",
-            "ModTime": 8490700
+            "ModTime": 12504300
           },
           "dqInfo": {
             "dataLineage": {
@@ -8864,12 +8894,12 @@
             },
             "envirDesc": {
               "@_Sync": "FALSE",
-              "#value": "Esri ArcGIS 13.4.0.55405"
+              "#value": "Esri ArcGIS 13.5.3.57366"
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-11-11T00:00:00",
-                "pubDate": "2025-11-11T00:00:00",
+                "reviseDate": "2026-02-09T00:00:00",
+                "pubDate": "2025-06-02T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -8930,7 +8960,7 @@
                       }
                     },
                     "cntAddress": {
-                      "eMailAdd": "hana.starkova@kraj-lbc.cz",
+                      "eMailAdd": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                       "delPoint": "U Jezu 642/2a",
                       "city": "Liberec",
                       "@_addressType": "",
@@ -8945,6 +8975,30 @@
                     }
                   },
                   "displayName": "Ing. Hana Stárková"
+                },
+                {
+                  "rpCntInfo": {
+                    "cntPhone": {
+                      "voiceNum": {
+                        "#value": "+420 485 226 562",
+                        "@_tddtty": ""
+                      }
+                    },
+                    "cntAddress": {
+                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
+                      "delPoint": "U Jezu 642/2a",
+                      "city": "Liberec",
+                      "@_addressType": "",
+                      "postCode": "461 80"
+                    }
+                  },
+                  "rpIndName": "Mgr. Dominika Valečková",
+                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
+                  "role": {
+                    "RoleCd": {
+                      "@_value": "002"
+                    }
+                  }
                 }
               ],
               "presForm": {
@@ -9164,6 +9218,32 @@
                   "attalias": {
                     "@_Sync": "TRUE",
                     "#value": "NAZEV_TOKU"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "String"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 25
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
                   },
                   "attrtype": {
                     "@_Sync": "TRUE",
@@ -9626,41 +9706,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -10157,7 +10202,7 @@
         "opendata"
       ],
       "issued": "2025-07-21T14:48:25.000Z",
-      "modified": "2025-06-02T00:00:00.000Z",
+      "modified": "2026-02-09T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -10167,7 +10212,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.1669,50.3140,15.5610,51.0595",
+      "spatial": "14.1670,50.3141,15.5611,51.0595",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Příroda a krajina"
@@ -10235,7 +10280,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251111
+            "#value": 20260211
           },
           "Esri": {
             "scaleRange": {
@@ -10250,7 +10295,7 @@
               }
             },
             "CreaTime": 10094700,
-            "SyncDate": 20251111,
+            "SyncDate": 20260211,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -10279,7 +10324,7 @@
                 },
                 "peXml": {
                   "@_Sync": "TRUE",
-                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.4.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
+                  "#value": "<ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.5.0'><WKT>PROJCS[&quot;S-JTSK_Krovak_East_North&quot;,GEOGCS[&quot;GCS_S_JTSK&quot;,DATUM[&quot;D_S_JTSK&quot;,SPHEROID[&quot;Bessel_1841&quot;,6377397.155,299.1528128]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Krovak&quot;],PARAMETER[&quot;False_Easting&quot;,0.0],PARAMETER[&quot;False_Northing&quot;,0.0],PARAMETER[&quot;Pseudo_Standard_Parallel_1&quot;,78.5],PARAMETER[&quot;Scale_Factor&quot;,0.9999],PARAMETER[&quot;Azimuth&quot;,30.28813975277778],PARAMETER[&quot;Longitude_Of_Center&quot;,24.83333333333333],PARAMETER[&quot;Latitude_Of_Center&quot;,49.5],PARAMETER[&quot;X_Scale&quot;,-1.0],PARAMETER[&quot;Y_Scale&quot;,1.0],PARAMETER[&quot;XY_Plane_Rotation&quot;,90.0],UNIT[&quot;Meter&quot;,1.0],AUTHORITY[&quot;EPSG&quot;,5514]]</WKT><XOrigin>-33699800</XOrigin><YOrigin>-33699800</YOrigin><XYScale>133638764.24698351</XYScale><ZOrigin>-100000</ZOrigin><ZScale>10000</ZScale><MOrigin>-100000</MOrigin><MScale>10000</MScale><XYTolerance>0.001</XYTolerance><ZTolerance>0.001</ZTolerance><MTolerance>0.001</MTolerance><HighPrecision>true</HighPrecision><WKID>102067</WKID><LatestWKID>5514</LatestWKID></ProjectedCoordinateSystem>"
                 },
                 "type": {
                   "@_Sync": "TRUE",
@@ -10291,11 +10336,11 @@
                 }
               }
             },
-            "SyncTime": 13585800,
-            "ModDate": 20251111,
+            "SyncTime": 12533600,
+            "ModDate": 20260211,
             "CreaDate": 20250526,
             "SyncOnce": "FALSE",
-            "ModTime": 13585800
+            "ModTime": 12533600
           },
           "dqInfo": {
             "dataLineage": {
@@ -10351,7 +10396,7 @@
           },
           "dataIdInfo": {
             "idAbs": "<div style='text-align:Left;'><div><div><p><span>Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
-            "idCredit": "Data byla převzata z hydrotechnických studií, které byly zpracovány specializovanými firmami obvykle na objednávku státních podniků Povodí Labe s.p. a Povodí Ohře s.p. Tyto podniky následně předkládají výsledky studií příslušným vodoprávním úřadům jako podklad pro stanovení záplavových území.",
+            "idCredit": "Data byla převzata z hydrotechnických studií, které byly zpracovány specializovanými firmami obvykle na objednávku státních podniků Povodí Labe s.p. a Povodí Ohře s.p. Tyto podniky následně předkládají výsledky studií příslušným vodoprávním úřadům jako podklad pro stanovení záplavových území. \nZáplavové území (Q100) a aktivní zóna se pak stávají údaji o území a poskytovatelem údaje o území příslušný úřad.",
             "dataLang": {
               "countryCode": {
                 "@_Sync": "TRUE",
@@ -10388,12 +10433,12 @@
             },
             "envirDesc": {
               "@_Sync": "FALSE",
-              "#value": "Esri ArcGIS 13.4.0.55405"
+              "#value": "Esri ArcGIS 13.5.3.57366"
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-06-02T00:00:00",
-                "pubDate": "2025-06-03T00:00:00",
+                "reviseDate": "2026-02-09T00:00:00",
+                "pubDate": "2025-06-02T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -10402,28 +10447,22 @@
               },
               "citRespParty": [
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Labe s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Labe s.p.",
-                  "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                  "displayName": "Povodí Labe s.p."
                 },
                 {
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Povodí Ohře s.p.",
                   "role": {
                     "RoleCd": {
                       "@_value": "011"
                     }
                   },
-                  "displayName": "Povodí Ohře s.p.",
-                  "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                  "displayName": "Povodí Ohře s.p."
                 },
                 {
                   "rpCntInfo": {
@@ -10442,8 +10481,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Zdeněk Madej",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -10451,8 +10488,7 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Zdeněk Madej",
-                  "editorDigest": "223d5892f890c35119204b93ec490ee4eed58701"
+                  "displayName": "Ing. Zdeněk Madej"
                 },
                 {
                   "rpCntInfo": {
@@ -10470,8 +10506,6 @@
                       "postCode": "461 80"
                     }
                   },
-                  "editorSave": "True",
-                  "editorSource": "external",
                   "rpIndName": "Ing. Hana Stárková",
                   "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
                   "role": {
@@ -10479,8 +10513,31 @@
                       "@_value": "002"
                     }
                   },
-                  "displayName": "Ing. Hana Stárková",
-                  "editorDigest": "3f2beac448749b74acc699070c81d91f2f266502"
+                  "displayName": "Ing. Hana Stárková"
+                },
+                {
+                  "rpCntInfo": {
+                    "cntPhone": {
+                      "voiceNum": {
+                        "#value": "+420 485 226 562",
+                        "@_tddtty": ""
+                      }
+                    },
+                    "cntAddress": {
+                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
+                      "delPoint": "U Jezu 642/2a",
+                      "city": "Liberec",
+                      "@_addressType": "",
+                      "postCode": "461 80"
+                    }
+                  },
+                  "rpIndName": "Mgr. Dominika Valečková",
+                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
+                  "role": {
+                    "RoleCd": {
+                      "@_value": "002"
+                    }
+                  }
                 }
               ],
               "presForm": {
@@ -10517,28 +10574,22 @@
             },
             "idPoC": [
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Labe s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Labe s.p.",
-                "editorDigest": "7833102bf2f79962d102bbe00272b9edffc69df3"
+                "displayName": "Povodí Labe s.p."
               },
               {
-                "editorSave": "True",
-                "editorSource": "external",
                 "rpIndName": "Povodí Ohře s.p.",
                 "role": {
                   "RoleCd": {
                     "@_value": "011"
                   }
                 },
-                "displayName": "Povodí Ohře s.p.",
-                "editorDigest": "91c069a41e367c052f3e449ea515b3457f4f9db0"
+                "displayName": "Povodí Ohře s.p."
               }
             ]
           },
@@ -11041,32 +11092,6 @@
                 {
                   "attrlabl": {
                     "@_Sync": "TRUE",
-                    "#value": "Shape_Leng"
-                  },
-                  "attwidth": {
-                    "@_Sync": "TRUE",
-                    "#value": 19
-                  },
-                  "attscale": {
-                    "@_Sync": "TRUE",
-                    "#value": 0
-                  },
-                  "atprecis": {
-                    "@_Sync": "TRUE",
-                    "#value": 0
-                  },
-                  "attalias": {
-                    "@_Sync": "TRUE",
-                    "#value": "Shape_Leng"
-                  },
-                  "attrtype": {
-                    "@_Sync": "TRUE",
-                    "#value": "Double"
-                  }
-                },
-                {
-                  "attrlabl": {
-                    "@_Sync": "TRUE",
                     "#value": "Shape_Area"
                   },
                   "attwidth": {
@@ -11102,6 +11127,54 @@
                   "attrtype": {
                     "@_Sync": "TRUE",
                     "#value": "Double"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Leng"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 19
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Leng"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "Double"
+                  }
+                },
+                {
+                  "attrlabl": "CISL_JEDN",
+                  "attwidth": 20,
+                  "attrdef": "Číslo jednací dokumentu, kterým bylo záplavové území (aktivní zóna) stanoveno",
+                  "attrdefs": "listiny příslušných vodoprávních úřadů",
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": "Číslo jednací listiny, kterou bylo záplavové území vyhlášeno (včetně říčních kilometrů)."
+                  },
+                  "attrtype": "String",
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
                   }
                 }
               ],
@@ -11207,41 +11280,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12259,7 +12297,7 @@
         "opendata"
       ],
       "issued": "2025-08-04T13:50:23.000Z",
-      "modified": "2025-11-11T00:00:00.000Z",
+      "modified": "2026-02-09T00:00:00.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -12336,7 +12374,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20251114
+            "#value": 20260211
           },
           "Esri": {
             "scaleRange": {
@@ -12351,7 +12389,7 @@
               }
             },
             "CreaTime": 11295300,
-            "SyncDate": 20251114,
+            "SyncDate": 20260211,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
@@ -12392,11 +12430,11 @@
                 }
               }
             },
-            "SyncTime": 7432700,
-            "ModDate": 20251114,
+            "SyncTime": 12454300,
+            "ModDate": 20260211,
             "CreaDate": 20250523,
             "SyncOnce": "FALSE",
-            "ModTime": 8442300
+            "ModTime": 12454300
           },
           "dqInfo": {
             "dataLineage": {
@@ -12449,7 +12487,7 @@
           },
           "dataIdInfo": {
             "idAbs": "<div style='text-align:Left;'><div><div><p><span>Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
-            "idCredit": "Data byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území.",
+            "idCredit": "Data byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
                 "@_Sync": "TRUE",
@@ -12490,8 +12528,8 @@
             },
             "idCitation": {
               "date": {
-                "reviseDate": "2025-11-11T00:00:00",
-                "pubDate": "2025-11-11T00:00:00",
+                "reviseDate": "2026-02-09T00:00:00",
+                "pubDate": "2025-06-02T00:00:00",
                 "createDate": "2025-06-02T00:00:00"
               },
               "resTitle": {
@@ -12572,6 +12610,30 @@
                     "Ing. Hana Stárková",
                     "Ing. Hana Stárková"
                   ]
+                },
+                {
+                  "rpCntInfo": {
+                    "cntPhone": {
+                      "voiceNum": {
+                        "#value": "+420 485 226 562",
+                        "@_tddtty": ""
+                      }
+                    },
+                    "cntAddress": {
+                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
+                      "delPoint": "U Jezu 642/2a",
+                      "city": "Liberec",
+                      "@_addressType": "",
+                      "postCode": "461 80"
+                    }
+                  },
+                  "rpIndName": "Mgr. Dominika Valečková",
+                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
+                  "role": {
+                    "RoleCd": {
+                      "@_value": "002"
+                    }
+                  }
                 }
               ],
               "presForm": {
@@ -13031,58 +13093,6 @@
                 {
                   "attrlabl": {
                     "@_Sync": "TRUE",
-                    "#value": "Shape_Leng"
-                  },
-                  "attwidth": {
-                    "@_Sync": "TRUE",
-                    "#value": 19
-                  },
-                  "attscale": {
-                    "@_Sync": "TRUE",
-                    "#value": 0
-                  },
-                  "atprecis": {
-                    "@_Sync": "TRUE",
-                    "#value": 0
-                  },
-                  "attalias": {
-                    "@_Sync": "TRUE",
-                    "#value": "Shape_Leng"
-                  },
-                  "attrtype": {
-                    "@_Sync": "TRUE",
-                    "#value": "Double"
-                  }
-                },
-                {
-                  "attrlabl": {
-                    "@_Sync": "TRUE",
-                    "#value": "Shape_Le_1"
-                  },
-                  "attwidth": {
-                    "@_Sync": "TRUE",
-                    "#value": 19
-                  },
-                  "attscale": {
-                    "@_Sync": "TRUE",
-                    "#value": 0
-                  },
-                  "atprecis": {
-                    "@_Sync": "TRUE",
-                    "#value": 0
-                  },
-                  "attalias": {
-                    "@_Sync": "TRUE",
-                    "#value": "Shape_Le_1"
-                  },
-                  "attrtype": {
-                    "@_Sync": "TRUE",
-                    "#value": "Double"
-                  }
-                },
-                {
-                  "attrlabl": {
-                    "@_Sync": "TRUE",
                     "#value": "Shape_Area"
                   },
                   "attwidth": {
@@ -13118,6 +13128,80 @@
                   "attrtype": {
                     "@_Sync": "TRUE",
                     "#value": "Double"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Leng"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 19
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Leng"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "Double"
+                  }
+                },
+                {
+                  "attrlabl": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Le_1"
+                  },
+                  "attwidth": {
+                    "@_Sync": "TRUE",
+                    "#value": 19
+                  },
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "Shape_Le_1"
+                  },
+                  "attrtype": {
+                    "@_Sync": "TRUE",
+                    "#value": "Double"
+                  }
+                },
+                {
+                  "attrlabl": "CISL_JEDN",
+                  "attwidth": 20,
+                  "attrdef": "Číslo jednací dokumentu, kterým bylo záplavové území (aktivní zóna) stanoveno",
+                  "attrdefs": "listiny příslušných vodoprávních úřadů",
+                  "attscale": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "atprecis": {
+                    "@_Sync": "TRUE",
+                    "#value": 0
+                  },
+                  "attrdomv": {
+                    "udom": "Číslo jednací listiny, kterou bylo záplavové území vyhlášeno (včetně říčních kilometrů)."
+                  },
+                  "attrtype": "String",
+                  "attalias": {
+                    "@_Sync": "TRUE",
+                    "#value": "CISL_JEDN"
                   }
                 }
               ],
@@ -13219,41 +13303,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/sqlite?layers=0"
         }
       ],
       "theme": [
