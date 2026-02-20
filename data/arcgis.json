@@ -4690,7 +4690,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=75d7790c580b4cbca00fb36af9c2e3bb&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/75d7790c580b4cbca00fb36af9c2e3bb_0",
       "title": "Pětisetletá voda Q500 - záplavové území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
       "keyword": [
         "pětisetletá voda",
         "záplavové území",
@@ -4887,7 +4887,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
             "idCredit": "Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -7687,6 +7687,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/89a9fb35d2fe4a2abc7ee77a56386bd4/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -9706,6 +9741,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/a2484ab72c504444973a8f05324b5153/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -11280,6 +11350,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/c248a121ee8945899f78c29189b55c70/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -13303,6 +13408,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/f7eec6857ba24208b54ec04e2fc0a97b/sqlite?layers=0"
         }
       ],
       "theme": [
