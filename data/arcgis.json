@@ -4299,7 +4299,7 @@
         "opendata"
       ],
       "issued": "2026-01-28T14:30:14.000Z",
-      "modified": "2026-01-28T14:30:27.587Z",
+      "modified": "2026-03-03T12:24:51.655Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -4453,6 +4453,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/6bbef3f697064dfdb82d0ae69cc8fbd6/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -5789,7 +5824,7 @@
         "opendata"
       ],
       "issued": "2024-11-05T13:12:40.000Z",
-      "modified": "2026-01-20T14:42:58.268Z",
+      "modified": "2026-03-03T12:26:06.468Z",
       "publisher": {
         "name": "{{source}}"
       },
