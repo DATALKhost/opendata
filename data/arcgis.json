@@ -488,10 +488,17 @@
               "formatName": "Microsoft Excel"
             }
           },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
           "Esri": {
             "ArcGISFormat": 1,
             "CreaTime": 16011000,
-            "ArcGISProfile": "DCPLUS",
+            "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
                 "portalDetails": {
@@ -508,10 +515,21 @@
             "ModTime": 16011000
           },
           "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
           "dataIdInfo": {
             "idAbs": "<p>Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů.</p>",
             "idCitation": {
               "resTitle": "Adresář obcí Libereckého kraje"
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
             },
             "searchKeys": {
               "keyword": [
@@ -522,6 +540,12 @@
                 "opendata",
                 "Liberecký kraj"
               ]
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
             }
           }
         },
@@ -878,10 +902,17 @@
               "formatName": "Microsoft Excel"
             }
           },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
           "Esri": {
             "ArcGISFormat": 1,
             "CreaTime": 16214600,
-            "ArcGISProfile": "DCPLUS",
+            "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
                 "portalDetails": {
@@ -897,6 +928,11 @@
             "ModTime": 16214600
           },
           "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
           "dataIdInfo": {
             "idCitation": {
               "date": {
@@ -905,7 +941,18 @@
               },
               "resTitle": "Domy dětí a mládeže v Libereckém kraji"
             },
-            "searchKeys": ""
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
           }
         },
         "?xml": {
@@ -2655,7 +2702,45 @@
       "category": [
         "Kraj jako instituce"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "Esri": {
+            "ArcGISFormat": 1,
+            "ArcGISProfile": "ISO19139"
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "resMaint": {
+              "maintFreq": {
+                "MaintFreqCd": {
+                  "@_value": "008"
+                }
+              }
+            },
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -2767,7 +2852,45 @@
         "Kultura a kulturní dědictví",
         "Cestovní ruch"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "ArcGISProfile": "ISO19139"
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -8291,12 +8414,19 @@
               }
             }
           },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "009"
+              }
+            }
+          },
           "mdDateSt": "2024-03-06",
           "Esri": {
             "ArcGISFormat": 1,
             "CreaTime": 15291758,
-            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "DataProperties": {
               "itemProps": {
                 "portalDetails": {
@@ -8304,14 +8434,19 @@
                 }
               }
             },
-            "ModDate": "2024-10-30",
-            "CreaDate": "2024-03-06",
-            "ModTime": "13:04:00.41",
+            "ModDate": 20241030,
+            "CreaDate": 20240306,
+            "ModTime": 13040041,
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
           "mdTimeSt": "15:29:17.58",
           "@_xml:lang": "cs",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
           "dataIdInfo": {
             "idAbs": "<p>Seznam obcí a jejich dobrovolných svazků, které jsou zapsány na Krajském úřadu Libereckého kraje.</p>",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
@@ -11757,28 +11892,60 @@
               }
             }
           },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
           "mdDateSt": "2024-10-15",
           "Esri": {
+            "ArcGISFormat": 1,
             "locales": {
               "locale": {
                 "@_language": "cze"
               }
             },
-            "ArcGISFormat": 1,
-            "CreaTime": "14:19:19.63",
-            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "CreaTime": 14191963,
             "ArcGISProfile": "ISO19139",
-            "ModDate": "2024-10-15",
-            "CreaDate": "2024-10-15",
-            "ModTime": "14:28:21.22",
+            "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
+            "ModDate": 20241015,
+            "CreaDate": 20241015,
+            "ModTime": 14282122,
             "MapLyrSync": false,
             "PublishStatus": "editor:esri.dijit.metadata.editor"
           },
           "mdTimeSt": "14:19:19.63",
           "@_xml:lang": "en",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
           "dataIdInfo": {
             "idAbs": "Sada otevřených dat dalších historických památek v Libereckém kraji.  Za další historické památky je například bráno historické budovy, kašny, radnice či významná sousoší..Sada obsahuje jejich název, adresy, zatřídění, popis, souřadnice, webové stránky, turistickou oblast atd.",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": [
+                {
+                  "GeoBndBox": {
+                    "eastBL": 0,
+                    "southBL": 0,
+                    "northBL": 0,
+                    "westBL": 0
+                  }
+                },
+                {
+                  "GeoDesc": {
+                    "exTypeCode": {
+                      "@_Sync": "FALSE",
+                      "#value": 1
+                    }
+                  }
+                }
+              ]
+            },
             "idCitation": {
               "resTitle": "Ostatní historické památky"
             },
@@ -11947,7 +12114,46 @@
       "category": [
         "Doprava"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "mdMaint": {
+            "dateNext": "2026-03-26T10:57:12",
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "ArcGISProfile": "ISO19139"
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
@@ -12055,7 +12261,45 @@
       "category": [
         "Životní prostředí"
       ],
-      "metadata": "{{metadata}}",
+      "metadata": {
+        "metadata": {
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "ArcGISProfile": "ISO19139"
+          },
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
       "distribution": [
         {
           "@type": "dcat:Distribution",
