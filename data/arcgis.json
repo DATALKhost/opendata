@@ -465,7 +465,7 @@
         "Liberecký kraj"
       ],
       "issued": "2023-10-31T16:01:12.000Z",
-      "modified": "2026-02-11T16:34:37.276Z",
+      "modified": "2026-03-30T15:23:49.303Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -488,17 +488,10 @@
               "formatName": "Microsoft Excel"
             }
           },
-          "mdMaint": {
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "008"
-              }
-            }
-          },
           "Esri": {
             "ArcGISFormat": 1,
             "CreaTime": 16011000,
-            "ArcGISProfile": "ISO19139",
+            "ArcGISProfile": "DCPLUS",
             "DataProperties": {
               "itemProps": {
                 "portalDetails": {
@@ -506,7 +499,7 @@
                   "resourceURL": "https://www.arcgis.com/sharing/rest/content/items/425c5c5633c44ee1bd2fcd9ce393633d/data",
                   "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=425c5c5633c44ee1bd2fcd9ce393633d",
                   "itemIdentifier": "425c5c5633c44ee1bd2fcd9ce393633d",
-                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/0eea4ad6c9b5426394a4f05c4dca9217/info/thumbnail/thumbnail1764585585642.png"
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/0eea4ad6c9b5426394a4f05c4dca9217/info/thumbnail/ago_downloaded.png"
                 }
               }
             },
@@ -515,21 +508,10 @@
             "ModTime": 16011000
           },
           "@_xml:lang": "en",
-          "mdHrLv": {
-            "ScopeCd": {
-              "@_value": "005"
-            }
-          },
           "dataIdInfo": {
             "idAbs": "<p>Datová sada obsahující základní informace obcí Libereckého kraje a jejich úřadů.</p>",
             "idCitation": {
               "resTitle": "Adresář obcí Libereckého kraje"
-            },
-            "dataChar": {
-              "CharSetCd": {
-                "@_Sync": "FALSE",
-                "@_value": "004"
-              }
             },
             "searchKeys": {
               "keyword": [
@@ -540,12 +522,6 @@
                 "opendata",
                 "Liberecký kraj"
               ]
-            }
-          },
-          "mdChar": {
-            "CharSetCd": {
-              "@_Sync": "FALSE",
-              "@_value": "004"
             }
           }
         },
