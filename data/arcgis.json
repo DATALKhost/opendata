@@ -499,7 +499,7 @@
                   "resourceURL": "https://www.arcgis.com/sharing/rest/content/items/425c5c5633c44ee1bd2fcd9ce393633d/data",
                   "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=425c5c5633c44ee1bd2fcd9ce393633d",
                   "itemIdentifier": "425c5c5633c44ee1bd2fcd9ce393633d",
-                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/0eea4ad6c9b5426394a4f05c4dca9217/info/thumbnail/ago_downloaded.png"
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/0eea4ad6c9b5426394a4f05c4dca9217/info/thumbnail/thumbnail1774948753312.png"
                 }
               }
             },
@@ -4176,7 +4176,7 @@
         "opendata"
       ],
       "issued": "2024-10-03T09:06:47.000Z",
-      "modified": "2026-03-23T10:05:53.610Z",
+      "modified": "2026-03-31T14:39:29.857Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -4344,41 +4344,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/6aa1b432015d4b6987830f92b4f65f69/sqlite?layers=0"
         }
       ],
       "theme": [
