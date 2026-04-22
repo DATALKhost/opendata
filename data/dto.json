@@ -4423,7 +4423,7 @@
         "cs": "Pětisetletá voda Q500 - záplavové území - Liberecký kraj"
       },
       "popis": {
-        "cs": "Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. "
+        "cs": "Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti."
       },
       "klíčové_slovo": {
         "cs": [
@@ -5471,7 +5471,7 @@
         "cs": "Dvacetiletá voda Q20 - záplavové území - Liberecký kraj"
       },
       "popis": {
-        "cs": "Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu."
+        "cs": "Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti."
       },
       "klíčové_slovo": {
         "cs": [
@@ -6613,7 +6613,7 @@
         "cs": "Pětiletá voda (Q5) - záplavové území - Liberecký kraj"
       },
       "popis": {
-        "cs": "Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu."
+        "cs": "Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti."
       },
       "klíčové_slovo": {
         "cs": [
@@ -7521,7 +7521,7 @@
         "cs": "Aktivní zóna záplavového území - Liberecký kraj"
       },
       "popis": {
-        "cs": "Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu."
+        "cs": "Záplavová území na území Libereckého kraje.Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti."
       },
       "klíčové_slovo": {
         "cs": [
@@ -9025,7 +9025,7 @@
         "cs": "Záplavové území Q100 - stoletá voda - Liberecký kraj"
       },
       "popis": {
-        "cs": "Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti."
+        "cs": "Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.&nbsp;"
       },
       "klíčové_slovo": {
         "cs": [

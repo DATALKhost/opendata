@@ -4789,7 +4789,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=75d7790c580b4cbca00fb36af9c2e3bb&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/75d7790c580b4cbca00fb36af9c2e3bb_0",
       "title": "Pětisetletá voda Q500 - záplavové území - Liberecký kraj",
-      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P><P STYLE=\"font-size:12ptmargin:0 0 1 0;\"><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
       "keyword": [
         "pětisetletá voda",
         "záplavové území",
@@ -4862,7 +4862,7 @@
                     "@_value": "002"
                   }
                 },
-                "@_Name": "ARR_Q500"
+                "@_Name": "Q500"
               },
               "topLvl": {
                 "TopoLevCd": {
@@ -4874,7 +4874,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20260211
+            "#value": 20260420
           },
           "Esri": {
             "scaleRange": {
@@ -4888,14 +4888,14 @@
                 "@_country": "CZ"
               }
             },
-            "CreaTime": 9375000,
-            "SyncDate": 20260211,
+            "CreaTime": 14124300,
+            "SyncDate": 20260210,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
                 "itemName": {
                   "@_Sync": "TRUE",
-                  "#value": "ARR_Q500"
+                  "#value": "Q500"
                 },
                 "imsContentType": {
                   "@_Sync": "TRUE",
@@ -4930,11 +4930,11 @@
                 }
               }
             },
-            "SyncTime": 12474700,
-            "ModDate": 20260211,
-            "CreaDate": 20231031,
+            "SyncTime": 11584400,
+            "ModDate": 20260420,
+            "CreaDate": 20260420,
             "SyncOnce": "FALSE",
-            "ModTime": 12474700
+            "ModTime": 14145400
           },
           "dqInfo": {
             "dataLineage": {
@@ -4975,7 +4975,7 @@
                   "@_Sync": "TRUE",
                   "#value": "Simple"
                 },
-                "@_Name": "ARR_Q500"
+                "@_Name": "Q500"
               }
             }
           },
@@ -4986,7 +4986,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P></DIV></DIV></DIV>",
+            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q500) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P><P STYLE=\"font-size:12ptmargin:0 0 1 0;\"><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
             "idCredit": "Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -5105,30 +5105,6 @@
                     }
                   },
                   "displayName": "Ing. Hana Stárková"
-                },
-                {
-                  "rpCntInfo": {
-                    "cntPhone": {
-                      "voiceNum": {
-                        "#value": "+420 485 226 562",
-                        "@_tddtty": ""
-                      }
-                    },
-                    "cntAddress": {
-                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
-                      "delPoint": "U Jezu 642/2a",
-                      "city": "Liberec",
-                      "@_addressType": "",
-                      "postCode": "461 80"
-                    }
-                  },
-                  "rpIndName": "Mgr. Dominika Valečková",
-                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
-                  "role": {
-                    "RoleCd": {
-                      "@_value": "002"
-                    }
-                  }
                 }
               ],
               "presForm": {
@@ -5189,16 +5165,15 @@
             "RefSystem": {
               "refSysID": {
                 "identCode": {
-                  "@_Sync": "TRUE",
-                  "@_code": "5514"
+                  "@_Sync": "FALSE",
+                  "@_code": "3857"
                 },
                 "idCodeSpace": {
                   "@_Sync": "TRUE",
                   "#value": "EPSG"
                 },
                 "idVersion": {
-                  "@_Sync": "TRUE",
-                  "#value": "7.7(10.1.0)"
+                  "@_Sync": "TRUE"
                 }
               },
               "@_dimension": ""
@@ -5747,10 +5722,10 @@
                 "enttypds": "Vyhláška 79/2018 Sb. o způsobu a rozsahu zpracovávání návrhu a stanovování záplavových území a jejich dokumentace",
                 "enttypl": {
                   "@_Sync": "TRUE",
-                  "#value": "ARR_Q500"
+                  "#value": "Q500"
                 }
               },
-              "@_Name": "ARR_Q500"
+              "@_Name": "Q500"
             }
           },
           "mdChar": {
@@ -6773,7 +6748,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=89a9fb35d2fe4a2abc7ee77a56386bd4&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/89a9fb35d2fe4a2abc7ee77a56386bd4_0",
       "title": "Dvacetiletá voda Q20 - záplavové území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P><P STYLE=\"font-size:12ptmargin:0 0 1 0;\"><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
       "keyword": [
         "dvacetiletá voda",
         "záplavové území",
@@ -6847,7 +6822,7 @@
                     "@_value": "002"
                   }
                 },
-                "@_Name": "ARR_Q20"
+                "@_Name": "Q20"
               },
               "topLvl": {
                 "TopoLevCd": {
@@ -6859,7 +6834,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20260211
+            "#value": 20260420
           },
           "Esri": {
             "scaleRange": {
@@ -6873,14 +6848,14 @@
                 "@_country": "CZ"
               }
             },
-            "CreaTime": 10360800,
-            "SyncDate": 20260211,
+            "CreaTime": 14254700,
+            "SyncDate": 20260210,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
                 "itemName": {
                   "@_Sync": "TRUE",
-                  "#value": "ARR_Q20"
+                  "#value": "Q20"
                 },
                 "imsContentType": {
                   "@_Sync": "TRUE",
@@ -6915,11 +6890,11 @@
                 }
               }
             },
-            "SyncTime": 12492700,
-            "ModDate": 20260211,
-            "CreaDate": 20250526,
+            "SyncTime": 11552000,
+            "ModDate": 20260420,
+            "CreaDate": 20260420,
             "SyncOnce": "FALSE",
-            "ModTime": 12492700
+            "ModTime": 14270500
           },
           "dqInfo": {
             "dataLineage": {
@@ -6960,7 +6935,7 @@
                   "@_Sync": "TRUE",
                   "#value": "Simple"
                 },
-                "@_Name": "ARR_Q20"
+                "@_Name": "Q20"
               }
             }
           },
@@ -6971,7 +6946,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q20) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P><P STYLE=\"font-size:12ptmargin:0 0 1 0;\"><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
             "idCredit": "Data (Q20) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -7019,7 +6994,7 @@
               },
               "resTitle": {
                 "@_Sync": "TRUE",
-                "#value": "ARR_Q20"
+                "#value": "Q20"
               },
               "citRespParty": [
                 {
@@ -7090,30 +7065,6 @@
                     }
                   },
                   "displayName": "Ing. Hana Stárková"
-                },
-                {
-                  "rpCntInfo": {
-                    "cntPhone": {
-                      "voiceNum": {
-                        "#value": "+420 485 226 562",
-                        "@_tddtty": ""
-                      }
-                    },
-                    "cntAddress": {
-                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
-                      "delPoint": "U Jezu 642/2a",
-                      "city": "Liberec",
-                      "@_addressType": "",
-                      "postCode": "461 80"
-                    }
-                  },
-                  "rpIndName": "Mgr. Dominika Valečková",
-                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
-                  "role": {
-                    "RoleCd": {
-                      "@_value": "002"
-                    }
-                  }
                 }
               ],
               "presForm": {
@@ -7175,16 +7126,15 @@
             "RefSystem": {
               "refSysID": {
                 "identCode": {
-                  "@_Sync": "TRUE",
-                  "@_code": "5514"
+                  "@_Sync": "FALSE",
+                  "@_code": "3857"
                 },
                 "idCodeSpace": {
                   "@_Sync": "TRUE",
                   "#value": "EPSG"
                 },
                 "idVersion": {
-                  "@_Sync": "TRUE",
-                  "#value": "7.7(10.1.0)"
+                  "@_Sync": "TRUE"
                 }
               },
               "@_dimension": ""
@@ -7736,7 +7686,7 @@
                   "#value": "Dvacetiletá voda Q20"
                 }
               },
-              "@_Name": "ARR_Q20"
+              "@_Name": "Q20"
             }
           },
           "mdChar": {
@@ -8840,7 +8790,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=a2484ab72c504444973a8f05324b5153&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/a2484ab72c504444973a8f05324b5153_0",
       "title": "Pětiletá voda (Q5) - záplavové území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P><P STYLE=\"font-size:12ptmargin:0 0 1 0;\"><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
       "keyword": [
         "pětiletá voda",
         "záplavové území",
@@ -8914,7 +8864,7 @@
                     "@_value": "002"
                   }
                 },
-                "@_Name": "ARR_Q5"
+                "@_Name": "Q5"
               },
               "topLvl": {
                 "TopoLevCd": {
@@ -8926,7 +8876,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20260211
+            "#value": 20260420
           },
           "Esri": {
             "scaleRange": {
@@ -8940,14 +8890,14 @@
                 "@_country": "CZ"
               }
             },
-            "CreaTime": 10352500,
-            "SyncDate": 20260211,
+            "CreaTime": 14280700,
+            "SyncDate": 20260210,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
                 "itemName": {
                   "@_Sync": "TRUE",
-                  "#value": "ARR_Q5"
+                  "#value": "Q5"
                 },
                 "imsContentType": {
                   "@_Sync": "FALSE",
@@ -8981,11 +8931,11 @@
                 }
               }
             },
-            "SyncTime": 12504300,
-            "ModDate": 20260211,
-            "CreaDate": 20250526,
+            "SyncTime": 11594400,
+            "ModDate": 20260420,
+            "CreaDate": 20260420,
             "SyncOnce": "FALSE",
-            "ModTime": 12504300
+            "ModTime": 14284400
           },
           "dqInfo": {
             "dataLineage": {
@@ -9026,7 +8976,7 @@
                   "@_Sync": "TRUE",
                   "#value": "Simple"
                 },
-                "@_Name": "ARR_Q5"
+                "@_Name": "Q5"
               }
             }
           },
@@ -9037,7 +8987,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Tato data (Q5) byla zpracována jako součást odborných studií, které sloužily ke stanovení záplavového území (Q100). Nejedná se o úředně stanovená záplavová území podle § 66 zákona č. 254/2001 Sb., ale o informativní vrstvy založené na hydrotechnických výpočtech. </SPAN></P><P STYLE=\"font-size:12ptmargin:0 0 1 0;\"><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
             "idCredit": "Data (Q5) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
@@ -9141,7 +9091,7 @@
                       }
                     },
                     "cntAddress": {
-                      "eMailAdd": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
+                      "eMailAdd": "hana.starkova@kraj-lbc.cz",
                       "delPoint": "U Jezu 642/2a",
                       "city": "Liberec",
                       "@_addressType": "",
@@ -9156,30 +9106,6 @@
                     }
                   },
                   "displayName": "Ing. Hana Stárková"
-                },
-                {
-                  "rpCntInfo": {
-                    "cntPhone": {
-                      "voiceNum": {
-                        "#value": "+420 485 226 562",
-                        "@_tddtty": ""
-                      }
-                    },
-                    "cntAddress": {
-                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
-                      "delPoint": "U Jezu 642/2a",
-                      "city": "Liberec",
-                      "@_addressType": "",
-                      "postCode": "461 80"
-                    }
-                  },
-                  "rpIndName": "Mgr. Dominika Valečková",
-                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
-                  "role": {
-                    "RoleCd": {
-                      "@_value": "002"
-                    }
-                  }
                 }
               ],
               "presForm": {
@@ -9241,16 +9167,15 @@
             "RefSystem": {
               "refSysID": {
                 "identCode": {
-                  "@_Sync": "TRUE",
-                  "@_code": "5514"
+                  "@_Sync": "FALSE",
+                  "@_code": "3857"
                 },
                 "idCodeSpace": {
                   "@_Sync": "TRUE",
                   "#value": "EPSG"
                 },
                 "idVersion": {
-                  "@_Sync": "TRUE",
-                  "#value": "7.7(10.1.0)"
+                  "@_Sync": "TRUE"
                 }
               },
               "@_dimension": ""
@@ -9799,10 +9724,10 @@
                 "enttypds": "Vyhláška 79/2018 Sb. o způsobu a rozsahu zpracovávání návrhu a stanovování záplavových území a jejich dokumentace",
                 "enttypl": {
                   "@_Sync": "TRUE",
-                  "#value": "ARR_Q5"
+                  "#value": "Q5"
                 }
               },
-              "@_Name": "ARR_Q5"
+              "@_Name": "Q5"
             }
           },
           "mdChar": {
@@ -10411,7 +10336,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=c248a121ee8945899f78c29189b55c70&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/c248a121ee8945899f78c29189b55c70_0",
       "title": "Aktivní zóna záplavového území - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p><span>Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
+      "description": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Záplavová území na území Libereckého kraje.</SPAN></P><P><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
       "keyword": [
         "aktivní zóna",
         "záplavové území",
@@ -10484,7 +10409,7 @@
                     "@_value": "002"
                   }
                 },
-                "@_Name": "ARR_AZ"
+                "@_Name": "AZ"
               },
               "topLvl": {
                 "TopoLevCd": {
@@ -10496,7 +10421,7 @@
           },
           "mdDateSt": {
             "@_Sync": "TRUE",
-            "#value": 20260211
+            "#value": 20260420
           },
           "Esri": {
             "scaleRange": {
@@ -10510,14 +10435,14 @@
                 "@_country": "CZ"
               }
             },
-            "CreaTime": 10094700,
-            "SyncDate": 20260211,
+            "CreaTime": 12465100,
+            "SyncDate": 20260210,
             "ArcGISProfile": "ISO19139",
             "DataProperties": {
               "itemProps": {
                 "itemName": {
                   "@_Sync": "TRUE",
-                  "#value": "ARR_AZ"
+                  "#value": "AZ"
                 },
                 "imsContentType": {
                   "@_Sync": "TRUE",
@@ -10552,11 +10477,11 @@
                 }
               }
             },
-            "SyncTime": 12533600,
-            "ModDate": 20260211,
-            "CreaDate": 20250526,
+            "SyncTime": 12004500,
+            "ModDate": 20260420,
+            "CreaDate": 20260420,
             "SyncOnce": "FALSE",
-            "ModTime": 12533600
+            "ModTime": 13135500
           },
           "dqInfo": {
             "dataLineage": {
@@ -10600,7 +10525,7 @@
                   "@_Sync": "TRUE",
                   "#value": "Simple"
                 },
-                "@_Name": "ARR_AZ"
+                "@_Name": "AZ"
               }
             }
           },
@@ -10611,8 +10536,8 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj). Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</span></p></div></div></div>",
-            "idCredit": "Data byla převzata z hydrotechnických studií, které byly zpracovány specializovanými firmami obvykle na objednávku státních podniků Povodí Labe s.p. a Povodí Ohře s.p. Tyto podniky následně předkládají výsledky studií příslušným vodoprávním úřadům jako podklad pro stanovení záplavových území. \nZáplavové území (Q100) a aktivní zóna se pak stávají údaji o území a poskytovatelem údaje o území příslušný úřad.",
+            "idAbs": "<DIV STYLE=\"text-align:Left;\"><DIV><DIV><P><SPAN>Záplavová území na území Libereckého kraje.</SPAN></P><P><SPAN>Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti.</SPAN></P></DIV></DIV></DIV>",
+            "idCredit": "Data byla převzata z hydrotechnických studií, které byly zpracovány specializovanými firmami obvykle na objednávku státních podniků Povodí Labe s.p. a Povodí Ohře s.p. Tyto podniky následně předkládají výsledky studií příslušným vodoprávním úřadům jako podklad pro stanovení záplavových území. \nZáplavové území (Q100) a aktivní zóna se pak stávají údaji o území a poskytovatelem údaje o území příslušný úřad. \nV atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území. \nHodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) \nHodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. \nUživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.",
             "dataLang": {
               "countryCode": {
                 "@_Sync": "TRUE",
@@ -10730,30 +10655,6 @@
                     }
                   },
                   "displayName": "Ing. Hana Stárková"
-                },
-                {
-                  "rpCntInfo": {
-                    "cntPhone": {
-                      "voiceNum": {
-                        "#value": "+420 485 226 562",
-                        "@_tddtty": ""
-                      }
-                    },
-                    "cntAddress": {
-                      "eMailAdd": "dominika.valeckova@kraj-lbc.cz",
-                      "delPoint": "U Jezu 642/2a",
-                      "city": "Liberec",
-                      "@_addressType": "",
-                      "postCode": "461 80"
-                    }
-                  },
-                  "rpIndName": "Mgr. Dominika Valečková",
-                  "rpOrgName": "Krajský úřad Libereckého kraje, Odbor životního prostředí a zemědělství",
-                  "role": {
-                    "RoleCd": {
-                      "@_value": "002"
-                    }
-                  }
                 }
               ],
               "presForm": {
@@ -10808,25 +10709,6 @@
                 "displayName": "Povodí Ohře s.p."
               }
             ]
-          },
-          "refSysInfo": {
-            "RefSystem": {
-              "refSysID": {
-                "identCode": {
-                  "@_Sync": "TRUE",
-                  "@_code": "5514"
-                },
-                "idCodeSpace": {
-                  "@_Sync": "TRUE",
-                  "#value": "EPSG"
-                },
-                "idVersion": {
-                  "@_Sync": "TRUE",
-                  "#value": "7.7(10.1.0)"
-                }
-              },
-              "@_dimension": ""
-            }
           },
           "eainfo": {
             "detailed": {
@@ -11410,7 +11292,18 @@
                   "#value": "Aktivní zóna záplavového území"
                 }
               },
-              "@_Name": "ARR_AZ"
+              "@_Name": "AZ"
+            }
+          },
+          "refSysInfo": {
+            "RefSystem": {
+              "refSysID": {
+                "identCode": {
+                  "@_code": "3857"
+                },
+                "idCodeSpace": "EPSG"
+              },
+              "@_dimension": ""
             }
           },
           "mdChar": {
@@ -12649,7 +12542,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=f7eec6857ba24208b54ec04e2fc0a97b&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/f7eec6857ba24208b54ec04e2fc0a97b_0",
       "title": "Záplavové území Q100 - stoletá voda - Liberecký kraj",
-      "description": "<div style='text-align:Left;'><div><div><p>Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p><p>Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.</p></div></div></div>",
+      "description": "<div style='text-align:Left;'><div><div><p><span>Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.</span><br />&nbsp;</p></div></div></div>",
       "keyword": [
         "záplavové území",
         "Liberecký kraj",
@@ -12667,7 +12560,7 @@
         "hasEmail": "{{orgContactEmail}}"
       },
       "accessLevel": "public",
-      "spatial": "14.2062,50.3339,15.5363,51.0266",
+      "spatial": "14.1670,50.3139,15.5873,51.0616",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
       "category": [
         "Příroda a krajina"
@@ -12846,7 +12739,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<div style='text-align:Left;'><div><div><p>Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu.</p><p>Data (Q500) byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území (Q100). Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.</p></div></div></div>",
+            "idAbs": "<div style='text-align:Left;'><div><div><p><span>Datová sada s prostorovou lokalizací na území Libereckého kraje. Rozlišení původu dat je uvedeno v atributu POSKYT_UAP, kde hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj) a „N“ označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil. Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.</span><br />&nbsp;</p></div></div></div>",
             "idCredit": "Data byla převzata z hydrotechnických studií zpracovaných jako podklad pro vyhlášení záplavových území.",
             "dataLang": {
               "countryCode": {
