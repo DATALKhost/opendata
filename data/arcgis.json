@@ -979,6 +979,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/1b40d4b146e648cca7ca4dfe9712264b/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -6088,7 +6123,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-10-04T08:08:43.000Z",
-      "modified": "2026-01-15T15:21:54.833Z",
+      "modified": "2026-05-18T09:36:16.987Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -6254,6 +6289,41 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/7d3d454afc7c48ec84931d3469b613e9/sqlite?layers=0"
         }
       ],
       "theme": [
@@ -12211,6 +12281,255 @@
           "format": "GDB",
           "mediaType": "application/geopackage+sqlite3",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/d6a982b7c4b04f23b6a2fbcd99880ad9/sqlite?layers=0"
+        }
+      ],
+      "theme": [
+        "geospatial"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "identifier": "https://www.arcgis.com/home/item.html?id=e0b58c4b5f284ee2aeb978c3c5a2b81b&sublayer=0",
+      "landingPage": "https://www.datalk.cz/datasets/e0b58c4b5f284ee2aeb978c3c5a2b81b_0",
+      "title": "Výskyt invazivního druhu: Bolševník velkolepý",
+      "description": "<p>Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj <a target='_blank' href='https://experience.arcgis.com/experience/f4e2741e4b664c0aa7f926460000b591' rel='nofollow ugc noopener noreferrer'>Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje</a>.</p><p>V &nbsp;Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;</p>",
+      "keyword": [
+        "invazivní",
+        "druh",
+        "Bolševník",
+        "velkolepý",
+        "opendata"
+      ],
+      "issued": "2026-05-14T13:11:13.000Z",
+      "modified": "2026-05-15T11:04:47.631Z",
+      "publisher": {
+        "name": "{{source}}"
+      },
+      "contactPoint": {
+        "@type": "vcard:Contact",
+        "fn": "datalk",
+        "hasEmail": "{{orgContactEmail}}"
+      },
+      "accessLevel": "public",
+      "spatial": "14.9389,50.5851,15.2846,50.8359",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0",
+      "category": [
+        "Příroda a krajina"
+      ],
+      "metadata": {
+        "metadata": {
+          "mdLang": {
+            "languageCode": {
+              "@_Sync": "FALSE",
+              "@_value": "cze"
+            }
+          },
+          "mdFileID": "e0b58c4b5f284ee2aeb978c3c5a2b81b",
+          "distInfo": {
+            "distTranOps": {
+              "onLineSrc": {
+                "linkage": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Invazivni_druh_Bolsevnik/FeatureServer"
+              }
+            },
+            "distFormat": {
+              "formatName": "Feature Service"
+            }
+          },
+          "mdMaint": {
+            "maintFreq": {
+              "MaintFreqCd": {
+                "@_value": "008"
+              }
+            }
+          },
+          "mdDateSt": {
+            "@_Sync": "FALSE",
+            "#value": "2026-05-15"
+          },
+          "Esri": {
+            "ArcGISFormat": 1,
+            "CreaTime": 13111300,
+            "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Feature Service",
+                  "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Invazivni_druh_Bolsevnik/FeatureServer",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=e0b58c4b5f284ee2aeb978c3c5a2b81b",
+                  "itemIdentifier": "e0b58c4b5f284ee2aeb978c3c5a2b81b",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/info/thumbnail/thumbnail1778843471927.png"
+                }
+              }
+            },
+            "ModDate": 20260514,
+            "CreaDate": 20260514,
+            "ModTime": 13111300
+          },
+          "@_xml:lang": "cs",
+          "mdHrLv": {
+            "ScopeCd": {
+              "@_value": "005"
+            }
+          },
+          "dataIdInfo": {
+            "idAbs": "<p>Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj <a target='_blank' href='https://experience.arcgis.com/experience/f4e2741e4b664c0aa7f926460000b591' rel='nofollow ugc noopener noreferrer'>Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje</a>.</p><p>V &nbsp;Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;</p>",
+            "idCredit": "KÚLK, Krajský úřad Libereckého kraje",
+            "dataExt": {
+              "geoEle": [
+                {
+                  "GeoBndBox": {
+                    "eastBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 15.641699
+                    },
+                    "southBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 50.470715
+                    },
+                    "northBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 51.028008
+                    },
+                    "westBL": {
+                      "@_Sync": "FALSE",
+                      "#value": 14.345628
+                    }
+                  }
+                },
+                {
+                  "GeoDesc": {
+                    "exTypeCode": {
+                      "@_Sync": "FALSE",
+                      "#value": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "idCitation": {
+              "resTitle": {
+                "@_Sync": "FALSE",
+                "#value": "Výskyt invazivního druhu: Bolševník velkolepý"
+              }
+            },
+            "dataLang": {
+              "languageCode": {
+                "@_Sync": "FALSE",
+                "@_value": "cze"
+              }
+            },
+            "idPurp": "Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Oficiálním zdrojem je Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje.",
+            "dataChar": {
+              "CharSetCd": {
+                "@_Sync": "FALSE",
+                "@_value": "004"
+              }
+            },
+            "searchKeys": {
+              "keyword": [
+                "invazivní",
+                "druh",
+                "Bolševník",
+                "velkolepý",
+                "opendata"
+              ]
+            },
+            "resConst": {
+              "Consts": {
+                "useLimit": "<p>CC0 1.0</p>"
+              }
+            }
+          },
+          "mdChar": {
+            "CharSetCd": {
+              "@_Sync": "FALSE",
+              "@_value": "004"
+            }
+          }
+        },
+        "?xml": {
+          "@_standalone": "no",
+          "@_encoding": "UTF-8",
+          "@_version": "1.0"
+        }
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS Hub Dataset",
+          "format": "Web Page",
+          "mediaType": "text/html",
+          "accessURL": "https://www.datalk.cz/datasets/e0b58c4b5f284ee2aeb978c3c5a2b81b_0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "ArcGIS GeoService",
+          "format": "ArcGIS GeoServices REST API",
+          "mediaType": "application/json",
+          "accessURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Invazivni_druh_Bolsevnik/FeatureServer/0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "CSV",
+          "format": "CSV",
+          "mediaType": "text/csv",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/csv?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Shapefile",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/shapefile?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoJSON",
+          "format": "GeoJSON",
+          "mediaType": "application/vnd.geo+json",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/geojson?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "KML",
+          "format": "KML",
+          "mediaType": "application/vnd.google-earth.kml+xml",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/kml?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "File Geodatabase",
+          "format": "ZIP",
+          "mediaType": "application/zip",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/filegdb?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Feature Collection",
+          "format": "TXT",
+          "mediaType": "text/plain",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/featureCollection?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Excel",
+          "format": "XLSX",
+          "mediaType": "application/vnd.ms-excel",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/excel?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "GeoPackage",
+          "format": "GPKG",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/geoPackage?layers=0"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "SQLite Geodatabase",
+          "format": "GDB",
+          "mediaType": "application/geopackage+sqlite3",
+          "accessURL": "https://www.datalk.cz/api/download/v1/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/sqlite?layers=0"
         }
       ],
       "theme": [
