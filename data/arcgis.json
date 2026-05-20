@@ -2725,6 +2725,7 @@
             }
           },
           "dataIdInfo": {
+            "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "resMaint": {
               "maintFreq": {
                 "MaintFreqCd": {
@@ -12301,7 +12302,7 @@
         "opendata"
       ],
       "issued": "2026-05-14T13:11:13.000Z",
-      "modified": "2026-05-15T11:04:47.631Z",
+      "modified": "2026-05-19T13:42:21.483Z",
       "publisher": {
         "name": "{{source}}"
       },
