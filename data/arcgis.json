@@ -10222,7 +10222,7 @@
             }
           },
           "dataIdInfo": {
-            "idPurp": "Liberecký kraj nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.",
+            "idPurp": "Liberecký kraj2 nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.",
             "dataChar": {
               "CharSetCd": {
                 "@_Sync": "FALSE",
@@ -12180,6 +12180,7 @@
             }
           },
           "dataIdInfo": {
+            "idPurp": "Liberecký kraj nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.",
             "dataChar": {
               "CharSetCd": {
                 "@_Sync": "FALSE",
