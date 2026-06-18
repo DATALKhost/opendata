@@ -4084,6 +4084,7 @@
                 }
               }
             },
+            "idPurp": "souhrn",
             "dataChar": {
               "CharSetCd": {
                 "@_value": "004"
@@ -4739,7 +4740,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=6da21aeaf4844012929017561edb59be&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/6da21aeaf4844012929017561edb59be_0",
       "title": "Výjezdové základny ZZS LK",
-      "description": "Umístění <b>14 </b>výjezdových základen Zdravotnické záchranné služby Libereckého kraje.<br /><br />Složení posádek, které ze základny vyjíždí:<br /><b>RV</b> - výjezdové skupiny rychlé lékařské pomoci, jejichž členem je lékař<br /><b>RZP</b> - výjezdové skupiny rychlé zdravotnické pomoci, jejichž členy jsou zdravotničtí pracovníci nelékařského zdravotnického povolání.<br /><br />Výjezdové skupiny mohou vykonávat činnost též v rámci setkávacího systému (tzv. Rendez-Vous systému), kdy se na místě události setkávají výjezdové skupiny rychlé lékařské pomoci a rychlé zdravotnické pomoci. Kromě těchto výjezdových skupin je v kraji dostupná i letecká zdravotnická služba (<b>LZS</b>).",
+      "description": "<p>Umístění&nbsp;<strong>14&nbsp;</strong>výjezdových základen Zdravotnické záchranné služby Libereckého kraje.</p><p><br /></p><p>Složení posádek, které ze základny vyjíždí:</p><p><strong>RV</strong>&nbsp;- výjezdové skupiny rychlé lékařské pomoci, jejichž členem je lékař</p><p><strong>RZP</strong>&nbsp;- výjezdové skupiny rychlé zdravotnické pomoci, jejichž členy jsou zdravotničtí pracovníci nelékařského zdravotnického povolání.</p><p><br /></p><p>Výjezdové skupiny mohou vykonávat činnost též v rámci setkávacího systému (tzv.&nbsp;Rendez-Vous systému), kdy se na místě události setkávají výjezdové skupiny rychlé lékařské pomoci a rychlé zdravotnické pomoci. Kromě těchto výjezdových skupin je v kraji dostupná i letecká zdravotnická služba (<strong>LZS</strong>).</p>",
       "keyword": [
         "zdravotnická záchranná služba",
         "záchrana",
@@ -4815,11 +4816,12 @@
           "mdTimeSt": "11:15:44.42",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "Umístění <b>14 </b>výjezdových základen Zdravotnické záchranné služby Libereckého kraje.<br /><br />Složení posádek, které ze základny vyjíždí:<br /><b>RV</b> - výjezdové skupiny rychlé lékařské pomoci, jejichž členem je lékař<br /><b>RZP</b> - výjezdové skupiny rychlé zdravotnické pomoci, jejichž členy jsou zdravotničtí pracovníci nelékařského zdravotnického povolání.<br /><br />Výjezdové skupiny mohou vykonávat činnost též v rámci setkávacího systému (tzv. Rendez-Vous systému), kdy se na místě události setkávají výjezdové skupiny rychlé lékařské pomoci a rychlé zdravotnické pomoci. Kromě těchto výjezdových skupin je v kraji dostupná i letecká zdravotnická služba (<b>LZS</b>).",
+            "idAbs": "<p>Umístění&nbsp;<strong>14&nbsp;</strong>výjezdových základen Zdravotnické záchranné služby Libereckého kraje.</p><p><br /></p><p>Složení posádek, které ze základny vyjíždí:</p><p><strong>RV</strong>&nbsp;- výjezdové skupiny rychlé lékařské pomoci, jejichž členem je lékař</p><p><strong>RZP</strong>&nbsp;- výjezdové skupiny rychlé zdravotnické pomoci, jejichž členy jsou zdravotničtí pracovníci nelékařského zdravotnického povolání.</p><p><br /></p><p>Výjezdové skupiny mohou vykonávat činnost též v rámci setkávacího systému (tzv.&nbsp;Rendez-Vous systému), kdy se na místě události setkávají výjezdové skupiny rychlé lékařské pomoci a rychlé zdravotnické pomoci. Kromě těchto výjezdových skupin je v kraji dostupná i letecká zdravotnická služba (<strong>LZS</strong>).</p>",
             "idCredit": "Zdravotnická záchranná služba Libereckého kraje",
             "idCitation": {
               "resTitle": "Výjezdové základny ZZS LK"
             },
+            "idPurp": "testing",
             "dataChar": {
               "CharSetCd": {
                 "@_value": "004"
