@@ -1,10 +1,10 @@
 import _ from "lodash";
 import _url from 'url';
-import { readJson, writeJson, parseArcgisIdentifier } from '@/helpers';
-import { detectDocumentation, detectMediaType, detectPeriodicity, detectTheme } from '@/mapper';
-import { generateUrl } from '@/generator';
-import { sanitizeText } from "@/sanitizer";
-import * as CONFIG from '@/../config';
+import { readJson, writeJson, parseArcgisIdentifier } from '../helpers.ts';
+import { detectDocumentation, detectMediaType, detectPeriodicity, detectTheme } from '../mapper.ts';
+import { generateUrl } from '../generator.ts';
+import { sanitizeText } from "../sanitizer.ts";
+import * as CONFIG from '../../config.ts';
 
 (async () => {
 	const arcgis: Arcgis.Catalogue = await readJson(CONFIG.ARCGIS_FILE);
