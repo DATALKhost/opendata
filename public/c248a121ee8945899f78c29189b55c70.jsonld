@@ -7,7 +7,7 @@
     "cs": "Aktivní zóna záplavového území - Liberecký kraj"
   },
   "popis": {
-    "cs": "Záplavová území na území Libereckého kraje.Při převodu mezi S-JTSK a WGS84 byla použita transformace S-JTSK_To_WGS_1984_1. Při zpětném převodu je nutné použít stejnou transformaci pro zachování prostorové přesnosti."
+    "cs": "Záplavová území na území Libereckého kraje. V atributu POSKYT_UAP je uvedeno, zda je Krajský úřad Libereckého kraje poskytovatel údaje o území konkrétního záplavového území.&nbsp;Hodnota \"A\" označuje úseky, kde Liberecký kraj je poskytovatelem údaje o území (oficiální údaj)&nbsp;Hodnota \"N\" označuje úseky, které byly převzaty na základě spolupráce s příslušnou obcí s rozšířenou působností, jejíž vodoprávní úřad záplavové území stanovil.&nbsp;Uživatelé by si měli ověřit aktuálnost a oficiální status údajů podle tohoto atributu. Data jsou poskytována jako otevřená bez záruky úplnosti nebo právní závaznosti.Zdrojová data jsou vedena v souřadnicovém systému S-JTSK / Krovak East North (EPSG:5514). Pro publikaci prostřednictvím platformy ArcGIS Online byla data transformována do WGS 1984 Web Mercator Auxiliary Sphere (EPSG:3857) za použití transformační metody S_JTSK_To_WGS_1984_1. Při zpětném převodu doporučujeme použít stejnou transformační metodu."
   },
   "klíčové_slovo": {
     "cs": [
