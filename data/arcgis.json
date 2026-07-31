@@ -12464,9 +12464,7 @@
       "accessLevel": "public",
       "spatial": "14.9389,50.5851,15.2846,50.8359",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": [
-        "Příroda a krajina"
-      ],
+      "category": "{{categories}}",
       "metadata": {
         "metadata": {
           "mdLang": {
