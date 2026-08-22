@@ -6673,7 +6673,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-02-26T16:06:58.000Z",
-      "modified": "2025-04-08T08:23:56.426Z",
+      "modified": "2026-08-21T07:45:07.274Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -6730,6 +6730,13 @@
             "CreaTime": "17:10:35.73",
             "ArcGISstyle": "ISO 19139 Metadata Implementation Specification GML3.2",
             "ArcGISProfile": "ISO19139",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/870170d57cf94784a50600cc63e83415/info/thumbnail/thumbnail1787298403007.png"
+                }
+              }
+            },
             "ModDate": "2024-05-10",
             "CreaDate": "2024-02-26",
             "ModTime": "11:49:17.71",
@@ -6862,41 +6869,6 @@
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "accessURL": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/kml?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "File Geodatabase",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/filegdb?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Feature Collection",
-          "format": "TXT",
-          "mediaType": "text/plain",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/featureCollection?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "Excel",
-          "format": "XLSX",
-          "mediaType": "application/vnd.ms-excel",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/excel?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "GeoPackage",
-          "format": "GPKG",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/geoPackage?layers=0"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "title": "SQLite Geodatabase",
-          "format": "GDB",
-          "mediaType": "application/geopackage+sqlite3",
-          "accessURL": "https://www.datalk.cz/api/download/v1/items/870170d57cf94784a50600cc63e83415/sqlite?layers=0"
         }
       ],
       "theme": [
