@@ -2055,7 +2055,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-05-17T13:12:09.000Z",
-      "modified": "2025-05-26T08:11:49.882Z",
+      "modified": "2026-09-14T09:28:27.550Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -2266,7 +2266,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=34bdb4401c2c4005a3af11690cc4e0a4&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/34bdb4401c2c4005a3af11690cc4e0a4_0",
       "title": "Základní umělecké školy v Libereckém kraji",
-      "description": "Datová sada základních uměleckých škol v Libereckém kraji, včetně jejich poboček. Sada obsahuje jejich adresy, ičo, typ pobočky, souřadnice a webové stránky.",
+      "description": "<p>Datová sada základních uměleckých škol v Libereckém kraji, včetně jejich poboček. Sada obsahuje jejich adresy, ičo, typ pobočky, souřadnice a webové stránky.</p>",
       "keyword": [
         "škola",
         "umělecká",
@@ -2341,7 +2341,7 @@
           "mdTimeSt": "09:59:51.73",
           "@_xml:lang": "en",
           "dataIdInfo": {
-            "idAbs": "Datová sada základních uměleckých škol v Libereckém kraji, včetně jejich poboček. Sada obsahuje jejich adresy, ičo, typ pobočky, souřadnice a webové stránky.",
+            "idAbs": "<p>Datová sada základních uměleckých škol v Libereckém kraji, včetně jejich poboček. Sada obsahuje jejich adresy, ičo, typ pobočky, souřadnice a webové stránky.</p>",
             "idCredit": "KÚ LK, Krajský úřad Libereckého kraje",
             "idCitation": {
               "resTitle": "Základní umělecké školy v Libereckém kraji"
@@ -8191,7 +8191,7 @@
         "Liberecký kraj"
       ],
       "issued": "2024-05-10T11:15:20.000Z",
-      "modified": "2025-05-20T14:28:55.296Z",
+      "modified": "2026-09-14T11:26:15.561Z",
       "publisher": {
         "name": "{{source}}"
       },
