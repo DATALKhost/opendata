@@ -9108,7 +9108,7 @@
         "cs": "Výskyt invazivního druhu: Bolševník velkolepý"
       },
       "popis": {
-        "cs": "Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje.V &nbsp;Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;"
+        "cs": "Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje. V Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;"
       },
       "klíčové_slovo": {
         "cs": [
@@ -9119,7 +9119,9 @@
           "opendata"
         ]
       },
-      "téma": [],
+      "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+      ],
       "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
       "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/vusc/78"

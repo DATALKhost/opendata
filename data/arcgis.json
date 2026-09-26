@@ -12415,7 +12415,7 @@
       "identifier": "https://www.arcgis.com/home/item.html?id=e0b58c4b5f284ee2aeb978c3c5a2b81b&sublayer=0",
       "landingPage": "https://www.datalk.cz/datasets/e0b58c4b5f284ee2aeb978c3c5a2b81b_0",
       "title": "Výskyt invazivního druhu: Bolševník velkolepý",
-      "description": "<p>Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj <a target='_blank' href='https://experience.arcgis.com/experience/f4e2741e4b664c0aa7f926460000b591' rel='nofollow ugc noopener noreferrer'>Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje</a>.</p><p>V &nbsp;Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;</p>",
+      "description": "<p>Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj <a target=\"_blank\" href=\"https://experience.arcgis.com/experience/f4e2741e4b664c0aa7f926460000b591\">Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje</a>. V Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;</p>",
       "keyword": [
         "invazivní",
         "druh",
@@ -12436,7 +12436,9 @@
       "accessLevel": "public",
       "spatial": "14.9389,50.5851,15.2846,50.8359",
       "license": "https://creativecommons.org/publicdomain/zero/1.0",
-      "category": "{{categories}}",
+      "category": [
+        "Příroda a krajina"
+      ],
       "metadata": {
         "metadata": {
           "mdLang": {
@@ -12478,7 +12480,7 @@
                   "resourceURL": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Invazivni_druh_Bolsevnik/FeatureServer",
                   "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=e0b58c4b5f284ee2aeb978c3c5a2b81b",
                   "itemIdentifier": "e0b58c4b5f284ee2aeb978c3c5a2b81b",
-                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/info/thumbnail/thumbnail1778843471927.png"
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/e0b58c4b5f284ee2aeb978c3c5a2b81b/info/thumbnail/thumbnail.JPEG"
                 }
               }
             },
@@ -12493,7 +12495,7 @@
             }
           },
           "dataIdInfo": {
-            "idAbs": "<p>Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj <a target='_blank' href='https://experience.arcgis.com/experience/f4e2741e4b664c0aa7f926460000b591' rel='nofollow ugc noopener noreferrer'>Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje</a>.</p><p>V &nbsp;Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;</p>",
+            "idAbs": "<p>Datová sada obsahuje pouze body výskytu ploch a individuálních rostlin od roku 2023. Pro přesnější popis je možné naštívit oficiální zdroj <a target=\"_blank\" href=\"https://experience.arcgis.com/experience/f4e2741e4b664c0aa7f926460000b591\">Mapování Bolševníku velkolepého na Geoportálu Libereckého kraje</a>. V Libereckém kraji probíhá od roku 2021 mapování bolševníku velkolepého a současně ve spolupráci s vlastníky probíhá jeho likvidace. Bolševník velkolepý patří mezi rizikové nebezpečné druhy, u kterých je vyžadována kompletní eradikace na území ČR. Za prioritní plochy pro likvidaci jsou voleny takové, u kterých je předpokládáno velké riziko dalšího šíření do okolí, tzv. zdrojové lokality (např. vodní toky či silnice, které slouží jako vektory pro semena).&nbsp;</p>",
             "idCredit": "KÚLK, Krajský úřad Libereckého kraje",
             "dataExt": {
               "geoEle": [
