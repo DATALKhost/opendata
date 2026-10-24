@@ -10134,7 +10134,7 @@
         "opendata"
       ],
       "issued": "2024-12-20T12:55:23.000Z",
-      "modified": "2026-09-16T11:22:12.356Z",
+      "modified": "2024-12-20T12:57:52.000Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -10151,34 +10151,46 @@
       ],
       "metadata": {
         "metadata": {
-          "mdMaint": {
-            "maintFreq": {
-              "MaintFreqCd": {
-                "@_value": "007"
-              }
+          "mdFileID": "2a001d117bd64e4eb034dc9ef1bebe20",
+          "distInfo": {
+            "distFormat": {
+              "formatName": "Microsoft Excel"
             }
           },
           "Esri": {
             "ArcGISFormat": 1,
-            "ArcGISProfile": "ISO19139"
-          },
-          "mdHrLv": {
-            "ScopeCd": {
-              "@_value": "005"
-            }
-          },
-          "dataIdInfo": {
-            "idPurp": "Liberecký kraj2 nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.",
-            "dataChar": {
-              "CharSetCd": {
-                "@_Sync": "FALSE",
-                "@_value": "004"
+            "CreaTime": 12552100,
+            "ArcGISProfile": "DCPLUS",
+            "DataProperties": {
+              "itemProps": {
+                "portalDetails": {
+                  "itemType": "Microsoft Excel",
+                  "itemDetailsURL": "https://www.arcgis.com/home/item.html?id=2a001d117bd64e4eb034dc9ef1bebe20",
+                  "itemIdentifier": "2a001d117bd64e4eb034dc9ef1bebe20",
+                  "thumbnailURL": "https://www.arcgis.com/sharing/rest/content/items/2a001d117bd64e4eb034dc9ef1bebe20/info/thumbnail/ago_downloaded.png"
+                }
               }
-            }
+            },
+            "ModDate": 20241220,
+            "CreaDate": 20241220,
+            "ModTime": 12552100
           },
-          "mdChar": {
-            "CharSetCd": {
-              "@_value": "004"
+          "@_xml:lang": "en",
+          "dataIdInfo": {
+            "idCitation": {
+              "date": {
+                "reviseDate": "2024-12-20T12:57:52",
+                "createDate": "2024-12-20T12:55:21"
+              },
+              "resTitle": "Regionální výrobci Libereckého kraje"
+            },
+            "idPurp": "Liberecký kraj nabízí pestrou přírodu a stejně tak jsou rozmanití místní výrobci a producenti.",
+            "searchKeys": {
+              "keyword": [
+                "výrobce",
+                "regionální",
+                "opendata"
+              ]
             }
           }
         },
