@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://open.datalk.cz/b01f1452d19d43db9706e12b3c2efcfc.jsonld",
+  "iri": "https://open.datalk.cz/08ca6b7353ae49da9ed53009c6ba9f07.jsonld",
   "typ": "Datová sada",
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/70891508",
   "název": {
@@ -11,9 +11,9 @@
   },
   "klíčové_slovo": {
     "cs": [
+      "opendata",
       "výrobce",
-      "regionální",
-      "opendata"
+      "regionální"
     ]
   },
   "téma": [
@@ -26,12 +26,12 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/datasets/b01f1452d19d43db9706e12b3c2efcfc_0",
+      "iri": "https://www.datalk.cz/datasets/08ca6b7353ae49da9ed53009c6ba9f07_0",
       "název": {
         "cs": "ArcGIS Hub Dataset"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/datasets/b01f1452d19d43db9706e12b3c2efcfc_0",
-      "přístupové_url": "https://www.datalk.cz/datasets/b01f1452d19d43db9706e12b3c2efcfc_0",
+      "soubor_ke_stažení": "https://www.datalk.cz/datasets/08ca6b7353ae49da9ed53009c6ba9f07_0",
+      "přístupové_url": "https://www.datalk.cz/datasets/08ca6b7353ae49da9ed53009c6ba9f07_0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/HTML",
       "podmínky_užití": {
@@ -44,12 +44,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_v%C3%BDrobci_Libereck%C3%A9ho_kraje2/FeatureServer/0",
+      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_v%C3%BDrobci_Libereck%C3%A9ho_kraje_2/FeatureServer/0",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_v%C3%BDrobci_Libereck%C3%A9ho_kraje2/FeatureServer/0",
-      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_v%C3%BDrobci_Libereck%C3%A9ho_kraje2/FeatureServer/0",
+      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_v%C3%BDrobci_Libereck%C3%A9ho_kraje_2/FeatureServer/0",
+      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Region%C3%A1ln%C3%AD_v%C3%BDrobci_Libereck%C3%A9ho_kraje_2/FeatureServer/0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
@@ -62,12 +62,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/csv?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/csv?layers=0",
       "název": {
         "cs": "CSV"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/csv?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/csv?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/csv?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/csv?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
       "podmínky_užití": {
@@ -80,12 +80,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/shapefile?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/shapefile?layers=0",
       "název": {
         "cs": "Shapefile"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/shapefile?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/shapefile?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/shapefile?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/shapefile?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -98,12 +98,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geojson?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/geojson?layers=0",
       "název": {
         "cs": "GeoJSON"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geojson?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geojson?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/geojson?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/geojson?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.geo+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GEOJSON",
       "podmínky_užití": {
@@ -116,12 +116,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/kml?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/kml?layers=0",
       "název": {
         "cs": "KML"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/kml?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/kml?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/kml?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/kml?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/KML",
       "podmínky_užití": {
@@ -134,12 +134,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/filegdb?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/filegdb?layers=0",
       "název": {
         "cs": "File Geodatabase"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/filegdb?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/filegdb?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/filegdb?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/filegdb?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
       "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP",
       "podmínky_užití": {
@@ -152,12 +152,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/featureCollection?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/featureCollection?layers=0",
       "název": {
         "cs": "Feature Collection"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/featureCollection?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/featureCollection?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/featureCollection?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/featureCollection?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/text/plain",
       "formát": "http://publications.europa.eu/resource/authority/file-type/TXT",
       "podmínky_užití": {
@@ -170,12 +170,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/excel?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/excel?layers=0",
       "název": {
         "cs": "Excel"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/excel?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/excel?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/excel?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/excel?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX",
       "podmínky_užití": {
@@ -188,12 +188,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geoPackage?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/geoPackage?layers=0",
       "název": {
         "cs": "GeoPackage"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geoPackage?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/geoPackage?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/geoPackage?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/geoPackage?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GDB",
       "podmínky_užití": {
@@ -206,12 +206,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/sqlite?layers=0",
+      "iri": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/sqlite?layers=0",
       "název": {
         "cs": "SQLite Geodatabase"
       },
-      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/sqlite?layers=0",
-      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/b01f1452d19d43db9706e12b3c2efcfc/sqlite?layers=0",
+      "soubor_ke_stažení": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/sqlite?layers=0",
+      "přístupové_url": "https://www.datalk.cz/api/download/v1/items/08ca6b7353ae49da9ed53009c6ba9f07/sqlite?layers=0",
       "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
       "formát": "http://publications.europa.eu/resource/authority/file-type/GDB",
       "podmínky_užití": {
