@@ -4589,7 +4589,7 @@
         "opendata"
       ],
       "issued": "2026-01-28T14:30:14.000Z",
-      "modified": "2026-03-03T12:24:51.655Z",
+      "modified": "2026-10-27T14:41:00.820Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -4668,6 +4668,7 @@
                 "@_value": "cze"
               }
             },
+            "idPurp": "",
             "dataChar": {
               "CharSetCd": {
                 "@_Sync": "FALSE",
@@ -6102,7 +6103,7 @@
         "opendata"
       ],
       "issued": "2024-11-05T13:12:40.000Z",
-      "modified": "2026-03-03T12:26:06.468Z",
+      "modified": "2026-10-27T14:47:38.936Z",
       "publisher": {
         "name": "{{source}}"
       },
@@ -6177,6 +6178,7 @@
             "idCitation": {
               "resTitle": "Zámky v Libereckém kraji"
             },
+            "idPurp": "",
             "dataChar": {
               "CharSetCd": {
                 "@_value": "004"
