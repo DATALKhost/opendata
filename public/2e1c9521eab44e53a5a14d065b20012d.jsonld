@@ -49,12 +49,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_baz%C3%A9ny_a_dal%C5%A1%C3%AD_m%C3%ADsta_na_koup%C3%A1n%C3%AD/FeatureServer/0",
+      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_bazény_a_další_místa_na_koupání/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_baz%C3%A9ny_a_dal%C5%A1%C3%AD_m%C3%ADsta_na_koup%C3%A1n%C3%AD/FeatureServer/0",
-      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_baz%C3%A9ny_a_dal%C5%A1%C3%AD_m%C3%ADsta_na_koup%C3%A1n%C3%AD/FeatureServer/0",
+      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_bazény_a_další_místa_na_koupání/FeatureServer",
+      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Aquaparky_a_bazény_a_další_místa_na_koupání/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {

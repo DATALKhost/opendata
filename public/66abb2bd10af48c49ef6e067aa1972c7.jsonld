@@ -49,12 +49,12 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/St%C5%99edn%C3%AD_%C5%A1koly_ur%C4%8Den%C3%A9_k_poskytov%C3%A1n%C3%AD_jazykov%C3%A9_p%C5%99%C3%ADpravy/FeatureServer/0",
+      "iri": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Střední_školy_určené_k_poskytování_jazykové_přípravy/FeatureServer",
       "název": {
         "cs": "ArcGIS GeoService"
       },
-      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/St%C5%99edn%C3%AD_%C5%A1koly_ur%C4%8Den%C3%A9_k_poskytov%C3%A1n%C3%AD_jazykov%C3%A9_p%C5%99%C3%ADpravy/FeatureServer/0",
-      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/St%C5%99edn%C3%AD_%C5%A1koly_ur%C4%8Den%C3%A9_k_poskytov%C3%A1n%C3%AD_jazykov%C3%A9_p%C5%99%C3%ADpravy/FeatureServer/0",
+      "soubor_ke_stažení": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Střední_školy_určené_k_poskytování_jazykové_přípravy/FeatureServer",
+      "přístupové_url": "https://services7.arcgis.com/46Lck1orT7mvuzK5/arcgis/rest/services/Střední_školy_určené_k_poskytování_jazykové_přípravy/FeatureServer",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
       "podmínky_užití": {
